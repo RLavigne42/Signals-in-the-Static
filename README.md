@@ -1,5 +1,17 @@
 ﻿# Signals-in-the-Static
 
+This is **Charlotte**, from **the Red Griffin Inn** in **Oakhaven**—and you’re listening to **“Signals in the Static.”**
+
+Thirty years after **the Disconnect**, the world still hums with the ghosts of dead networks: **silent satellites**, **dark screens**, and cities that learned to live without the comfort of a signal. Out here, information travels the old way—**by voice, by paper, by radio**, and by the courage of whoever’s willing to carry it.
+
+In every broadcast, a new thread: a **tattered map**, a **glowing arcade**, a rumor of a **sealed bunker** with pre-Disconnect secrets still breathing in the dark. Four factions circle the same embers—**Signal Seekers**, **Tech Nomads**, **the Analog Order**, and **Nostalgists**—each certain they’re the ones who should decide what comes next.
+
+So if you’ve got a working dial and a quiet place to listen… **tune in**.
+
+Because in a world without signals, the most dangerous thing isn’t silence.
+
+It’s the moment the static starts to **answer back**.
+
 ## **“Signals in the Static” — Output Guide (Charlotte’s Radio Serial)**  
 **Setting:** 2030, *The Disconnected Frontier* (post-Disconnect).  
 **Format:** Audio-first transcript (even when delivered in markdown).  
@@ -115,3 +127,4 @@ If you ask, I can also produce:
 - **Radio-safe teaser** (10–20 seconds of copy)
 
 ---
+
