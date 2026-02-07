@@ -10,7 +10,7 @@ It was a **promise**.
 
 And a **trap**, if the wrong eyes noticed.
 
-The **Glitch Palace** rose from the rubble like a shrine someone refused to let die. A flickering neon marquee buzzed and stuttered—**GLITCH PLACE**—casting pink-and-cyan bruises across the street. The air tasted like **ozone and dust**, and somewhere inside, a **sub-bass synth thump** leaked through boarded windows, steady as a heartbeat.
+The **Glitch Palace** rose from the rubble like a shrine someone refused to let die. A flickering neon marquee buzzed and stuttered—**GLITCH PALACE**—casting pink-and-cyan bruises across the street. The air tasted like **ozone and dust**, and somewhere inside, a **sub-bass synth thump** leaked through boarded windows, steady as a heartbeat.
 
 At the entrance stood a pair of **Nostalgist bouncers** in scavenged letterman jackets and mirrored shades. One spun a cassette pencil-tight with ritual care. The other rested a hand on a bat wrapped in vinyl tape, as if it was sacred.
 
