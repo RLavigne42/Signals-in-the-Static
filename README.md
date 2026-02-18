@@ -1,5 +1,6 @@
 ﻿# Signals-in-the-Static
 
+(https://poptics.tv/m3u8)
 (https://app.viloud.tv/hls/channel/9b800fdf2a740084802567c106460f65.m3u8)
 
 This is **Charlotte**, from **the Red Griffin Inn** in **Oakhaven**—and you’re listening to **“Signals in the Static.”**
@@ -129,5 +130,6 @@ If you ask, I can also produce:
 - **Radio-safe teaser** (10–20 seconds of copy)
 
 ---
+
 
 
