@@ -1,62 +1,59 @@
-This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven.
+### Episode 02: Rituals of Entry
 
-You’re tuned to **Signals in the Static**—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
+This is **Charlotte**, broadcasting from **The Red Griffin Inn** in **Oakhaven**.
 
-Tonight’s installment brings us to a place that calls itself the Glitch Palace.
+You’re tuned to **“Signals in the Static”**—a radio serial from the **Disconnected Frontier**, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
 
-The sign out front can’t quite hold together—GLITCH PALACE—buzzing and stuttering like it’s trying to remember what it used to be. Neon spills across the street and turns dust into glitter. Somewhere inside, synth bass thumps like a second heartbeat.
+Tonight’s installment brings us right up to the neon threshold of the Glitch Palace.
 
-Alex steps out first, letting the light wash over his battered jacket like a stage cue. He doesn’t reach for a map. He doesn’t flash a relic. He just meets the bouncer’s mirrored shades with the calm of someone who’s spent years living in other people’s decades.
+The sign out front couldn’t quite hold together—**GLITCH PALACE**—buzzing and stuttering like it was trying to remember what it used to be. Neon spilled across the street, turning the dust into glitter. Somewhere inside, synth bass thumped like a second heartbeat.
 
-The taller Nostalgist cracks his knuckles once.
+Alex stepped out first, letting the light wash over his battered jacket like a stage cue. He didn’t reach for a map. He didn’t flash a relic. He just met the bouncer’s mirrored shades with the calm of someone who’s spent years living in other people’s decades.
+
+The taller Nostalgist cracked his knuckles once.
 
 “State. Your. Vibe.”
 
-Alex takes a breath that tastes like dust and ozone, and answers in a practiced, friendly cadence.
+Alex took a breath that tasted like dust and ozone, and answered in a practiced, friendly cadence.
 
 “If the world ended in the eighties, then we’re all still on side B. You don’t skip tracks—you flip the tape.”
 
-For a moment, the only sound is the flicker-buzz of the sign and the distant music behind the door.
+For a moment, the only sound was the flicker-buzz of the sign and the distant music behind the door.
 
-The bouncer’s mouth twitches—almost a smile.
+The bouncer’s mouth twitched—almost a smile.
 
 “Cute. But cute ain’t entry.”
 
-He jerks his chin toward a hand-painted placard nailed to a speaker cabinet:
+He jerked his chin toward a hand-painted placard nailed to a speaker cabinet. It read: *RITUALS OF ENTRY. THE PASSWORD: 80s TRIVIA. THE CHALLENGE: HIGH SCORE. THE BARTER: RELIC OFFERING.*
 
-*RITUALS OF ENTRY*  
-*THE PASSWORD (80s TRIVIA)*  
-*THE CHALLENGE (HIGH SCORE)*  
-*THE BARTER (RELIC OFFERING)*
-
-He taps the first line with the cassette he’s been spinning.
+He tapped the first line with the cassette he’d been spinning.
 
 “Password, then. One question. No stalling.”
 
-The shorter bouncer leans in, voice low like a DJ cueing a track.
+The shorter bouncer leaned in, his voice low like a DJ cueing a track.
 
 “Name the movie where the kid says: ‘Roads? Where we’re going, we don’t need roads.’ And—bonus—what’s the car?”
 
-Mila’s eyes flash with recognition. Nolan’s gaze keeps drifting to the rooftop line, shoulders tight, like he’s counting angles and exits instead of listening to the game.
+Mila’s eyes flashed with instant recognition. But Nolan’s gaze kept drifting to the rooftop line, his shoulders tight, like he was counting angles and exits instead of listening to the game.
 
-Across the street, a shape shifts behind a broken billboard—
+Because across the street, a shape shifted behind a broken billboard.
 
-Then stills.
+Then stilled.
 
 Watching.
 
-Alex can feel it: the longer they linger at the door, the more likely the wrong eyes clock their gear, their faces, their intent. The Glitch Palace bouncers aren’t just testing trivia. They’re testing control. They want to know who’s real, and who’s trouble.
+Alex could feel it: the longer they lingered at the door, the more likely the wrong eyes would clock their gear, their faces, their intent. The Glitch Palace bouncers weren’t just testing trivia. They were testing control. They wanted to know who was real, and who was trouble.
 
-And now the moment hangs on a single answer.
+And now, the moment hangs on a single answer.
 
-So tell me—what happens next?
+So tell me, traveler—what happens next?
 
-Does **Alex**:
+Will **Alex** answer clean and fast, delivering the movie title and the car with a true Nostalgist flourish?
 
-- Answer clean and fast—give the quote’s movie title and the car, with a Nostalgist flourish.
-- Play it diplomatic—answer the movie, admit the car with a grin, and offer a follow-up reference to prove authenticity.
-- Let Mila whisper the answer and add a tiny “vibe tag,” a second related reference, to lock the bouncers into letting them through before the watcher decides to move.
+Will he play it diplomatic, answering the movie with a grin, and offering a follow-up reference to prove his authenticity?
 
-This is Charlotte, signing off from the Red Griffin Inn.
+Will **Nolan** silently signal Alex to wrap it up, stepping between his crew and the street to keep his eyes locked on whatever is hunting from the rooftops?
 
-Keep your voice steady at the door. And keep one ear on the street.
+Or will **Mila** whisper the answer to Alex, adding her own tiny vibe tag to lock the bouncers into letting them through before the watcher decides to make a move?
+
+This is **Charlotte**, signing off from **The Red Griffin Inn**. Keep your voice steady at the door. And keep one ear on the street.
