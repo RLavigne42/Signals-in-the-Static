@@ -1,8 +1,8 @@
 This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven.
 
-You’re tuned to Signals in the Static—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
+You’re tuned to **Signals in the Static**—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
 
-The Glitch Palace doesn’t welcome you. It tests you.
+The **GLITCH PALACE** doesn’t welcome you. It tests you.
 
 Inside, neon bleeds across cracked tile. CRTs flicker like tired eyes. Coin-chimes and synth stabs ricochet off the walls in a constant, restless chorus. Nostalgists drift between cabinets like worshippers, jackets patched with band logos and arcade tokens sewn on like medals.
 
@@ -10,7 +10,7 @@ But the trio doesn’t drift.
 
 They move with purpose—past the dance pads worn down to foam, past a Pac-Man cabinet with a hand-painted halo, past a row of machines that hum like they’re dreaming.
 
-Nolan keeps half a step behind, not because he’s afraid—because he’s measuring. Doorways. Sightlines. The way the crowd parts and closes again like a living curtain. He glances once toward the front entrance, as if expecting the rooftop watcher to have found a way inside.
+Nolan keeps half a step behind, not because he’s afraid—because he’s measuring. Doorways. Sightlines. The way the crowd parts and closes again like a living curtain. He glances once toward the front entrance, as if expecting the watcher from outside to have found a way in.
 
 Mila’s eyes don’t stop moving. She reads the room the way she reads circuits: what’s powered, what’s patched, what’s about to fail.
 
@@ -22,8 +22,8 @@ A hulking cabinet sits under a tarp stitched from denim and bandanas, like someo
 
 Above it, spray paint in dripping strokes:
 
-THE MACHINE ORACLE
-ASK CLEAN. PAY CLEAN. LEAVE CLEAN.
+**THE MACHINE ORACLE**  
+**ASK CLEAN. PAY CLEAN. LEAVE CLEAN.**
 
 An attendant blocks the stool with a broom handle. Glitter on their cheeks. Hair teased into an impossible silhouette. Their gaze flicks over the trio—fast, practiced, and not fooled by confidence.
 
@@ -33,7 +33,7 @@ Mila’s fingers twitch, already wanting to lift the tarp, already wanting to se
 
 And then—beneath the bass thump, beneath the coin-chimes, beneath the laughter—
 
-static.
+**static.**
 
 Not from the speakers.
 
@@ -61,15 +61,15 @@ And now the moment hangs on what they choose to feed the machine… before the m
 
 So tell me—what happens next?
 
-Does Alex:
-
+Does **Alex**:  
 Offer a careful story and a single clean question—diplomacy and lore, no extra payment, no extra risk.
-Does Mila:
 
+Does **Mila**:  
 Step in and inspect the Oracle’s wiring—stabilize it with her own hands, even if touching it breaks a sacred rule.
-Does Nolan:
 
+Does **Nolan**:  
 Work the room—quietly barter for Oracle tokens or favors, keep the relic hidden, and find out who really controls access before the static turns into something worse.
+
 This is Charlotte, signing off from the Red Griffin Inn in Oakhaven.
 
 Keep your voice steady near machines that remember. And keep one ear on the noise beneath the music.
