@@ -1,4 +1,6 @@
-﻿# Signals-in-the-Static
+# Signals in the Static  
+## A radio serial from the Disconnected Frontier
+
 
 (https://poptics.tv/m3u8)
 (https://app.viloud.tv/hls/channel/9b800fdf2a740084802567c106460f65.m3u8)
@@ -130,6 +132,7 @@ If you ask, I can also produce:
 - **Radio-safe teaser** (10–20 seconds of copy)
 
 ---
+
 
 
 
