@@ -1,0 +1,43 @@
+Your Choices
+Mila: Try a forensic recovery—use pencil rub/pressure tracing and a quick mechanical tweak on the dot-matrix to coax the next feed to echo the missing digits.
+Alex: Pay the promised “truth”—tell the attendant a compelling, specific story (real names, real loss) to earn one more controlled attempt without breaking the ritual.
+Nolan: Cut the spotlight—pull the trio away from the Oracle chamber and into the crowd, then quietly question regulars about “Sundown Ridge” and “East of the Glass.”
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 04:40:28 UTC---model: gpt-5.2---temp: 0.70---
+Machine Oracle | Recap
+Alex pays clean—exactly what he promised.
+He doesn’t reach for the map. He doesn’t try to bargain with metal. He looks the attendant in the eye, under the stitched denim tarp and the Oracle’s sickly green glow, and gives them a truth with weight.
+“Before the Disconnect,” he says, voice low enough that the main floor’s synth thump can’t steal it, “I cataloged things nobody thought mattered. Commercial jingles. Home-recorded mixtapes. Local news broadcasts. The tiny stuff people laughed at—until the day the world went quiet and that tiny stuff became the only way to remember a voice.”
+He swallows. The cassette-ribbon curtain behind you whispers as someone passes.
+“My sister used to label everything in block letters. SIDE A. SIDE B. When the grids died, she kept labeling anyway—like naming it could keep it real.” Alex taps the creased J-card he offered earlier. “I’m still doing it. I’m still trying to keep what’s left from getting… erased.”
+The attendant’s glitter looks less like costume for a second and more like dried tears. Their grip on the broom handle loosens.
+“One more,” they say. “Controlled. Clean. You ask smaller. You don’t make it hungry.”
+They feed a fresh strip into the dot-matrix, hands practiced like a projectionist threading film. The Oracle’s fan whines; the screen jitters; that faint carrier shiver crawls up Mila’s spine again—static that shouldn’t exist—but it stays at the edge, not breaking into voices.
+Alex leans in and asks the smaller question, careful as placing a needle on vinyl: “‘East of the Glass’—what is the Glass?”
+The printer chatters. This time it doesn’t burn. It stamps.
+THE GLASS = FUSED INTERCHANGE
+SUNDOWN RIDGE: FOLLOW THE OLD RAIL
+BEARING MARK: 071 (NE)
+The attendant tears the strip off and folds it twice, like it’s sacred paper. “That’s all,” they warn. “Don’t make it cough again.”
+Nolan exhales through his nose—relieved, but not relaxed. “071 NE… that’s a line we can walk.”
+Mila’s eyes stay on the Oracle a beat too long. “And that ‘fused interchange’… glass desert. Heat-blasted. Makes sense.”
+From the main floor comes a new sound under the music: a low murmur, like a crowd noticing a storm coming. Someone’s asking, too loudly, who’s been in the side chamber.
+State Machine
+current_step: 2 — Machine Oracle
+checkpoints: Inside
+clues: mapauth 0 | locconf 2 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Breakpoint already triggered: Static.)
+heat: 0
+supplies: 0
+Approach Hooks
+Exit smart: Leave the Oracle chamber like you belong—no rushing, no huddling—so the whisper-network can’t pin you as outsiders.
+Convert attention into cover: A quick conversation with a regular can turn “Who are they?” into “Oh, they’re with us.”
+Use the new bearing immediately: The sooner you move, the less time anyone has to connect your faces to the Oracle’s paper.
+Your Choices
+Nolan: Lead a quiet exit through the crowd—use body language and misdirection to slip the trio out before the questions turn into suspicion.
+Mila: Ask permission to step to a back room and sketch the bearing + rail note onto a sturdier medium (and listen for that static source while you do).
+Alex: Stay one more minute—thank the attendant publicly and perform a “vibe” story for nearby Nostalgists to frame your Oracle visit as harmless devotion, not a data grab.
+What will you do?
