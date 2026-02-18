@@ -2,68 +2,74 @@ This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven.
 
 You’re tuned to **Signals in the Static**—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
 
-Tonight’s installment keeps us inside the Glitch Palace—past the neon threshold, past the ritual bouncers, past the thump of synth bass that makes the floor feel alive.
+The **GLITCH PALACE** doesn’t welcome you. It tests you.
 
-Out on the street, the sign still can’t hold itself together—**GLI_TCH**—buzzing like a thought that won’t finish. In here, the light is older. Greenish. Phosphor-tinted. The kind of glow that belongs to tired screens and stubborn machines that refuse to die just because the world did.
+Inside, neon bleeds across cracked tile. CRTs flicker like tired eyes. Coin-chimes and synth stabs ricochet off the walls in a constant, restless chorus. Nostalgists drift between cabinets like worshippers, jackets patched with band logos and arcade tokens sewn on like medals.
 
-The Palace is a maze of patched power: extension cords like black vines, junction boxes bolted to brick, hand-lettered warnings taped over cracked outlets. Every few seconds, a transformer somewhere in the walls gives a strained little whine, and the neon flutters—just enough to remind you that electricity in 2030 is never a promise. It’s a negotiation.
+But the trio doesn’t drift.
 
-Deep in the back, away from the loudest cabinets and the dance-floor shimmer, there’s a side chamber that feels like a held breath.
+They move with purpose—past the dance pads worn down to foam, past a Pac-Man cabinet with a hand-painted halo, past a row of machines that hum like they’re dreaming.
 
-A tarp—stitched from denim and bandanas—hangs over a bulky shape. The cloth is faded, smoke-stained, and reverent, like a blanket over a body. Beneath it, something hums: a low vibration that you feel in your teeth more than your ears.
+Nolan keeps half a step behind, not because he’s afraid—because he’s measuring. Doorways. Sightlines. The way the crowd parts and closes again like a living curtain. He glances once toward the front entrance, as if expecting the watcher from outside to have found a way in.
 
-Painted above the tarp in dripping letters:
+Mila’s eyes don’t stop moving. She reads the room the way she reads circuits: what’s powered, what’s patched, what’s about to fail.
 
-**ASK CLEAN.  
-PAY CLEAN.  
-LEAVE CLEAN.**
+Alex keeps his shoulders loose, his face calm, like he’s done this before—like he knows the difference between a place that’s playing at being a temple and a place that believes it is one.
 
-The tarp lifts.
+They find the side chamber on the far edge of the noise, where the music dulls and the air feels older.
 
-A screen wakes up with a sickly green bloom. Scanlines crawl. The glow leaks into the dust and turns it into slow-floating sparks. A dot-matrix printer—side-mounted, half-rusted, lovingly maintained—kicks once, like a mule testing its footing.
+A hulking cabinet sits under a tarp stitched from denim and bandanas, like someone tried to make a shrine out of whatever cloth they had left. A Commodore 64 keyboard has been grafted into its face—keys yellowed, letters half-worn away, but still waiting to be pressed.
 
-Then it starts.
+Above it, spray paint in dripping strokes:
 
-The printer chatters in sharp little bursts—tiny impacts like rain on a tin roof—spitting out a strip of paper that smells faintly of hot ink and old plastic. The sound cuts through the bass like a knife through fabric.
+**THE MACHINE ORACLE**  
+**ASK CLEAN. PAY CLEAN. LEAVE CLEAN.**
 
-For a moment, it feels like the old world is speaking again.
+An attendant blocks the stool with a broom handle. Glitter on their cheeks. Hair teased into an impossible silhouette. Their gaze flicks over the trio—fast, practiced, and not fooled by confidence.
 
-Then the feed catches.
+“Oracle time ain’t free,” they say. “What’re you feeding it—truth, talent… or treasure?”
 
-A hard snap of static cracks the air—too clean, too sharp, too *radio* to belong in a room that’s supposed to be nothing but nostalgia and noise. The green screen jitters. The printer stutters, chews, and stops with a frustrated whine.
+Mila’s fingers twitch, already wanting to lift the tarp, already wanting to see the wiring underneath. Alex feels the map in his coat like a second heartbeat—warm, insistent, dangerous. Nolan shifts his stance so he can watch the doorway without looking like he’s guarding it.
 
-When the paper tears free, the edges are scorched—brown-black curls, as if the answer came out too close to flame.
+And then—beneath the bass thump, beneath the coin-chimes, beneath the laughter—
 
-What’s left is still readable. Still useful. Still dangerous.
+**static.**
 
-On the strip:
+Not from the speakers.
 
-**SUNDOWN RIDGE** — clear as a road sign.  
-**EAST OF THE GLASS** — clear as a warning.  
-A third line—numbers—burned into illegibility, the ink blistered and broken like a memory that won’t stay put.
+From somewhere deeper in the building, thin as a whisper and sharp as a blade.
 
-The Oracle’s glow steadies again, but the air doesn’t.
+The attendant’s expression changes. Just a fraction. Like they heard it too.
 
-Under the music, under the hum of patched power, that thin wrongness lingers—like a carrier tone between stations. Not loud enough to point at. Sharp enough to feel.
+“Careful,” they murmur, voice dropping. “The Oracle don’t like being rushed.”
 
-And the Glitch Palace notices.
+The tarp stirs.
 
-From the main floor comes a ripple: a brief hush, then whispers sliding through the crowd like a rumor on roller skates.
+Not from a draft.
 
-“Oracle spat paper.”
+From inside.
 
-In a place like this, attention is its own kind of currency. It buys you doors. It buys you trouble. Sometimes both at once.
+A sickly green glow leaks out at the edges, like an old monitor waking up in a room that swore it was dead. The Commodore keys click once—by themselves—as if something unseen just tested a letter.
 
-And now the moment hangs—on a half-answer, on a burned line of numbers, on the question of what you do before the Palace decides you’ve taken more than you paid for.
+Mila freezes mid-reach.
+
+Alex’s hand tightens on the map through his coat.
+
+Nolan’s eyes cut to the doorway—because the static is getting louder, and the bass is starting to sound like it’s trying to cover it up.
+
+And now the moment hangs on what they choose to feed the machine… before the machine decides to feed on them.
 
 So tell me—what happens next?
 
-Do you:
+Does **Alex**:  
+Offer a careful story and a single clean question—diplomacy and lore, no extra payment, no extra risk.
 
-**1) Try to salvage the burn**—work the paper like a crime scene, coaxing the missing digits back from pressure marks and faint impressions.  
-**2) Pay the promised truth**—offer a story so specific it can’t be faked, and earn one more clean attempt without breaking the ritual.  
-**3) Cut the spotlight**—leave the Oracle chamber, melt into the crowd, and find out who really controls “Sundown Ridge” and “East of the Glass.”
+Does **Mila**:  
+Step in and inspect the Oracle’s wiring—stabilize it with her own hands, even if touching it breaks a sacred rule.
 
-This is Charlotte, signing off from the Red Griffin Inn.
+Does **Nolan**:  
+Work the room—quietly barter for Oracle tokens or favors, keep the relic hidden, and find out who really controls access before the static turns into something worse.
 
-Keep your questions clean. And keep one ear on the static.
+This is Charlotte, signing off from the Red Griffin Inn in Oakhaven.
+
+Keep your voice steady near machines that remember. And keep one ear on the noise beneath the music.
