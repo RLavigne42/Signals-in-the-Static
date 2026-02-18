@@ -1,0 +1,61 @@
+Decision Point
+
+Nolan: Lead a wide, low crawl along the collapsed storefront line—use rubble as cover and time the crossing when the patrol’s backs turn.
+Mila: Rig a quick decoy—hang reflective scraps on wire to draw eyes and poles toward a false “relic glint” off-route.
+Alex: Walk out openly as if you’re simple scavengers—use calm diplomacy and 80s-laced small talk to avoid a search if you’re challenged.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:57:05 UTC---model: gpt-5.2---temp: 0.70---
+
+Glass Desert | Recap
+
+Alex chooses the most dangerous weapon in the wastes: normal.
+He steps out onto the shimmering slag with his hands visible and his shoulders loose, walking like a man who’s spent his whole life crossing bad neighborhoods without giving them the satisfaction of fear. The ground crunches—glass and old storefront teeth—broadcasting your presence in a thousand tiny snaps.
+Mila and Nolan follow half a step behind, close enough to look like a single scavenging unit, not a tactical team. Mila keeps her compass hidden under her coat, but her body stays aligned with that wax-marked truth: 071° NE. Nolan’s eyes never stop moving—ridge line, rebar spike, patrol poles, the space where an ambush would *want* to live.
+The two Analog Order figures turn as one. Robes the color of ash. Faces half-wrapped. Their poles scrape the ground in slow arcs, like they’re divining sin from the earth.
+“Stop,” one calls. His voice is dry, practiced. “State your purpose in the Dead Zone.”
+Alex doesn’t flinch. He lets the wind do some of the talking—vinyl scraps snapping, a faint static hiss riding the air like an old TV between channels.
+“Scavengers,” Alex says, calm. “Looking for scrap and shade. No relic worship. No sparks.”
+The nearer robed figure steps closer, eyes narrowing at Alex’s satchel—at the shape of paper, the hint of something *kept*.
+“Paper’s a relic,” he says. “Words are infection.”
+Nolan shifts a fraction, ready to move. Mila’s jaw tightens—engineer’s anger held behind teeth.
+Alex goes softer, not weaker. “Then burn your own scriptures first.”
+For a beat, the patrolman’s grip tightens on his pole. Wind skates over glass. Somewhere far off, a metal sign swings on one bolt—*clink… clink…*
+This can go three ways: you talk them down, you distract and slip, or you get marked.
+
+Reactivity
+
+Heat breakpoint: Heat is 2 → *Observation* remains active (no new breakpoint).
+Anomaly breakpoint: Anomaly is 1 → *Static* persists (wind carries a thin carrier hiss across the glass).
+Fail-forward readiness: If this goes bad, you can still cross—just not cleanly.
+
+State Machine
+
+current_step: 5 — *Glass Desert*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ⬜
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1
+heat: 2 *(Observation)*
+supplies: 1
+
+The nearer patrolman circles, boots crunching. His pole tip taps the ground near Mila’s feet—once, twice—then lifts, as if listening for a hollow.
+“Turn out your bags,” he says. “Show your hands. Show your *truth*.”
+A second figure appears farther back on the ridge, not robed—just wrapped and masked, holding a crude signal whistle. A spotter. If he blows it, more will come.
+Alex can feel it: one wrong word and you’re no longer travelers. You’re a lesson.
+
+Approach Hooks
+
+De-escalate with doctrine: The Analog Order respects certainty; give them a “rule” that lets them let you pass without losing face.
+Trade time for distance: Keep them talking while Nolan edges the group toward cover—conversation as camouflage.
+Protect the map: If searched, Mila can “accidentally” let the compass fall and draw attention while Alex keeps paper hidden.
+
+Decision Point
+
+Alex: Lean into diplomacy—quote pre-Disconnect “safety doctrine” (real-sounding, 80s military tone) to frame your map as *non-tech* and your passage as harmless.
+Mila: Create a controlled distraction—drop the compass and loudly “confess” it’s just a navigational toy, drawing their scrutiny away from the satchel.
+Nolan: Make the call—fake compliance, then sudden movement into the rubble line to break sight and force a chase on your terms.
+
+What will you do?

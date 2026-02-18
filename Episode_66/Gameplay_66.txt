@@ -1,0 +1,66 @@
+Decision Point
+
+Mila: Hunt for (or build) a way to play the QZ-3 cassette—prioritize any comms locker, wall panel, or hand-crank power source.
+Alex: Sweep the chamber for signage and a designated training/briefing station—find where the bunker expects the tape to be played.
+Nolan: Fortify against smoke—seal gaps, ready cloth to breathe through, and position a counter-push if the door jolts again.
+Mila & Alex: Split—Mila starts rigging playback while Alex searches for a compatible deck; Nolan holds the door and calls out changes.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:52:42 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex takes the QZ-3 cassette from Mila like it’s a holy thing that might shatter under breath. He doesn’t pocket it. He cradles it—thumb over the label—then turns away from the red-striped cabinet and begins a fast, methodical sweep of the chamber.
+His eyes don’t hunt randomly. They hunt like a man who’s spent years reading the bones of old rooms: where people *stood*, where they *learned*, where they *repeated procedures until they could do them half-asleep in gas masks*.
+The bunker gives him clues in texture and residue.
+A waist-high desk with a shallow groove worn into its edge—someone leaned there for hours. A wall where the paint is cleaner in a rectangle—something used to hang there. A scatter of thumbtack holes in a precise grid: a notice board, long removed.
+And then—half-buried under a dust-sheet in the corner—an upright metal stand with a hinged lid and a stenciled word that hits Alex in the chest like a remembered song:
+TRAINING
+He flips the lid. The hinge squeals, sharp and bright.
+Inside: a battered portable cassette deck—not pretty, not civilian, built like a brick. Next to it, a plastic-wrapped bundle of spare belts and a thin, folded instruction card: *PLAYBACK PROCEDURE — QZ AUTH*.
+Nolan’s voice cuts in from the door, tight. “They’re wetting rags.”
+A soft, ugly sound follows: cloth dragged along steel, searching for a seam.
+Mila leans in, eyes locked on the deck. “If it turns,” she whispers, “we get our key.”
+
+Reactivity
+
+thread_milestones: none triggered
+access_conf 2 → 2 *(playback device found; sequence still unrevealed until the tape runs)*
+map*auth 0 | loc*conf 0
+meter_breakpoints: none triggered
+heat 5 (Kill-on-sight) *(unchanged)*
+anomaly 1 (Static) *(unchanged; already at breakpoint 1)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck located ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 2
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Alex wipes the deck’s faceplate with his sleeve. Under the grime: a simple mechanical window, a play button worn smooth, and a tiny warning label:
+DO NOT SPEAK TONES. DO NOT HUM TONES. PLAYBACK ONLY.
+The bunker’s thin static seems to crawl up the walls as if it’s listening.
+Outside, the Order’s patience curdles into action. A hiss—faint at first—like a match kissed to cloth. Not full flame yet. Testing. Threatening.
+Mila holds her breath and checks the deck’s battery compartment. Empty. Of course. But the training stand has a hand-crank generator socket mounted beneath—an old field unit meant to function when everything else didn’t.
+She looks at Alex. “You found the altar,” she murmurs. “Now we make it sing.”
+
+Approach Hooks
+
+Alex (History): Follow the *PLAYBACK PROCEDURE* card exactly—these systems were designed to punish improvisation.
+Mila (Engineering): Marry the hand-crank generator to the deck without spiking it—steady voltage, steady speed, clean tones.
+Nolan (Caution): Keep the door seam managed—if smoke starts, you’ll need cloth masks and a fallback position fast.
+
+Decision Point
+
+Mila: Hook the hand-crank generator to the training deck and start playback—aim for stable speed so the tones don’t warp.
+Alex: Read the playback procedure card and direct Mila step-by-step, ensuring you don’t trigger any “Dead-Man” conditions.
+Nolan: Pull everyone back from the door line and prepare for smoke—seal seams, wet cloth, and pick a retreat point inside the chamber.
+Alex: Try speaking through the door one last time—invoke quarantine protocol to make the Order hesitate while Mila prepares the deck.
+
+What will you do?

@@ -1,0 +1,61 @@
+Your Choices
+
+Mila: Equalize the P‑2 INNER door (vent → hold), then open it in a controlled, silent swing.
+Alex: Call the procedure step-by-step from memory and touch, ensuring no one violates the “two doors” rule—even if smoke thickens behind you.
+Nolan: Slip back to the false panel and rig a quiet delay (strap, cloth, wedge) to slow anyone who discovers the route—risking separation.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:28:57 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila commits to the inner cycle—vent → hold—the way you’d tune a radio: tiny adjustments, patient listening, no wasted motion.
+She nudges the three-position control to VENT. The corridor answers with a soft, controlled exhale through hidden ducting. The air pressure in P‑2 eases—just enough that the inner door won’t *clap* when it breaks its seal. She waits, eyes half-lidded, palm on the steel, feeling for that moment when the door stops pushing back.
+Behind you, smoke is no longer hypothetical. It’s a thin, oily ribbon curling under the false panel and tasting the corridor like a tongue. Still not a flood—but close enough to sting the back of your throat.
+Mila clicks the control to HOLD.
+Silence. The kind that makes the faint *tick… tick… tick* stand out—metal cooling, maybe… or something deeper in the bunker marking time.
+She turns the handle. Slow. Controlled. No squeal—just a reluctant gasket peel and a hush of colder air slipping past your knuckles.
+The P‑2 INNER door swings inward.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat stays 5: Kill-on-sight; anomaly stays 2: Static)*
+thread_milestones: none triggered *(no new reveal tiers reached)*
+fail_forward: not invoked *(success: equalized and opened without pressure snap or smoke draw)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Cold spills out like a held breath finally released. Not the dead cold of open air—this is refrigerated, intentional. The smell hits next: sterile plastic, desiccant, and faintly… earth. Like a garden remembered through vinyl and dust.
+Your light (whatever you’re using—dim, borrowed, stubborn) catches a strip of reflective tape on the floor beyond the threshold. It leads into a wider chamber lined with tall, boxy silhouettes: shelving, crates, sealed drums. Labels glint back in your beam—block letters, old military neat:
+SEED / CROP
+GERMPLASM
+DO NOT EXPOSE TO HUMID AIR
+INVENTORY—HAND LOG ONLY
+Alex’s breath catches, not with nostalgia this time—something closer to reverence. “This isn’t a weapons cache,” he whispers, voice swallowed by the insulated walls. “This is… a promise.”
+Mila steps in, careful not to bring smoke or moisture with her. She reaches up and touches a wall unit: a manual thermostat housing, analog gauge, needle steady in the safe band. Someone built this place to outlast the end of signals.
+Nolan glances back down P‑2. The smoke is still thin, but the chant outside has risen—muffled through steel and concrete, a congregation with torches and patience. If they find the false panel, they’ll follow. If they don’t, they’ll burn the outer door until the frame gives.
+You’ve made it through the threshold. The bunker’s truth is in front of you now—quiet rows of sealed life, waiting for hands that still remember how to plant.
+
+Approach Hooks
+
+Mila (Engineering): Find the chamber’s manual air-handling controls—shut dampers, increase overpressure, or seal P‑2 to keep smoke from contaminating the vault.
+Alex (History/Documentation): Locate the hand-log inventory and decode its cataloging—what’s here, what’s missing, and whether any “special crates” match the map’s markings.
+Nolan (Caution/Stealth): Secure your backtrail: re-seat the inner door, rig a silent alarm (string/bell scrap), and identify a secondary exit or choke point.
+
+Your Choices
+
+Mila: Prioritize containment—seal P‑2 from this side and hunt for the vault’s manual ventilation/overpressure controls before smoke can creep in.
+Alex: Go straight for the inventory log and labels—confirm what this place is, and whether the map points to a specific crate or subsection.
+Nolan: Set a quiet defense in the doorway and corridor—trap, wedge, and prepare an ambush if the Analog Order breaches the false panel.
+
+What will you do?

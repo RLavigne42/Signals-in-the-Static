@@ -1,0 +1,60 @@
+Your Choices
+
+Mila: Prioritize containment—seal P‑2 from this side and hunt for the vault’s manual ventilation/overpressure controls before smoke can creep in.
+Alex: Go straight for the inventory log and labels—confirm what this place is, and whether the map points to a specific crate or subsection.
+Nolan: Set a quiet defense in the doorway and corridor—trap, wedge, and prepare an ambush if the Analog Order breaches the false panel.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:30:34 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+You put Nolan on the backtrail.
+He moves like he was born in corridors that don’t want you in them—quiet, economical, eyes always on angles. While Alex and Mila hover near the reflective tape line and the stacked crates, Nolan slips back to the P‑2 INNER door, easing it toward closed without letting the latch *clack*. He pauses with his ear to the steel.
+The chanting is distant—muffled by concrete—but it’s closer than it should be. And underneath it: the ugly, irregular thud-splinter of a frame being broken, not a door being opened.
+Nolan spits a whisper. “They’re not giving up.”
+He digs in his kit for anything that can *talk* without making noise: a length of crate strapping, a twist of cloth, a sliver of bent metal.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clues unchanged; no tier crossed)*
+fail_forward: not invoked *(action succeeds: silent wedge + alarm line set)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Nolan rigs it fast:
+
+A soft wedge (cloth wrapped around a metal shim) pressed into the inner door’s hinge-side gap—enough to make the door *fight* anyone trying to swing it wide, but not enough to scream with friction.
+A trip line of strapping threaded low across the corridor mouth—tied to a dangling scrap of metal tucked into a vent grille. If someone hits the line, the scrap will rattle *inside the grille*, muted but unmistakable in this insulated quiet.
+
+Then he backs into the chamber, turning his head as he does—watching the corridor like it’s a gun barrel.
+The chamber itself feels wrong in its calm. Rows of sealed containers sit in disciplined silence, reflective labels catching your weak light in pale flashes—like the eyes of sleeping machines. The air is cold and dry, controlled by analog gauges that still hold steady. Somewhere deeper within the bunker, that faint tick… tick… tick continues—patient, metronomic, not quite matching your pulse.
+Mila’s fingers hover over a manual thermostat housing, tempted to start sealing vents and dampers. Alex is already scanning for the hand-log mentioned on the labels, lips moving like he’s reading titles off a cassette spine.
+Then Nolan’s trip line trembles—just once.
+A soft, almost polite tink whispers from inside the vent grille.
+Someone has reached the corridor.
+
+Approach Hooks
+
+Nolan (Stealth/Combat-Caution): Take position in the doorway shadow and decide whether to *ambush* at the choke point or fall back and force them into the chamber’s open lanes.
+Mila (Engineering): Kill the corridor’s airflow from this side—seal/overpressure to keep smoke and intruders from moving fast, even if it risks stressing old gaskets.
+Alex (History/Procedure): Find a manual lock-down lever or posted emergency protocol—these places were built for intrusions, fires, and contamination.
+
+Decision Point
+
+Nolan: Hold the choke point and prepare a silent ambush the moment a silhouette crosses the threshold.
+Mila: Sprint to the nearest analog control bank and throw the chamber into seal/overpressure, trying to stall entry and smoke spread.
+Alex: Hunt for the lockdown procedure placard or hand-log station—anything that tells you how to secure doors without guessing.
+
+What will you do?

@@ -1,0 +1,63 @@
+Your Choices
+
+Mila: Use the countdown window to find and slam a secondary latch/dog-bolt—make the seal real while they’re backing away.
+Nolan: Turn their retreat into a rout—shove the torch-bearer into the lantern zealot, snatch the lantern, and vanish back into the crawl.
+Alex: Push the bluff to completion—hit “ZERO,” then order them to drop weapons and lie prone “for decon,” gambling they’ll obey.
+Nolan: Keep the torch-bearer as leverage—whisper a threat, force him to call the others off, then trade him for a clean withdrawal.
+
+Which path do you choose?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:46:58 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex takes the lie to its logical conclusion—makes it sound like the bunker is already doing what it was built to do: punish the careless.
+“…THREE. TWO. ONE. ZERO.” His voice hits the corridor like a gavel. “DROP WEAPONS. LIE PRONE. DECON IN PROGRESS.”
+For a breath, the Analog Order actually wavers.
+The lantern zealot’s arm dips. The cudgel zealot’s boots shift as if the floor has turned slick. Even the tall one with the black-sun stitching hesitates—doctrine colliding with the old-world fear of *systems you don’t understand*.
+Then the tall one snarls, loud enough to drown doubt. “NO. There is no purge. There is only sin.”
+He lunges forward—cudgel raised—not at the door, but toward the shadow where Nolan shouldn’t exist.
+Nolan reacts on instinct, dragging the torch-bearer sideways to spoil the swing. The cudgel clips shoulder instead of skull—pain flashes white, hot and immediate. The torch-bearer stumbles, bottle thumping concrete, cloth wick skittering away like a dead moth.
+Mila keeps her palm to the wheel, feeling the door’s tremor change pitch. The seam holds. The wedge holds. But Alex’s command has failed to fully dominate—and the Order’s violence has snapped back into place.
+
+Fail-Forward (applied)
+
+Alex’s bluff doesn’t break the zealots… but it buys a crucial outcome anyway: they stop trying to pry the door *for the moment* and shift to dealing with Nolan. You’ve gained seconds and space, at the cost of Nolan taking a hit and the corridor turning into a close-quarters mess.
+
+Reactivity
+
+meter_breakpoints: none newly triggered
+heat remains 5 (Kill-on-sight) *(already at breakpoint 5)*
+anomaly remains 1 (Static) *(no new breakpoint)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(door held; immediate breach delayed)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor is now a strobing slice of violence—lantern flame whipping, shadows jumping like broken arcade sprites. Nolan’s shoulder burns where the iron kissed it; his jaw tightens, eyes scanning for the next swing.
+The tall zealot squares up again, cudgel low, ready to drive it into ribs. The lantern zealot—nervous, younger—edges toward the dropped cloth wick, thinking fire again. The third zealot, the one Nolan’s holding, is half-choked and shaking, fear turning him pliable.
+Behind the door, Alex’s throat is raw from command-voice. Mila’s fingers find a cold length of metal near the hinge-side—something like a secondary latch or dog-bolt housing—waiting to be thrown home if she can get the angle.
+And the bunker’s static… it thickens, as if the facility itself is leaning closer to hear who wins.
+
+Approach Hooks
+
+Mila (Engineering): Ignore the fight and hard-seal the secondary latch/dog-bolt while they’re distracted—turn a temporary hold into a real barrier.
+Nolan (Combat/Caution): Use the torch-bearer as leverage—either shove him into the tall zealot to create a tangle, or force him to call the others off.
+Alex (Diplomacy/History): Pivot from “command” to “consequence”—name a believable hazard (asbestos, nerve-agent training residue, radiation signage) to keep them off the seam and away from flame.
+
+Decision Point
+
+Mila: Commit to the hinge-side—force the secondary latch/dog-bolt into place, even if it takes brute strength and risks a loud metallic report.
+Nolan: End the lantern threat—kick the cloth wick away, then drive the torch-bearer into the lantern zealot and take the lantern.
+Alex: Switch tactics—stop ordering and start *warning*: sell a specific hazard to keep them from lighting anything and from reapplying the pry bar.
+Nolan: Retreat into the crawlspace now—bleeding shoulder and all—dragging the torch-bearer just far enough to buy Mila time to seal.
+
+What will you do?

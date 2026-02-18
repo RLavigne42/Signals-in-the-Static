@@ -1,0 +1,60 @@
+Decision Point
+
+Alex: Pull the SEED LOT INDEX tag set and start mapping what’s stored where—prioritize anything labeled “GERMINATION” or “CONTINGENCY.”
+Mila: Work the valve and gasket—seal the hiss, stabilize pressure, and make this vestibule a defensible airlock before you go deeper.
+Nolan: Set a quiet barricade at the hatch (wedges, smocks, cabinet metal) and lay a simple trip hazard in the vestibule—then signal the others to move.
+
+What will you do?
+user
+clue
+assistant
+---timestamp: 2026-01-10 06:16:45 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Inside the bunker’s vestibule, you sealed the hatch hard—wheel latched, gasket biting—while the Analog Order’s THUD-THUD faded into a muffled, steel-thick rage on the other side. The air turned cold and dry, tasting of paper and vinyl. In front of you: an ARCHIVE / GERMINATION door and a mechanical card carousel labeled with logs—SEED LOT INDEX, WATER PURITY, VIABILITY TESTS, and a contingency binder marked “BLACKOUT YEARS.”
+You ask for a clue—something actionable, right now, without handing you the whole bunker’s soul in one breath.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Inside ✅ | AUTH accepted ✅ | Pressure equalized ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active): heat 5 → Kill-on-sight; anomaly 1 → Static
+thread*milestones:* *access*conf 3/3 → Reveal: Tone-Key sequence *(already obtained/validated at the hatch)*
+
+Scene
+
+Alex flips the carousel with two fingers. The laminated tags whisper past—shhk-shhk—until one catches his eye: a tag half-hidden behind SEED LOT INDEX, hand-labeled in cramped block letters:
+“DOOR OVERRIDE — PAPER TAPE / TWO-PERSON.”
+Mila leans in, breath fogging the laminate. “Two-person means… one inputs, one confirms. No electricity needed—just procedure.”
+Nolan, still listening to the hatch, murmurs: “So the next door’s not brute force. It’s bureaucracy.”
+Alex pulls the tag. Behind it is a thin, folded strip of red paper—a *tear-off* checklist with stamped boxes:
+1) VENT: CLOSE
+2) VALVE: SET TO -2 *(a tiny arrow points to the manual wheel you saw)*
+3) AUTH DATE: YYMMDD
+4) SHIFT ID: ROSTER-VALID
+5) SECOND PERSON: INITIALS
+At the bottom, in faded typewriter ink:
+“If smoke present: DO NOT OPEN INNER DOOR. Stabilize vestibule first.”
+It’s not a map. It’s not a prophecy. It’s a *mechanical truth*: the next door wants the same language the hatch wanted—paper, format, and a second set of hands.
+
+Approach Hooks
+
+Alex (History/Procedure): Use the checklist to pick the correct YYMMDD and find a ROSTER-VALID shift ID from the carousel’s PERSONNEL ROSTER tag.
+Mila (Engineering/Ears-on-Metal): Set the vestibule to -2 on the gauge using the valve wheel—reduce hiss, prevent smoke ingress, and satisfy the door’s precondition.
+Nolan (Caution/Stealth): While they work, prep a silent fallback: wedge the hatch wheel, hang smocks to choke smoke, and listen for tool-changes outside (saws vs. hammers).
+
+Decision Point
+
+Alex: Pull PERSONNEL ROSTER and hunt a roster-valid shift ID that matches the checklist—fast, clean, no guessing.
+Mila: Adjust the valve to -2 and chase the hiss at the hatch seam—make the vestibule safe before touching the inner door.
+Nolan: Build a quiet barricade and trip hazard while the others work, then act as the “second person” for the two-person initials step.
+
+What will you do?

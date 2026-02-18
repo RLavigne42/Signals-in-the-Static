@@ -1,0 +1,64 @@
+Decision Point
+
+Nolan: Perform the 10-count hold on the inner handle to fully seat the slab—seal the entrance before the patrol notices the gap.
+Mila: Move on the sweep rhythm—advance down the left branch only in the safe interval after each click, using the coil to avoid “open eyes.”
+Alex: Stay at the junction and translate the sensor cadence into a simple call—*click \= go, no click \= freeze*—coordinating the trio’s movement through the dark.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:13:32 UTC---model: gpt-5.2---temp: 0.70
+
+Final Mile | Recap
+
+Nolan takes the inner handle with both hands like it’s the neck of a stubborn machine—something you don’t *fight*, you *persuade*. He looks at Alex once. Alex answers with a silent count, fingers barely moving in the lantern’s pinhole glow.
+One… two… three…
+Outside, a shape blocks the culvert’s grey mouth. A voice—close enough now to carry consonants—murmurs a hard, practiced phrase, and another answers. Not scavengers. Not lost.
+Four… five…
+Nolan leans his weight in, steady, controlled. The slab grinds a fraction—stone on stone, old grease turning to grit. Mila holds her breath so the sound of it doesn’t ride on her exhale.
+Six… seven… eight…
+A thin line of daylight at the seam narrows. The outside world becomes a blade-thin ribbon.
+Nine… ten.
+Nolan holds—doesn’t release, doesn’t flinch—until the corridor itself seems to decide.
+CLICK.
+Not loud. Not dramatic. Final.
+The slab settles flush. The last smear of daylight dies. The patrol’s presence becomes only muffled vibration through concrete—boots, a pause, a hand on the wrong wall. They’re there… but they don’t immediately know *where*.
+The ticking ahead continues: tick… tick… tick… like an arcade attract-mode that never learned how to quit.
+
+Reactivity
+
+Checkpoint achieved: Position ✅ *(Step 9 complete: you’re in, sealed, and committed.)*
+Heat: remains 5 (Kill-on-sight) *(breakpoint already active; patrol is at the door but denied easy entry.)*
+Anomaly: remains 2 *(static “clean,” no voices yet.)*
+Thread milestones: none new *(mapauth/locconf/access_conf unchanged this step.)*
+
+State Machine (Updated)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ⬜
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The corridor deepens into a choke point: a steel bulkhead half-swallowed by concrete, its paint blistered into scales. A red wheel-handle sits at chest height, and beside it a small analog panel—needle gauge, rotary selector, and a slot that looks like it once accepted a badge or a punched card.
+Above the wheel, a warning stencil—faded but legible—catches Mila’s pinhole light:
+PRESSURE EQUALIZE BEFORE TURN
+IF NEEDLE SHUDDERS: WAIT
+Somewhere behind the sealed slab, the patrol tests the wall—thunk… thunk—as if listening for hollowness. They haven’t found the seam yet, but they’re patient.
+And the ticking? It’s closer now, not ahead—*around*—as if the bunker’s throat has multiple “eyes” opening and closing in sequence.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Read the gauge and selector—equalize pressure properly, and use her coil to detect if the bulkhead’s mechanisms are “awake” or about to trip a lockout.
+Alex (History/Procedure): Interpret the stencil language and panel conventions—military civil-defense systems often hide a second instruction (a count, a sequence, a “don’t do this”).
+Nolan (Stealth/Caution): Set a dark fallback—pick a corner that breaks sightlines, prep for forced entry behind you, and decide whether to leave a trap or simply vanish forward.
+
+Decision Point
+
+Mila: Work the pressure panel—match the needle, wait through any shudder, then attempt the wheel-turn in the safest window between sensor clicks.
+Alex: Examine the bulkhead for procedural tells—look for a secondary stencil, a serial plate, or a “turn order” etched by maintenance crews.
+Nolan: Move back a few meters into darkness and set a quiet defense—calculated cover and a simple trip-noise in case the patrol finds the seam.
+
+What will you do?

@@ -1,0 +1,59 @@
+Decision Point
+
+Nolan: Pop the vent and drop behind the Order—go hands-on and silent, stopping the torch-bearer first.
+Nolan: Stay hidden and sabotage their leverage—jam the pry bar’s fulcrum with debris through the slats, buying seconds for Mila and Alex to reposition.
+Mila: On Nolan’s signal (three knocks on the door from inside), shove the door into a partial reseat while Nolan disrupts the pry angle.
+Alex: The moment Nolan creates confusion, shout “Containment protocol—stand down\!” through the door and attempt to fracture their resolve.
+
+Which path do you choose?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:43:01 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan stays in the crawlspace, breath held, and gives the agreed signal—three dull knocks against the duct’s ribbing, a rhythm that carries through metal like a heartbeat.
+Inside the chamber, Mila hears it through the door’s skin. She doesn’t waste time praying to dead circuits. She puts her shoulder to steel and her hands to the only truth left in this world: mechanics.
+“On three,” she hisses to Alex—more for her own focus than his. The air tastes like iodine and old ozone, and the static in her fillings spikes as if the bunker itself is listening.
+She yanks open the manual purge lever a fraction—just enough to make the chamber *cough*—then slams the inner pressure wheel back. The door flexes in its frame with a low, stomach-turning WHUMP, not an explosion, but a sudden shift in force.
+Outside, the pry bar’s bite slips. The zealots grunt, surprised, their leverage angle ruined for a moment.
+In that same moment, Nolan shoves a length of broken conduit through the vent slats and pins the pry bar’s fulcrum—an improvised wedge. It isn’t elegant. It’s perfect.
+The torch-bearer staggers, bottle sloshing. “What—”
+The door seam tightens by a hair. Not sealed. But not failing.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat remains at 5: Kill-on-sight; anomaly remains 1: Static)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(maneuver succeeded; you bought time and disrupted leverage)*
+
+State Machine (Directive Tracking)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(spine shutter closed; internal access established; chamber door held against breach for now)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor outside the chamber erupts into frantic motion—boots scraping, lantern swinging, shadows chopping across concrete like broken neon. One zealot drops to a knee to reclaim the pry angle; another steps back, raising the bottle and cloth like a promise.
+“Burn it,” the harsh voice repeats—less certain now, angrier.
+From Nolan’s slit-view, their faces are half-lit, half-swallowed by the bunker’s dim. The wedge holds… but it won’t hold forever. The Order will adapt. They always do.
+Inside, Mila keeps her palm on the wheel, feeling the door’s tremor through the metal. Alex stands tight behind her, binder pressed to his chest, eyes darting over the laminated checklist like it’s scripture he can weaponize.
+Above them all, the bunker’s weird static thickens—an invisible pressure that rises when metal strains.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Use the crawlspace to reposition—pop a second vent closer to the torch-bearer and neutralize the fire before it ever lights.
+Mila (Engineering): Ride the pressure edge: another controlled “cough” timed with Nolan’s sabotage could snap the pry bar or slam fingers, forcing a retreat.
+Alex (Diplomacy/Procedure): Weaponize authority: shout decon protocol and “containment violation” terms at the exact moment they hesitate, buying a full reset window.
+
+Decision Point
+
+Nolan: Drop from the vent now—go hands-on to stop the torch-bearer before fire hits the seam.
+Mila: Trigger a second, harsher pressure “cough” to try to break their leverage—risking noise and structural strain.
+Alex: Use the checklist language as a blade—shout “CONTAINMENT PROTOCOL—STAND CLEAR\!” and attempt to freeze them with procedure and fear.
+Nolan: Stay hidden and relocate to another vent—set up a better angle for a silent takedown or a tool-snatch.
+
+What will you do?

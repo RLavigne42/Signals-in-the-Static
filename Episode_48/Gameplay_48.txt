@@ -1,0 +1,59 @@
+Decision Point
+
+Alex: Follow the protocol and throw the DOG BAR lever—hard-lock the inner door and commit to holding the chamber a little longer.
+Mila: Gradually bleed pressure to a safer steady-state while keeping outward flow—then move the trio toward the service hatch before seals fail.
+Nolan: Ghost to the service hatch now, scout the maintenance spine, and set the next choke point before the Order gets through.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:33:55 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+You send Nolan first.
+He peels off the doorway shadow like tape from old plastic—slow, silent, no wasted motion. The chamber’s amber lamplight dies on him after a few steps; beyond that, he’s just a moving absence between shelves and sealed drums. Mila keeps the overpressure needle in the green with two fingers and a clenched jaw. Alex stays by the binder, one hand on the page that says *FALL BACK TO SPINE*, the other on his satchel strap like it might anchor him.
+At the inner door, the Analog Order’s tool taps again—tink… tink—testing glass, testing patience.
+Nolan reaches the far wall.
+A square outline interrupts the concrete: paint flaked, bolts rusted, stamped letters half-swallowed by time—SERVICE HATCH / CRAWL. He kneels, listens with his ear against the metal. Nothing but the bunker’s deep *tick… tick… tick* and a faint, dry whisper of air moving the wrong way.
+He works the mechanical latch with a thin strip of bent metal. No power. No keypad. Just leverage and know-how.
+The hatch gives with a reluctant clunk—loud in the silence, but not loud enough to be a scream.
+Cold dust exhales out, tasting like insulation and old vinyl sleeves.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clues unchanged)*
+fail_forward: not invoked *(success: hatch opened quietly enough; no immediate contact)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The opening is a throat into darkness—barely shoulder-wide, a maintenance crawl lined with riveted panels and ancient ducting. Nolan slides in feet-first, then turns, pulling himself along with forearms and boot soles. Every movement raises a tiny storm of dust that glitters in the lamplight behind him like dead pixels.
+Ten feet in, he stops.
+There’s a second sound under the bunker’s metronome: a faint scritch… scritch ahead, like cloth dragged over metal. Not rats. Too deliberate. Too paced.
+Then—barely audible—human breath.
+Someone else is in the spine.
+Nolan’s fingers tighten around the edge of a panel seam. He can go forward and risk meeting whatever’s crawling toward him… or back out and warn the others before the inner door gives.
+Behind him, through the hatch, the chamber feels suddenly smaller—Mila’s controlled hiss of overpressure, Alex’s lamp-whirr, and from the corridor the Analog Order’s toolwork shifting from *testing* to *working*.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Freeze and listen for cadence, gear jingle, and breathing—identify whether it’s a single scout or a team moving in the spine.
+Mila (Engineering): Keep the pressure stable and prep a controlled drop—avoid a gasket pop if the inner door gets forced.
+Alex (Procedure/Diplomacy): Use the protocol binder to find any mention of spine access points or warning placards—predict where the crawl leads and how it can be sealed.
+
+Decision Point
+
+Nolan: Advance in the crawl and attempt a silent intercept—close distance, confirm identity, and decide whether to disable or parley in whispers.
+Mila: Leave the control bank just long enough to throw the DOG BAR lever sequence from the protocol—hard-lock the inner door while Nolan scouts.
+Alex: Rapid-scan the binder for MAINTENANCE SPINE MAP notes and call directions to Nolan—then mark a fallback route among the shelves.
+
+What will you do?

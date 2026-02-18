@@ -1,0 +1,66 @@
+Decision Point
+
+Nolan: Quietly work the bypass pin with Jessa’s pry tool—open DECON and search for an internal route to Mila and Alex.
+Nolan: Abandon the bypass—move now toward the breach sounds in Corridor B and attempt a stealth flank.
+Mila: Hold the chamber and prepare a timed pressure “cough”—wait for a signal through ductwork.
+Alex: Attempt a procedure-bluff through any grille/vent—stall the Order with containment language.
+
+Which path do you choose?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:41:12 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan chooses quiet over speed.
+He takes Jessa’s pry tool—flat, scarred, honest steel—and slides its edge under the painted-over cap screw on the hinge-side. He doesn’t *twist* so much as *breathe* pressure into it, millimeter by millimeter, until the old paint gives with a soft, dry crack like a cassette case snapping shut.
+No ringing ping. No betraying chime.
+He works the cap free and finds the service pin beneath—thick as a pencil, greased once upon a time, now tacky with age. Nolan wraps it in cloth to muffle it, then pulls.
+The decon door shifts. Heavy. Balanced. Waiting for permission.
+From deeper in the bunker, a colder draft exhales through the seam—iodine, dust, and something faintly metallic, like pennies left in rain.
+Nolan eases the door open and slips inside with Jessa close behind.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat already at 5: Kill-on-sight; anomaly remains at 1: Static)*
+thread_milestones: none *(clues unchanged; no tier reached)*
+fail_forward: not invoked *(success: bypass opened quietly)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Inside ENV. LOCK / DECON, the air is *wrongly clean*—not fresh, but filtered long ago and trapped. The room is a small concrete throat with two doors: the one Nolan came through, and an inner hatch with a wheel-lock and a faded checklist bolted beside it.
+The checklist is laminated—miraculously intact—its edges curled like old vinyl album sleeves. In block letters:
+DECON CYCLE (MANUAL)
+
+SEAL OUTER
+PURGE (HAND PUMP)
+VERIFY STRIP (IODINE)
+OPEN INNER
+
+A hand pump sits under a glass gauge. The gauge needle is dead at zero, but the pump handle is real, physical, *doable*. On the wall: a narrow service crawl marked MAINT. RETURN — CHAMBER ACCESS with a padlocked grate… except the lock is missing. Someone—years ago—wanted this route usable.
+Somewhere above and forward, through concrete and duct, comes another POP—the kind of sound that means a pry bar found purchase. Mila and Alex are running out of door.
+Jessa swallows. “That crawl goes back toward your chamber. But it’ll dump you close. If they’re already in… you’ll be nose-to-nose.”
+And the static in Nolan’s teeth thickens near the inner hatch, like the bunker is holding its breath.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Take the MAINT. RETURN crawl—move silent, arrive behind the breach point, and pick your moment to pull Mila and Alex through.
+Mila (Engineering): If Nolan can get eyes on the purge pump and gauge, he can relay the mechanism—Mila can use that knowledge to rig a pressure “cough” or jam a door with a controlled seal shift.
+Alex (History/Procedure): Alex can use the decon checklist language as authority—if Nolan can get him within earshot via duct/crawl, Alex can bark “protocol” that even zealots hesitate to violate.
+
+Decision Point
+
+Nolan: Slip into MAINT. RETURN — CHAMBER ACCESS now—stealth-crawl back toward Mila and Alex and attempt an internal extraction.
+Nolan: Spin the inner hatch wheel-lock—enter deeper through decon and look for a safer route that avoids the breach entirely.
+Mila: Prepare a last-ditch pressure “cough” at the chamber door—risking a loud vent to buy Nolan seconds.
+Alex: Attempt a containment-protocol bluff—use procedure language to stall the Analog Order at the moment of breach.
+
+What will you do?

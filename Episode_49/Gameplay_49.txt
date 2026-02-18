@@ -1,0 +1,64 @@
+Decision Point
+
+Nolan: Advance in the crawl and attempt a silent intercept—close distance, confirm identity, and decide whether to disable or parley in whispers.
+Mila: Leave the control bank just long enough to throw the DOG BAR lever sequence from the protocol—hard-lock the inner door while Nolan scouts.
+Alex: Rapid-scan the binder for MAINTENANCE SPINE MAP notes and call directions to Nolan—then mark a fallback route among the shelves.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:35:03 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan commits to the crawl.
+He inches forward on forearms and boot soles, belly scraping cold metal, the air tasting of powdered insulation and old ozone. The darkness ahead isn’t empty—there’s that scritch… scritch again, too steady to be vermin. Human breath, controlled and close.
+He stops, lets the bunker’s tick… tick… tick cover him, and listens for the smallest tells: cloth, buckles, the faint clink of a tool.
+Nothing jingles.
+That’s what scares him.
+Nolan slides one palm to his knife and advances another yard. Then another—slow enough that even dust doesn’t dare rise.
+A shape resolves: a crouched figure in the spine, back turned, working at a panel seam with something flat and metal. Not chanting. Not praying. Just… *opening*.
+Nolan closes the last gap in one smooth, silent surge—forearm locking around the figure’s shoulder line, knife hovering at the ribs, breath in their ear.
+“Don’t,” he whispers, voice like sandpaper.
+The figure freezes so hard the whole crawl seems to hold its breath with them.
+Then, in a voice that’s not doctrine—low, urgent, and *human*—they whisper back: “Not Order. Don’t be stupid. They’re behind you.”
+Behind Nolan—through the hatch—there’s a distant thunk from the chamber side, like a tool finding purchase on the inner door.
+Time folds in on itself.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clues unchanged; no reveal tier crossed)*
+fail_forward: not invoked *(success: silent intercept; contact not alerted yet)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Nolan shifts his weight to pin without crushing—pragmatic, controlled. The figure’s clothing brushes his wrist: not rough homespun like the Analog Order, not neon leathers like a Nostalgist. Practical canvas. Grease-stained. Tech Nomad, maybe… or one of Mila’s Signal Seeker cousins.
+The figure slowly raises both hands, palms open in the cramped dark.
+“I’m here for the same reason you are,” they breathe. “This spine connects to a maintenance ladder. You can’t hold that chamber. They’ll smoke you out or crack the gasket.”
+A thin, faint *static* crawls along Nolan’s teeth—like a radio tuned between stations. It’s not coming from a device. It’s coming from the bunker itself, a low-level wrongness that makes the hairs on his arms lift.
+Then the figure adds, barely audible: “And if you go deeper—don’t touch the copper bus. It’s… live in a way it shouldn’t be.”
+From the hatch behind Nolan, Mila’s controlled hiss of air shifts pitch—she’s still holding pressure, but something is changing. The Order’s toolwork turns from careful to committed: scrape—pop—scrape.
+You have seconds to decide whether this stranger is a lifeline… or a knife waiting for your ribs.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Keep the hold, frisk for weapons, and interrogate in whispers—name, faction, and how they got into the spine without being seen.
+Alex (History/Procedure): Use the protocol binder to confirm whether the “maintenance ladder” exists and whether there’s a manual seal to isolate the spine.
+Mila (Engineering/Radio): Listen to the bunker’s “static” like a signal—determine if it’s harmless induction, a failing shield, or something that could burn out her gear (or her).
+
+Decision Point
+
+Nolan: Trust-but-verify—disarm and question the stranger fast, then decide together whether to push toward the maintenance ladder.
+Mila: Leave the valve for a heartbeat and throw the DOG BAR lever sequence—hard-lock the inner door to buy Nolan time in the spine.
+Alex: Call out directions and protocol from the binder—guide Nolan to a manual isolation point so the spine can be sealed behind them.
+
+What will you do?

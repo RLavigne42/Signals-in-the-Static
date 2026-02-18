@@ -1,0 +1,60 @@
+Decision Point
+
+Mila: Hold the overpressure steady and hunt for a hard seal lever or manual lock that can deadbolt the inner door without stressing the gaskets.
+Alex: Crack open the contamination protocol and inventory log—search for an emergency route, secondary hatch, or a procedure to lock down the chamber.
+Nolan: Set for contact—weapon ready in the doorway shadow, prepared to strike the first intruder through the gap the moment the door shifts.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:32:49 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex snaps the plastic sleeve open and drags the binder onto the slanted desk. The cover crackles—old polymer, old dust—like a cassette case that’s survived too many hot summers. He cranks the lamp: *whirr-whirr*, a dim amber cone pooling across paper ruled in military neatness.
+CONTAMINATION PROTOCOL — INSIDE COVER.
+His finger traces the first block of text, lips moving. Mila keeps one hand on the overpressure wheel, eyes locked on the needle. Nolan stays in the doorway shadow, a shape in a darker shape, listening to the corridor breathe.
+Outside the inner door: a soft scrape. A pause. The kind of pause that means someone is testing patience instead of strength.
+Alex flips the cover.
+A diagram stares back: a simple, brutal flowchart. AIRLOCK MODE / FIRE MODE / INTRUSION MODE. And beneath that, a hand-drawn map of the chamber’s immediate layout—shelves, drums, and a marked square in the far wall:
+SERVICE HATCH — CRAWL (TO: MAINTENANCE SPINE)
+NOTE: MECH LATCH — NO POWER REQUIRED
+The bunker was built for this. For smoke. For zealots. For mistakes.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat stays 5: Kill-on-sight; anomaly stays 2: Static)*
+thread_milestones: none triggered *(clues unchanged; no tier crossed)*
+fail_forward: not invoked *(success: protocol + route found)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Alex turns the binder so Mila can see without letting go of her valve. The diagram shows a manual sequence to lock the inner door without over-stressing the gasket: a lever on the hinge-side frame—DOG BARS—meant to clamp the door shut like a submarine hatch.
+But the protocol’s margin note is what makes Nolan’s eyes narrow:
+INTRUSION MODE: DO NOT HOLD MAIN CHAMBER. FALL BACK TO SPINE. Reason: chamber contents irreplaceable.
+The bunker expects you to retreat.
+Somewhere beyond the door, something taps—once—against the inspection port. Not a fist. A tool. The Analog Order is getting careful, and careful lasts longer than angry.
+Mila’s gauge needle quivers as the system compensates. You can keep the pressure where it is, but every minute is a gamble with aging seals.
+The service hatch on the far wall is your quieter option: a crawl into the maintenance spine—tight, dark, probably dusty enough to taste like vinyl sleeves and old insulation. But it might lead deeper… and away from the door they’re about to breach.
+
+Approach Hooks
+
+Alex (Procedure/History): Use the protocol to engage the dog bars—manual lockdown without blowing the gasket; buy time and protect the chamber.
+Mila (Engineering): Keep overpressure in the safe band while you transition—reduce stress spikes, listen for duct groan, and prevent smoke backflow.
+Nolan (Stealth/Caution): Slip to the service hatch first, check the spine for ambush points or alternate exits, then signal the others.
+
+Decision Point
+
+Alex: Follow the protocol and throw the DOG BAR lever—hard-lock the inner door and commit to holding the chamber a little longer.
+Mila: Gradually bleed pressure to a safer steady-state while keeping outward flow—then move the trio toward the service hatch before seals fail.
+Nolan: Ghost to the service hatch now, scout the maintenance spine, and set the next choke point before the Order gets through.
+
+What will you do?

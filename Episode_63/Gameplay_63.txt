@@ -1,0 +1,76 @@
+Decision Point
+
+Mila: Move deeper into the chamber and trace the locking assembly to a secondary inner door—try to find a control box or tone panel before the Order changes tactics.
+Alex: Hunt for posted protocols, labels, and a logbook—figure out what this place was designed to protect and what hazards are real.
+Nolan: Fortify the threshold—quietly build a second barricade and set a trap using scrap/hinge gaps so the next breach attempt costs them.
+Mila: Attempt a radio/induction “listen” against the bunker’s wiring—see if the static is coming from inside, and whether it masks voices or mechanisms.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:49:15 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex peels away from the door and its trembling seam of shadow, letting Nolan’s bulk and Mila’s braced stance hold the line. He moves by touch more than sight—palms sliding over cold cinderblock, fingertips catching on flaking stencil paint and the raised edges of old placards.
+The chamber is a preserved pocket of another century: dust that hasn’t been disturbed in decades, air that tastes like paper, steel, and faint ozone. The bunker’s static is still there—thin, persistent—like a cassette hiss you can’t quite tune out.
+Alex finds a bulletin board behind a cracked plexi cover. The cover squeals when he lifts it, and the sound feels too loud in a place this sealed.
+Pinned beneath, a logbook in a metal cradle. A stack of laminated procedures. A hazard placard, yellowed but legible.
+He flips the logbook open.
+The first page isn’t a dramatic confession. It’s worse: routine.
+Neat block letters, dates, initials. Inventory ticks. “SEAL CHECK.” “FILTER CHANGE.” “GERM TEST—PASS.” The kind of handwriting that assumes the world will keep running.
+Then a later entry, ink darker, pressure heavier:
+MAG EVENT—CONFIRMED.
+NO COMMS. NO GRID.
+LOCKDOWN MAINTAINED.
+DO NOT OPEN OUTER DOOR WITHOUT AUTH.
+Alex’s throat tightens. Not because it’s a surprise—because it’s proof.
+He turns another page and finds a folded sheet tucked into the back cover, stamped with a faded eagle and a designation that makes Mila’s eyes snap to it when he whispers it aloud:
+“SURVIVOR SEED-VAULT: ACCESS & QUARANTINE PROTOCOLS.”
+For a second, the bunker stops being “a cache.” It becomes something else entirely—something meant to outlast hunger, outlast ideology, outlast the long, quiet decades after The Disconnect.
+Outside the door, the Analog Order’s boots scrape and reposition. A muffled argument flares—fear versus fury—then quiet again, like predators deciding whether to wait or burn.
+
+Reactivity
+
+meter_breakpoints: none triggered
+heat 5 *(Kill-on-sight already active)*
+anomaly 1 (Static) *(already at breakpoint 1; no increase)*
+thread_milestones: none
+map*auth 0 | loc*conf 0 | access_conf 0 *(no threshold reached)*
+fail_forward: not invoked *(success; discovery made)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Alex spreads the sheet on a waist-high cabinet. The paper crackles—too crisp for its age, stored right. The headings are stark:
+
+QUARANTINE ZONES (Outer / Buffer / Core)
+MANUAL AIR HANDLING (hand-crank, filter lockout)
+TONE-KEY AUTHORIZATION (a sequence of tones, not words)
+CONTINGENCY: “DEAD-MAN SEAL” (if breached, lock the core)
+
+Mila’s fingers hover near the “tone-key” line like it’s a prayer she’s forgotten how to say. Nolan keeps one ear to the door, listening to the Order’s shifting patience.
+The static thickens for a breath—just enough to make Alex’s laptop in his satchel feel heavier, like it wants to wake up and fail at the same time.
+
+Approach Hooks
+
+Alex (History): Cross-reference the logbook entries with posted procedures to infer where the Core door is and what triggers the Dead-Man Seal.
+Alex (Diplomacy): Use the discovered “quarantine” language to craft a *credible* warning through the door—something even zealots might hesitate to violate (contamination, irreversible lockout).
+Mila (Engineering): Identify the manual air-handling and filter lockout hardware; if the Order tries smoke, you can counter it—or weaponize airflow.
+Nolan (Stealth/Caution): Map the room’s exits, vents, and crawl returns; prep a silent fallback if they find another entry.
+
+Decision Point
+
+Alex: Whisper-read the seed-vault protocol aloud and search for a tone-key sequence or any hint of where it’s stored in this chamber.
+Mila: Locate the manual air-handling and quarantine hardware—set the chamber to resist smoke or forced entry.
+Nolan: Take position at the door and listen—identify whether the Order is preparing fire, waiting for reinforcements, or searching for another access point.
+Alex: Speak through the door using the protocol’s language—warn them that flame or breach will trigger a “Dead-Man Seal” and ruin whatever they think they’re purging.
+
+What will you do?

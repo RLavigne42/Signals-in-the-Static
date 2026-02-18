@@ -1,0 +1,67 @@
+Decision Point
+
+Mila: Execute the paper-tape override on the inner door using DATE 861104, SHIFT AG-2, and Nolan as the confirming initials.
+Alex: Pull the “BLACKOUT YEARS” contingency binder first—verify whether opening the inner door triggers any dead-man protocol.
+Nolan: Return to the hatch and listen for tool-changes; if the Order is cutting, you’ll prioritize barricade and delay over opening deeper.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:18:23 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+With Mila’s pressure set to -2 and Alex’s roster work confirming the seal date 861104 and valid two-person shift IDs (AG-2 + SEC-1), you commit: Mila will run the inner door’s paper-tape / two-person override while Nolan serves as the required second set of initials. The Analog Order remains outside the hatch—quiet, listening, waiting.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(Tone-Key sequence revealed/validated)*
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight *(already active; expect immediate lethal intent if breached)*
+anomaly 1 → Static *(faint interference persists)*
+thread_milestones:
+access_conf 3/3 → Reveal: Tone-Key sequence *(available for compatible inner systems)*
+
+Scene
+
+Mila kneels at the inner door’s waist-high console—no LEDs, no screen—just a paper-tape slot, a spring-loaded platen, and a mechanical selector with three detents: DATE / SHIFT / CONFIRM.
+The air smells cleaner here, like cold concrete and sealed cardboard. Still, beneath it: the faint tang of ozone—not from power, but from old insulation and the memory of machines.
+Alex reads from the roster in a low, steady cadence, like calling plays in a dead stadium.
+“Date format YYMMDD. Use date of seal. Eight-six… one-one… zero-four.”
+Mila dials the detents with careful, gloved fingers. CHNK. CHNK. Each click is a commitment.
+Nolan steps in close—close enough that Mila can feel his breath on her shoulder when he speaks. He’s not a believer in rituals, but he respects locks. He respects systems that can kill you for being sloppy.
+Mila feeds the red paper strip into the slot. The platen bites down with a hungry little thwip.
+“SHIFT,” Alex says. “AG-2 / Night Maint.”
+Mila sets it. Nolan watches the hatch reflexively, then forces his eyes back to the mechanism.
+“CONFIRM,” Alex says. “Second person: SEC-1 / Vestibule Watch.”
+Nolan takes the stubby graphite pencil from Alex’s satchel—an artifact as valuable as ammo—and writes his initials in the tiny box, slow enough to be legible, fast enough to matter.
+For a breath, nothing.
+Then the inner door answers—not with a beep, but with a deep internal cam rotating: WHUM… clack… WHUM…
+A thin seam of light appears at the door’s edge. Not neon—sterile, pale, almost moonlike. Air exhales through the gasket in a controlled sigh.
+And from the hatch behind you—steel thick, but not thick enough—comes a new sound: metal-on-metal, a steady rasping cadence.
+Nolan’s head snaps toward it. “They’ve got a saw.”
+The inner door is cycling open. The outer hatch is being worked.
+You have seconds to decide how to use the opening you just earned.
+
+Approach Hooks
+
+Mila (Engineering): Hold the inner door at partial open—use the cam cycle to prevent a full lock-back, keeping a controllable choke point.
+Alex (History/Procedure): Grab the nearest contingency binder or wall index immediately inside—anything that explains dead-man protocols before you trigger them deeper.
+Nolan (Caution/Combat): Use the vestibule geometry: position to cover the hatch while the others slip through; prepare a quick barricade using the decon rack and smock straps.
+
+Decision Point
+
+Mila: Slip through the opening first and jam the inner door’s cam at a defensible gap—turn the archive door into a choke point.
+Alex: Dive inside and snatch the “BLACKOUT YEARS” binder or index cards—get the rulebook before you trip a protocol.
+Nolan: Stay in the vestibule to delay the saw team—improvise a barricade and buy the others time to get through.
+
+What will you do?

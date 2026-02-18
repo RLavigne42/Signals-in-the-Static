@@ -1,0 +1,55 @@
+Decision Point
+
+Mila: Neutralize the clacker and tripline quietly (no snap, no ring), then push toward the antenna-triangle anchor point before Patrols tighten.
+Alex: Plot a detour using the audit-route theory—avoid all marked anchors until you can read the UV schematic layer.
+Nolan: Set a false trail across the basin and observe from cover—try to flush out whoever prepared the rest stop.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:05:21 UTC---model: gpt-5.2---temp: 0.70
+
+Map’s Betrayal | Recap
+
+Alex takes Nolan’s warning and doesn’t argue. He just unfolds the map again—charcoal bruises, stamp fragments, that faint waxy sheen that promises UV schematics if you ever find the right glow.
+He plots the detour with a fingertip, following the audit-route logic: if the antenna-triangle anchors are “checkpoints,” then the safest path is the one that *never* touches their sightlines. Mila keeps her compass housing level, watching the needle shiver as the air’s static breathes. Nolan marks the ground with a tiny scratch of metal—directional, forgettable, the kind of sign only a Nomad would read.
+You leave the rest stop without touching the tripline, without silencing the clacker—letting it keep time for whoever set it, because tampering is its own kind of confession.
+
+Reactivity
+
+Heat: stays 3 (Patrols) — no contact, no chase.
+Anomaly: stays 1 (Static) — faint hiss persists, like a cassette left rolling.
+Clues: loc*conf remains 3 (GPS coords already known); map*auth 3 *(UV schematics known)*; access_conf 1 *(enforced checkpoints confirmed)*.
+Fail-Forward: not triggered.
+
+State Machine
+
+current_step: 7 — Echo Chamber
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ⬜
+clues: map*auth 3* *| loc*conf 3 | access_conf 1
+meters: cond stable | relic 3 | anomaly 1
+heat: 3 (Patrols)
+supplies: 1
+
+The detour drags you into a shallow cut in the land where the glass-sand gives way to old concrete ribs—storm drain segments, half-buried like the spine of something extinct. Neon isn’t *here*, not really, but the world still finds ways to fake it: sunlight hits scattered shards and throws prismatic slashes across your boots, across Mila’s tools, across Alex’s folded map like a sick disco ball.
+Then the sound changes.
+A hollow, rounded thrum—not loud, but *present*, as if the air itself is a drumhead. It’s the kind of acoustics you get from a big empty structure: a water cistern, an underground chamber… an echo chamber.
+Mila stops, head cocked. “That’s a relay cavity,” she whispers, like saying it too loudly might wake it. “If the old world built passive reflectors, they’d hide them in places like this.”
+Nolan crouches, presses his palm to the concrete. “Footprints get weird in here. Sound carries. So do mistakes.”
+Alex opens the map just enough to compare the rotated grid to the terrain. One of the hidden anchor points isn’t on the surface at all—it’s offset, implying vertical access. A maintenance hatch, a culvert mouth, a service stair. The legend’s hatch-rectangle symbol sits right where the concrete ribs dip into shadow.
+A faint draft leaks out of the dark. It smells like dust, ozone, and old wet pennies.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Use the thrum and reflected static to locate the relay cavity’s “sweet spot,” then attempt a sync test—if it’s still aligned, it can verify the map’s truth-layer.
+Alex (History): Interpret the civil-defense style markings and infrastructure layout to guess the correct entry point (and avoid walking into a monitored choke).
+Nolan (Stealth): Scout the shadowed dip for tripwires, chalk marks, or watcher perches before anyone commits to going below.
+
+Your Choices
+
+Mila: Follow the thrum into the shadowed dip and run a relay “sync” test using improvised tuning (compass housing, wire, and timing by the clacker’s distant rhythm).
+Alex: Cross-reference the rotated grid with the concrete ribs and pick the most likely maintenance entry—commit to a specific hatch/culvert approach.
+Nolan: Ghost ahead into the dip and clear it for traps or watchers before anyone goes near the entry.
+
+Which path do you choose?

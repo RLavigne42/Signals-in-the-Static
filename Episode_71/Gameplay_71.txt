@@ -1,0 +1,69 @@
+Decision Point
+
+Alex: Follow the signage to the letter—turn the handwheel in measured increments, pausing to listen for duct flow and watching for an indicator change.
+Mila: Risk a brief slowdown in cranking to free a hand—help Alex with leverage on the valve while trying not to warp the Tone-Key playback.
+Nolan: Commit to rear-guard survival—use cloth and whatever seal you can improvise to slow smoke ingress while Alex works uninterrupted.
+Alex & Nolan: Alex works the valve while Nolan physically braces/controls the inner door path, ready to yank Alex clear if the mechanism surges.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:58:43 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex chooses discipline over force.
+He turns the handwheel in measured increments—a quarter-turn, then a pause. He leans in close, listening for the bunker’s response the way he’d listen to a warped cassette: not for what you *want* to hear, but for what’s actually there.
+Whooomp. Air slides through hidden ducts. The corridor’s reflective tape trembles. The inner door’s gap widens another finger-width… and holds.
+Alex waits. Counts under his breath. Watches the door path like the placard demanded: STAND CLEAR OF DOOR PATH.
+Another careful quarter-turn.
+This time the ductwork answers with a sharper sigh—pressure equalizing, not just moving. Somewhere inside the wall, a mechanical indicator clicks from blank to a single stamped word behind a tiny window:
+SAFE
+The inner door responds immediately—no drama, no slam—just a steady, heavy glide as bolts withdraw deeper into their housings. The opening grows from a handspan to a shoulder-width passage.
+Behind you, smoke finally pushes in with intent. The chamber’s air turns bitter, grit catching in the throat. Nolan’s scarf is up; his eyes are narrowed to slits. Mila keeps the crank tempo steady at the AUTH port—tone playback still feeding the bunker like a lifeline.
+A last relay clacks—ka-thunk—and the bunker gives you something it hasn’t given all night:
+Time.
+A narrow strip light inside the corridor flickers on—dim, chemical, old—casting everything in a sickly gray that still feels like mercy compared to smoke.
+
+Reactivity
+
+thread_milestones: none newly triggered
+access_conf 3 *(Tone-Key sequence already secured via playback medium)*
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(active)*
+anomaly 1 (Static) *(active)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅ | Pressure equalized ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor beyond is tight and utilitarian—concrete, stenciling, old adhesive footprints where warning placards used to be. A second inner hatch sits ten meters in, marked with a faded emblem and a line of text that makes Alex’s stomach drop:
+SURVIVOR SEED-VAULT — BIOSECURE STORAGE
+So that’s what the bunker really is. Not an armory. Not a command post.
+A promise sealed in concrete.
+But promises still have locks.
+The hatch has no handle—only a recessed mechanical keypad with chunky, pre-Disconnect buttons and a slot labeled:
+CREDENTIAL STRIP / PAPER TAPE
+Mila’s cassette tones are still running into the AUTH port behind you. The bunker accepted them—but this next door wants something *else*. A second factor. Analog paranoia, engineered into steel.
+Behind, the smoke thickens; the Analog Order is still there, still patient. You can hear something heavy scrape the blast door—like they’re setting a ram or bracing to hold you in while you choke.
+
+Approach Hooks
+
+Alex (History): Study the hatch text and keypad wear-patterns; look for institutional habits—default codes, date formats, and “paper tape” credential conventions.
+Mila (Engineering): Trace the keypad’s mechanical linkage and listen for internal tumblers; attempt a safe bypass without triggering a reseal.
+Nolan (Caution/Stealth): Take rear guard in the corridor mouth; prepare a choke-point defense and monitor smoke density/airflow.
+
+Decision Point
+
+Alex: Examine the keypad and “CREDENTIAL STRIP” slot for clues—wear marks, date conventions, and any procedure language that hints at the correct input.
+Mila: Inspect the keypad mechanism and hatch frame—attempt a non-destructive bypass or find an emergency release tied to pressure/decon.
+Nolan: Fall back to the corridor entrance and fortify—slow the smoke and prepare to repel a breach while the others work the hatch.
+Mila & Alex: Work in tandem—Alex interprets the bunker’s credential conventions while Mila tests the mechanism with minimal risk.
+
+Which path do you choose?

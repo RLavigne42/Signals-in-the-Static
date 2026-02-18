@@ -1,0 +1,71 @@
+Your Choices
+
+Alex: Pull the sealed binder and scan for immediate protocols—what to secure, what not to touch, and how to keep the vault hidden.
+Mila: Work the crank device softly—test whether it controls pressure, lights, or a lock deeper inside, without waking photo-cells.
+Nolan: Sweep the perimeter in near-total dark—find a secondary route or a defensible angle before the breach reaches the door.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:16:52 UTC---model: gpt-5.2---temp: 0.70
+
+Cold Shelves | Recap
+
+Alex pulls the VAULT PROTOCOLS (ANALOG) binder from its plastic sleeve with the care of a man lifting a holy text off an altar. The sleeve crackles—dry, sharp—too loud in this organized dark.
+He opens to the first tabbed section. The pages are thick, slightly waxed, meant to survive damp, time, and human panic. A bold header stares back in block print:
+IMMEDIATE ENTRY PROCEDURE — DO NOT USE WHITE LIGHT.
+1) CONFIRM SEAL INTEGRITY.
+2) VERIFY AIR HANDLING (MANUAL).
+3) INVENTORY CANISTERS WITHOUT MOVEMENT.
+4) IF BREACH SUSPECTED: INITIATE “BLACKOUT HOLD.”
+Alex’s eyes flick to a margin note—handwritten, older ink:
+“If you hear *tools* on the outer slab, you’re already late.”
+Another page—thin graph paper stapled in—shows a crude diagram of this room: shelves, canisters… and a narrow rectangle behind the southern rack labeled:
+SERVICE CRAWL (NO LIGHT) → “STACK”
+There’s also a warning stamped twice, as if someone wanted it to haunt you:
+DO NOT OPEN CANISTERS UNLESS TEMP STABLE.
+DO NOT OPEN CANISTERS UNLESS TEMP STABLE.
+Behind the bulkhead: THUNK… THUNK… metal on stone. The patrol has found something to hit with conviction.
+
+Reactivity
+
+Thread milestones: none triggered *(no clue track changes this turn)*
+Meter breakpoints: none triggered *(heat remains at 5: Kill-on-sight already active; anomaly unchanged)*
+Fail-Forward: not invoked *(success: you gained actionable protocols + location of a service crawl)*
+
+State Machine (Updated)
+
+current_step: 11 — Cold Shelves
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The vault smells like dry paper and cold metal. Your pinhole beam slides over the canisters again—each one a future packed into a cylinder—and then down to the floor, where dust isn’t allowed to settle. That means airflow. That means the crank device matters.
+Alex flips to BLACKOUT HOLD. The instructions are blunt, almost cruel in their simplicity:
+
+Kill all light sources.
+Engage manual air to LOW.
+Do not move inventory.
+Relocate to service crawl and wait for silence.
+If forced entry occurs: do not confront. Preserve the vault.
+
+Nolan exhales through his nose—silent laughter without humor. “So the plan is… hide in the walls and let them take it.”
+Mila’s coil twitches faintly, picking up a clean, sleeping hum—shielded systems, old but not dead.
+Another THUNK from the bulkhead. Closer now, or maybe your nerves are amplifying it. The door you came through holds—for the moment—but the binder makes one thing clear: this place was designed to survive *raids*, not win them.
+
+Approach Hooks
+
+Alex (History/Procedure): Use the binder’s diagram to locate the service crawl and interpret “STACK” (cold storage? records? secondary seal?).
+Mila (Engineering/Radio): Follow protocol step 2—use the manual air controller to set airflow LOW without triggering any light-sensitive sensors.
+Nolan (Stealth/Caution): Prepare the Blackout Hold: kill even pinhole light, mark a tactile path to the crawl, and set a quiet trip indicator near the bulkhead.
+
+Decision Point
+
+Alex: Lead the trio to the southern rack and find the hidden service crawl entrance—no light, by touch, using the binder diagram.
+Mila: Move to the crank-and-needle controller and set air handling to LOW, watching for needle shudder or relay clicks that might signal an alarm.
+Nolan: Set a silent early-warning at the bulkhead (string-and-tin, grit line, anything tactile) and map a fallback line to the crawl in darkness.
+
+What will you do?

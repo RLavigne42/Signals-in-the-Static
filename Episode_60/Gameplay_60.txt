@@ -1,0 +1,59 @@
+Decision Point
+
+Mila: Hard-seal the chamber now—hunt for a secondary latch/dog-bolt and lock it while Alex holds their attention.
+Nolan: Use the hesitation to disarm the cudgel zealot—fast, close, and quiet—then retreat back into the crawl with the lantern.
+Alex: Escalate the bluff—cite a “Purge Cycle Step 2” and threaten immediate venting to force them to back away from the door.
+Mila: Trigger a controlled pressure “cough” timed with Alex’s threat—risk noise to shove them off balance.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:45:57 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex doubles down on the bluff—no poetry, no pleading. Just cold procedure, delivered like a stamped order.
+“PURGE CYCLE—STEP TWO.” His voice cuts through the steel seam and into the corridor, crisp as tearing cassette tape. “VENTING IN TEN SECONDS. STAND CLEAR OF THE DOOR. DO NOT INHALE. DO NOT TOUCH.”
+Mila feels the words land outside like thrown gravel—small impacts, sudden doubt. Nolan, still cinched behind the torch-bearer, feels the man’s body go rigid with fear.
+For a heartbeat, the Analog Order isn’t a doctrine. It’s three humans deciding whether faith is worth coughing up blood.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat already 5: Kill-on-sight; anomaly 1: Static persists)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(no failure; bluff is holding—barely)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(door held; wedge still biting; breach delayed)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor answers in fragments.
+The lantern zealot takes an involuntary step back—boots scuffing concrete—pulling the light with him. The cudgel zealot hesitates, jaw working, eyes flicking from the seam to the bottle to the darkness behind him where Nolan *shouldn’t* be.
+Then the tall one with the black-sun stitching snarls, trying to stitch certainty back together. “It’s a trick—”
+But his voice isn’t alone anymore. The bunker’s static thickens in the air like invisible lint, crawling up the inside of teeth. Somewhere deeper in the facility, metal ticks as it cools—or as it *listens*. The door wheel under Mila’s palm trembles, and for a second the seam exhales a thin, dry breath of air that smells like paper, cold steel, and something faintly sweet, like old vinyl left in a hot car.
+Alex counts down anyway, because counting is a spell people still obey.
+“…Eight. Seven.”
+The lantern zealot retreats another pace. The torch-bearer’s knees soften in Nolan’s grip. The cudgel zealot shifts his stance—less aggressive now, more braced to run.
+Mila’s eyes meet Alex’s for a razor-thin moment: *If we’re going to make this real, it’s now.* She can’t vent poison that isn’t there—but she can slam a latch, throw a bolt, jam the hinge-side, and turn Alex’s lie into an outcome: distance.
+Nolan’s fingers tighten around the bottle and cloth: leverage, hostage, bargaining chip—whatever keeps flame away from the seam.
+
+Approach Hooks
+
+Alex (Diplomacy/History): Keep the cadence authoritative; add believable details (mask requirement, quarantine radius) to force full withdrawal.
+Mila (Engineering): Use the retreat to engage a secondary dog-bolt/hinge jam; convert hesitation into a hard seal.
+Nolan (Stealth/Combat-Caution): As they back off, strip the lantern (light control) or shove the torch-bearer into them to create a tangle and escape angle.
+
+Your Choices
+
+Mila: Use the countdown window to find and slam a secondary latch/dog-bolt—make the seal real while they’re backing away.
+Nolan: Turn their retreat into a rout—shove the torch-bearer into the lantern zealot, snatch the lantern, and vanish back into the crawl.
+Alex: Push the bluff to completion—hit “ZERO,” then order them to drop weapons and lie prone “for decon,” gambling they’ll obey.
+Nolan: Keep the torch-bearer as leverage—whisper a threat, force him to call the others off, then trade him for a clean withdrawal.
+
+Which path do you choose?

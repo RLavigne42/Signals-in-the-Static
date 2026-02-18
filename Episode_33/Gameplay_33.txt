@@ -1,0 +1,54 @@
+Decision Point
+
+Alex: Lead the trio to the southern rack and find the hidden service crawl entrance—no light, by touch, using the binder diagram.
+Mila: Move to the crank-and-needle controller and set air handling to LOW, watching for needle shudder or relay clicks that might signal an alarm.
+Nolan: Set a silent early-warning at the bulkhead (string-and-tin, grit line, anything tactile) and map a fallback line to the crawl in darkness.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:18:01 UTC---model: gpt-5.2---temp: 0.70
+
+Cold Shelves | Recap
+
+Mila slides to the squat crank-and-needle controller, keeping her shoulders tight to the shelving so the pinhole beam doesn’t wander. The device is all analog stubbornness: a glass-faced meter, a knurled selector, and a crank that smells faintly of old oil and ozone.
+She braces two fingers on the selector and turns it toward AIR / LOW.
+The bunker answers.
+Not with light—thank whatever engineer wrote those protocols—but with a soft internal relay-click, then a long, controlled hiss as dampers shift somewhere deep in the walls. The needle on the meter trembles, climbs a hair, then steadies in the green band labeled STABLE.
+Mila leans close, listening with her whole skull. No alarm chatter. No sudden lockout. Just the quiet, methodical *breathing* of a place built to outlast the world.
+Behind you, through the bulkhead: THUNK… scrape… THUNK. The patrol is still working. But the vault is now in Blackout Hold—air low, scent minimized, pressure calmer. A hiding place that stays hidden.
+
+Reactivity
+
+Meter breakpoints: none triggered (heat stays 5: Kill-on-sight; anomaly stays 2: Static)
+Thread milestones: none triggered (clue tracks unchanged)
+Fail-Forward: not invoked (clean success; you stabilized conditions per protocol)
+
+State Machine (Updated)
+
+current_step: 11 — Cold Shelves
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The air goes thinner, drier. Dust doesn’t lift. Sound doesn’t carry as far. Even your breaths feel like they’re being swallowed by foam.
+Alex closes the binder halfway and taps the line again: Relocate to service crawl and wait for silence. His eyes flick between the page and the southern rack diagram.
+Nolan’s posture hardens—he hears the same thing you do in the metalwork: the patrol isn’t *searching* anymore. They’re committing.
+Somewhere above the shelves, the faintest vibration shivers through a canister tag—tinny, like a cassette deck beginning to spin.
+
+Approach Hooks
+
+Mila (Engineering/Radio): With air set to LOW, she can test the controller’s other positions (FILTER / PURGE / SEAL) *without* introducing light—listening for the relay pattern that might indicate a deeper lock or secondary door.
+Alex (History/Procedure): Use the binder diagram to locate the service crawl by touch and interpret “STACK” as either storage, records, or a secondary seal zone.
+Nolan (Stealth/Caution): Use the quieter airflow to set a near-silent early-warning line at the bulkhead and guide the group into concealment before the first breach.
+
+Decision Point
+
+Alex: Lead everyone to the southern rack and find the service crawl entrance by touch—no light, per protocol.
+Mila: Keep one hand on the controller and try SEAL (or FILTER) to see if the vault can “button up” further—listening for any lock engagement deeper inside.
+Nolan: Lay a silent trip indicator at the bulkhead side of the room and position himself at the darkest angle to delay or misdirect an entry.
+
+What will you do?

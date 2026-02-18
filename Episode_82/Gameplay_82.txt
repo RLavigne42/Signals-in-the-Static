@@ -1,0 +1,69 @@
+Decision Point
+
+Mila: Set the inner door to a strict service gap (4–6 inches) and start moving the party through one at a time, ready to cam-lock.
+Nolan: Hold the vestibule and prepare to meet the breach—improvise a last-second delay while Alex and Mila get through first.
+Alex: Keep flipping BLACKOUT YEARS for a quarantine bypass or alternate route—risking seconds now to avoid a dead-man protocol later.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:19:32 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila takes the binder’s warning like gospel: no full cycle. She pins the inner door to a 4–6 inch service gap, turning the bunker’s own procedure into a weapon—an engineered choke point. Alex, clutching BLACKOUT YEARS, calls the steps. Nolan stays half-turned toward the outer hatch, listening to the saw’s hungry rhythm.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(milestone available: Tone-Key sequence)*
+meters: cond stable | relic 1 | anomaly 1 (Static) *(breakpoint active)*
+heat: 5 (Kill-on-sight) *(breakpoint active)*
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones:
+access_conf 3/3 → Reveal: Tone-Key sequence *(already in hand; usable on compatible inner systems)*
+
+Scene
+
+Mila braces her shoulder against the inner door and rides the cam’s motion—WHUM… clack…—stopping it at the exact moment the seam becomes a narrow, controlled throat. Pale bunker-light spills out in a blade, cutting through dust motes like glitter in a dead club.
+“Four inches,” she murmurs, measuring by knuckle-width like it’s a ritual. “Maybe five. No more.”
+Alex goes first—sideways, binder hugged to his chest. The gap bites at his jacket, snags a strap, then lets him slip through into the clean corridor beyond. The air on the other side is colder, drier. It smells like paper, rubber gaskets, and time kept in a sealed box.
+Nolan follows, last by instinct, but Mila catches his sleeve. “You’re not last yet. Not if that hatch pops.”
+He nods once—grim agreement—and slides through second, keeping his body turned so he can see the vestibule until the door’s edge hides it.
+Now it’s Mila’s turn. Behind her, the outer hatch sings with new violence: the saw’s pitch rises—eeeeee—then drops into a harsher grind. Metal is thinning. The Analog Order is close enough that you can almost taste their certainty.
+Mila ducks and threads herself through the gap, tool belt scraping. She reaches back through the seam—blind—fingers searching for the manual cam lock lever the binder described.
+She finds it.
+It’s stiff. Old. Unforgiving.
+She throws her weight into it.
+CLACK.
+The cam seats.
+The inner door holds at a narrow service gap—sealed enough to deny a rush, open enough to breathe and pass a hand through if you must. A bunker compromise, written by someone who understood that “safe” is sometimes just “not dead yet.”
+From the vestibule side comes a sudden, sharp change: a hollow thunk, then a brief scream of metal. The saw has either bitten through a layer or hit a brace.
+Nolan’s eyes track the seam. “If they breach, they’ll meet this gap. One at a time.”
+Alex flips the binder to the next laminated chart, voice tight but steady. “Next step says: *If breach conditions persist, relocate deeper and engage secondary barrier.*”
+The corridor ahead is dim, lit by a single emergency strip powered by something stubborn and analog—chemical glow or ancient battery. A stenciled arrow points inward:
+ARCHIVE / GERMINATION →
+DECON →
+And somewhere deeper—barely audible under the distant grind—there’s a faint, periodic tick… tick… tick, like a mechanical timer that never learned the world ended.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Keep the door in service-gap mode and rig a simple mechanical “tell” (string + washer) to warn if the cam shifts—then move deeper before you’re pinned.
+Alex (History/Procedure): Use BLACKOUT YEARS to identify the *secondary barrier* and avoid triggering Quarantine Mode by choosing the correct corridor (DECON vs ARCHIVE).
+Nolan (Stealth/Combat Caution): Set a silent ambush at the service gap (broken glass, trip cord, or a swinging weight) while staying out of sight—make the first intruder pay.
+
+Decision Point
+
+Alex: Follow the binder’s flowchart and head for DECON first to prevent quarantine protocols from sealing you in the wrong section.
+Mila: Advance toward ARCHIVE / GERMINATION and look for a compatible panel to apply the Tone-Key sequence—get deeper access before the breach.
+Nolan: Stay near the service gap long enough to set a silent trap, then fall back—buy time without getting pinned.
+
+What will you do?

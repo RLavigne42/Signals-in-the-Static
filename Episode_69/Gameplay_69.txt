@@ -1,0 +1,63 @@
+Decision Point
+
+Mila: Carry the running deck to the AUTH PLAYBACK PORT and insert the cassette as the bunker requests—commit to opening the inner door before smoke worsens.
+Nolan: Shift priority to survival—seal the blast door seam and prep breathing cloth now, even if it delays the inner door by a minute.
+Alex: Inspect the port and signage for traps—confirm this isn’t a “Dead-Man” trigger or a decoy meant to lock you in.
+Mila & Nolan: Split—Mila preps insertion at the port while Nolan fights the smoke at the blast door; Alex coordinates timing from the procedure card.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:56:23 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila commits—again—to motion over hesitation.
+With smoke beginning to thread under the outer blast door, she hauls the training deck to the recessed AUTH PLAYBACK PORT beside the inner door. The cassette stays seated, the tape ready like a loaded round. Alex shadows her shoulder with the procedure card, flashlight beam jittering over stenciled warnings. Nolan keeps low by the seam, scarf up, listening for the moment the Analog Order decides to turn “threat” into “breach.”
+The port is exactly cassette-shaped—an insultingly simple mouth in a wall of military steel. Mila aligns the deck’s output lead to the port’s jack, then pauses just long enough to steady her breathing.
+“Full sequence,” Alex murmurs. “Uninterrupted.”
+Mila starts cranking—smooth, metronomic. The deck’s little motor whirs. The tones spill again: clipped, sterile, machine-prayer. She slides the cassette into the port.
+For a heartbeat, nothing.
+Then the bunker answers.
+A deep internal relay clacks like a jaw setting. The inner door’s frame vibrates. The mechanical indicator needle twitches from ARMED to ACCEPTED—and a heavy bolt withdraws with a sound like a steel coffin deciding not to be one.
+Smoke thickens at the outer door seam, curling in gray ribbons.
+Nolan coughs once, then points with two fingers toward a narrow gap forming at the inner door. “That’s our air,” he says. “And our way.”
+
+Reactivity
+
+thread_milestones: none newly triggered
+access_conf 3 *(Tone-Key secured via playback medium; already revealed)*
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(active)*
+anomaly 1 (Static) *(active; bunker’s background hiss persists)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The inner door opens only a handspan—enough to spill out a breath of air that smells different: colder, drier, like paper sealed in plastic. Neon is gone here; the light is the dead gray of concrete and the faint gleam of old reflective tape.
+Beyond the gap: a short corridor with stenciled arrows, a wall-mounted handwheel valve, and a second panel labeled:
+DECON / PRESSURE EQUALIZATION — MANUAL
+The bunker isn’t inviting you in. It’s testing whether you can enter without poisoning what’s inside.
+Behind you, the outer blast door seam hisses louder. The Analog Order is feeding the smoke, patient and cruel.
+
+Approach Hooks
+
+Mila (Engineering): Keep the deck/power stable while you transition—if the port needs continuous tone for the full unlock cycle, you can’t let the tape slow.
+Alex (History): Read the stenciling and procedure language—military facilities love “gotcha” steps like pressure equalization that will slam a door shut if skipped.
+Nolan (Caution/Combat): Manage the choke point—use the opening as a defensible funnel, and watch for a forced breach at your back.
+
+Decision Point
+
+Mila: Hold crank speed steady and push through the inner door gap first, keeping the Tone-Key playback stable while you look for the manual pressure equalization control.
+Alex: Take point into the corridor and interpret the DECON / PRESSURE signage—call the exact sequence so you don’t trigger an automatic reseal.
+Nolan: Stay rear guard at the outer blast door, seal the seam with what you can and prepare to repel a sudden ram while the others work the inner controls.
+Mila & Alex: Move together into the corridor—Mila maintains playback/power while Alex handles valves and reads procedures; Nolan follows once the pressure cycle starts.
+
+Which path do you choose?

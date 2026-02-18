@@ -1,0 +1,57 @@
+Decision Point
+
+Nolan: Lead an immediate, low-profile exit through marked alleys—shake any watchers before they can coordinate.
+Mila: Stop under cover and fix the bearing/coords onto the bunker map with the grease pencil—make the route durable and sharable.
+Alex: Spend one more minute networking—use the vendor’s goodwill to get a named contact or passphrase for the northeast approaches.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 04:52:37 UTC---model: gpt-5.2---temp: 0.70---
+
+Relic Market | Recap
+
+Mila ducks under a patched vinyl awning where the Relic Market’s lantern-light can’t quite reach. Rain ticks faintly on plastic sheeting overhead—soft, patient, like fingers drumming on a cassette case.
+She unrolls the bunker map against a crate stenciled with faded ARCADE PARTS. The paper’s tired, creased into old decisions. With the new grease pencil, she marks fast and sure: the approximate coordinates, then a bold arrow and a clean annotation:
+071° NE — KEEP TO ALLEYS / AVOID OPEN STREETS
+The mechanical compass clicks as she sets it, needle trembling, then settling with stubborn certainty. No batteries. No prayers. Just north.
+Alex leans close, shielding the map with his coat like it’s a candle in wind. Nolan watches the market edge—those two robed figures still there, still not buying, still *counting*.
+A vendor’s wind chimes—cassette spindles—tinkle once. The robed watchers shift, as if deciding whether to follow.
+Mila rolls the map back up. The waxy marks don’t smear. They *stick*—a physical memory you can’t lose to rain or panic.
+
+Reactivity
+
+Checkpoint: High relic ✅ (unchanged; you’re geared and now your route is durable).
+Meter breakpoints: no change (Heat remains below Patrols threshold; Anomaly unchanged).
+Thread milestones: none new (loc*conf already at 3 earlier; access*conf/map_auth unchanged).
+
+State Machine
+
+current_step: 5 — *Glass Desert*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ⬜
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1
+heat: 2 *(Observation active; Patrols at 3)*
+supplies: 1
+
+The city thins as you move northeast—buildings turning to broken teeth, streets to gravel and glassy slag. The locals call it the Glass Desert: a stretch of fused sand and shattered storefronts where the sun hits wrong and the horizon wobbles like an old CRT with bad vertical hold.
+Wind skates over the ground with a dry hiss, carrying scraps of vinyl and the faint chemical bite of ancient fire. Every step crunches—glass under boot, history under heel.
+Nolan raises a hand: stop.
+Ahead, on a low ridge of glittering rubble, a strip of cloth flutters from a rebar spike—white, painted with a crude symbol: a circle with a slash through it.
+Analog Order doctrine marker. A warning and a claim.
+Farther out, you see movement—two figures pacing slow, sweeping the terrain with long poles like they’re probing for mines… or for *relics to burn*. Between you and the next cover is an open run of shimmering ground that will announce you with every crunch.
+
+Approach Hooks
+
+Use the alleys until they end: Follow the last lines of broken walls and collapsed storefronts to minimize silhouette before the open glass.
+Move like scavengers, not travelers: A slow, irregular pace and low profile reads as local picking—less likely to trigger a stop-and-search.
+Let the compass do the arguing: Mila can keep the group aligned on 071° NE while Nolan chooses micro-cover to avoid leaving a straight track.
+
+Decision Point
+
+Nolan: Lead a wide, low crawl along the collapsed storefront line—use rubble as cover and time the crossing when the patrol’s backs turn.
+Mila: Rig a quick decoy—hang reflective scraps on wire to draw eyes and poles toward a false “relic glint” off-route.
+Alex: Walk out openly as if you’re simple scavengers—use calm diplomacy and 80s-laced small talk to avoid a search if you’re challenged.
+
+What will you do?

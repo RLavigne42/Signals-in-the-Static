@@ -1,0 +1,64 @@
+Decision Point
+
+Alex: Locate and open the false panel to Pressure Corridor P‑2—quiet, precise, now.
+Mila: Take point on manual equalization—search for the valve/handwheel and prep the pressure sequence before anyone opens the panel.
+Nolan: Reinforce the STACK door wheel and hinge side with whatever you can scavenge—buy time against the pry bar.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:26:04 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila takes point—not with bravado, but with the grim calm of someone who’s listened to too many dying radios and learned what *pressure* does when it gets angry.
+Alex holds the manifest rack steady with one hand and keeps the raised-letter procedure line under his fingertips with the other, whispering the warning like scripture: “Manual equalization required. Do not open both doors simultaneously.”
+Nolan stays by the STACK wheel, ear to the steel, counting impacts and tool-scrapes like a metronome. Outside, the Analog Order is no longer testing. They’re *building leverage*.
+Mila slides along the wall behind the manifest rack, searching for the quarter-turn latch and—more importantly—the little telltales: a seam that breathes cold, a faint vibration, that almost-imaginary hiss of air forced through old gaskets.
+Her fingers find it: a recessed handwheel, smaller than the STACK dog wheel, knurled and stiff. Stamped beside it in faded paint you can’t see but can feel in the raised edge: EQ.
+A manual equalization valve. The bunker’s throat.
+She braces, turns it a hair.
+A thin sigh answers from behind the panel—air moving where it hasn’t moved in decades. The scent changes: less paper-dust, more cold metal and something like old rain trapped in concrete.
+Then, from the other side of the STACK door: a wet *fwoomph* as oil rag kisses flame.
+The Analog Order’s smoke plan begins.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat stays 5: Kill-on-sight; anomaly stays 2: Static—present, not escalating)*
+thread_milestones: none triggered *(clue tiers unchanged)*
+fail_forward: not invoked *(Mila succeeds: equalization control located and partially opened)*
+
+State Machine (Updated)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Smoke doesn’t pour in yet—your door is dogged, your seal is good—but it *finds the seams* the way static finds a cut wire. A bitter, oily smell threads into the seed-vault in thin needles, testing for weakness.
+Mila listens with her palms. Not just to sound—*to pressure*. The valve gives her a language: a subtle push against her fingertips, a change in resistance as she opens and closes by millimeters. She can feel the corridor beyond the false panel like a lung behind a rib.
+“Alex,” she murmurs, “when I say open, you open it one finger-width. No more. Nolan—if they hit the door hard, tell me. Pressure surges can backdraft.”
+Nolan answers without turning. “They’re setting a pry. Two men on it. One lighting. They’re patient now.”
+Alex finds the quarter-turn latch behind the rack. His hand is shaking—not fear, not exactly. The adrenaline of being forced to treat a bunker like a living thing.
+Mila closes the EQ valve almost fully, then cracks it again—creating a controlled, tiny bleed. The seed-vault’s air stops feeling like a coffin and starts feeling like a system.
+You’re ready to open the false panel to P‑2—but if you do it wrong, you’ll either:
+
+suck smoke in like a hungry throat, or
+pop the panel with a pressure slap loud enough to guide the Analog Order right to your hidden route.
+
+Approach Hooks
+
+Mila (Engineering): Run a proper equalization sequence: bleed, pause, test seam, then signal Alex to open the panel only when pressure is neutral.
+Alex (Procedure/History): Follow the emergency protocol wording precisely—there may be a specific order (valve → panel → inner door) designed to prevent contamination.
+Nolan (Caution): Time the opening between impacts—use the Analog Order’s pry rhythm as cover, and be ready to kill the panel’s rattle with cloth or tape.
+
+Decision Point
+
+Mila: Commit to the full equalization cycle now—slow, exact—then cue Alex to open the false panel finger-width and hold.
+Alex: Take over the sequence using the printed emergency procedure—call each step aloud and keep everyone synchronized.
+Nolan: Stay on the STACK door and create a diversion noise *inside* the vault (a controlled crash) to mask the panel opening—risking attention but buying silence.
+
+What will you do?

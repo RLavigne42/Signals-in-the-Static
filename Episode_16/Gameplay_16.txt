@@ -1,0 +1,60 @@
+Decision Point
+
+Nolan: Take the maintenance culvert—lead a silent crawl to slip past the Patrols’ search pattern.
+Alex: Stop for ten seconds to secure the map and satchel with the filter cloth—protect the route even if you get jostled.
+Mila: Create a decoy glint and sound behind you—draw the pole-taps and Patrols away from your chosen path.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 04:59:40 UTC---model: gpt-5.2---temp: 0.70---
+
+Glass Desert | Recap
+
+Nolan doesn’t hesitate. He takes the maintenance culvert like it’s an old friend—dark, cramped, and honest about how badly it wants to kill you.
+He drops to his belly and slides into the half-buried mouth. The air inside is cooler, metallic, and wet with a sour stink—old runoff and dust that never fully settled after the world went quiet. Behind you, the Analog Order’s poles keep tapping the rubble line—*tap… tap… tap*—searching for hollows. Nolan’s choice turns that search into a guessing game.
+Mila follows, shoulders tight, keeping the compass and map hugged to her chest. Alex goes last, pulling the filter cloth over his satchel like a shroud, trying not to think about how paper sounds when it tears.
+Somewhere above, boots crunch over glass-slag. A pole scrapes rebar. Voices murmur—doctrine, anger, and the simple thrill of a hunt.
+
+Reactivity
+
+Heat breakpoint: Heat 3 remains Patrols (active). No new escalation.
+Anomaly breakpoint: Anomaly 1 remains Static (active). The hiss feels louder underground, as if the culvert itself is a speaker cone.
+Step progress: You’re still in Step 5; this move improves stealth odds toward the Dead Zone checkpoint.
+
+State Machine
+
+current_step: 5 — *Glass Desert*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ⬜
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1
+heat: 3 *(Patrols)*
+supplies: 1
+
+The culvert bends, then narrows. Your knees scrape grit. Water beads on the ceiling and drops onto your neck in cold punctuation. Ahead, Nolan pauses, listening—one hand up, fist closed.
+A faint glow leaks through a cracked grate above: daylight filtered through glass dust. And with it—sound.
+Not the patrol. Something else.
+A rhythmic *clack… clack… clack* like a loose fan belt. Then a soft, synthetic whine—too steady to be wind. It could be nothing. It could be a scavenger’s hand-crank rig. It could be a trap.
+Mila presses her ear to the pipe wall. The static in the air seems to *organize* for a second, like it’s trying to become a voice, then falls back into hiss.
+Nolan inches forward until the culvert opens into a small junction chamber: three exits.
+
+One slopes upward toward the cracked grate and that mechanical whine.
+One continues straight, deeper and darker, away from any light.
+One is partially collapsed, but you can see a thin ribbon of fresh airflow—an exit nearby.
+
+Above, somewhere, a whistle answers another whistle. Patrols are spreading.
+
+Approach Hooks
+
+Stay ghosted: Keep to the deeper, darker run to avoid silhouettes and grates that give you away.
+Use the environment: Mila can diagnose the whine from a distance—hand-crank generator, pump, or something more deliberate.
+Control your trace: Alex can use the filter cloth to wipe obvious smears and reduce the “human trail” in dust and moisture.
+
+Decision Point
+
+Nolan: Take the deeper, darker straight run—prioritize losing the Patrols even if it’s slower and rougher.
+Mila: Investigate the upward slope toward the whine—identify if it’s a scavenger rig, a trap, or a working relic.
+Alex: Go for the airflow exit—risk the partial collapse to surface quickly and regain bearings before Patrols bracket the area.
+
+What will you do?

@@ -1,0 +1,64 @@
+Decision Point
+
+Alex: Step to the speaker and deliver a calm, formal identification and purpose—using the binder’s phrasing to satisfy the bunker’s internal query.
+Mila: Try to “handshake” with the inner door—apply the Tone-Key pattern again through the speaker grille/gauge assembly to convert partial auth into full access.
+Nolan: Ignore the query for the moment—secure masks/canisters and set a defensive posture inside DECON before committing to any answer.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 06:21:50 UTC---model: gpt-5.2---temp: 0.70
+
+Inner Query Handshake | Recap
+
+You pick Mila again—trusting sound over steel. She pivots from the first Tone‑Key plate to the speaker grille and gauge assembly on the inner door, trying to turn your earlier PARTIAL AUTH / LOGGED into something that won’t bite you later.
+Behind you, the Analog Order’s pounding has changed cadence—less “cut” and more “break.” Time is turning into a physical thing in the corridor.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅ | Decon approach ✅ | Decon unlocked ✅ | Inner query engaged ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(Tone-Key sequence known; attempting upgrade)*
+meters: cond stable | relic 1 | anomaly 1 (Static) *(breakpoint active)*
+heat: 5 (Kill-on-sight) *(breakpoint active)*
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones (revealed):
+access_conf 3/3 → Reveal: Tone-Key sequence *(in use)*
+
+Scene
+
+Mila leans in until her breath fogs the speaker grille. The metal smells like old pennies and disinfectant—ozone trapped in pores.
+She doesn’t answer the voice. Not yet.
+Instead, she clips her hand-cranked tone generator to the grille with a spring clamp and runs a thin wire to the gauge housing—treating the whole assembly like a crude acoustic modem: sound in, response out.
+Alex murmurs, “It asked for identity.” Nolan, at the DECON entrance, doesn’t look back. “And it’ll ask again when the wrong people are holding the door.”
+Mila turns the crank.
+The Tone‑Key pattern threads into the room—three pitches, a pause that feels like a held breath, then the final rising chirp. The gauge needle trembles… then steadies, as if something behind the wall has woken and is choosing to be patient.
+The speaker clicks.
+“INPUT ACKNOWLEDGED.” The voice is still warbly, but now there’s a second layer beneath it—faint, like a cassette dubbed too many times: “…verify…”
+The static in Mila’s head spikes for half a second—sharp enough to make her eyes water—then drops back to a low hiss. Anomaly stays at 1, but it *leans* toward something worse if she keeps pushing.
+A new light—dim, amber—glows behind the gauge face: AUTH: CONDITIONAL.
+The inner wheel latch gives a quarter-turn on its own and stops, like a hand reaching out and then reconsidering.
+“STATE PURPOSE.” the voice says again. Not louder. Just firmer—like a clerk who’s decided you’re not getting past the counter without the right form.
+From the corridor behind DECON: a hard, final-sounding CRACK—metal deforming. The Analog Order is nearly through the outer hatch.
+Fail-forward edge: Mila’s handshake succeeded in upgrading you from *partial* to conditional—but it did not bypass the query. The bunker will open… only if someone answers in a way that matches its old protocols. You’ve gained leverage, not victory.
+
+Approach Hooks
+
+Alex (History/Diplomacy): Use the binder’s bureaucratic phrasing to give a purpose statement that fits “authorized entry” language—clean, calm, and *true enough* to pass.
+Mila (Engineering/Radio): Keep the Tone‑Key line “live” and watch the gauge/light; she can modulate the pattern to reinforce AUTH: CONDITIONAL if the system wavers mid‑answer.
+Nolan (Stealth/Caution): Stage the chamber: masks within reach, canisters ready, and a position that lets him slam DECON shut or ambush if the Order breaches into the corridor.
+
+Decision Point
+
+Alex: Step to the speaker and answer: identity + purpose, using the binder’s exact procedural language to satisfy the query.
+Mila: Push the handshake harder—attempt a second, tighter Tone‑Key modulation to force AUTH: FULL (risking a spike in the static).
+Nolan: Break the moment—secure the DECON entrance and prep an escape/defense, accepting the inner door may stay locked until you’re ready.
+
+What will you do?

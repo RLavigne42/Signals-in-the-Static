@@ -1,0 +1,59 @@
+Decision Point
+
+Nolan: Release to a controlled escort—put Jessa in front, whisper a single rule (“you sprint, you die”), and push toward the maintenance ladder *now*.
+Mila: Abandon the valve long enough to execute the protocol’s DOG BAR lockdown—buy minutes, then regroup at the hatch.
+Alex: Shout through the hatch with binder guidance—direct Nolan to the spine’s manual shutter and how to throw it, sealing the crawl behind them.
+
+Which path do you choose?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:37:08 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan moves now—and he keeps the stranger on a short leash.
+In the maintenance crawl, he eases his forearm off Jessa’s throat-line just enough for her to breathe, then nudges her forward with the knife’s flat. His whisper is pure Tech Nomad math: “Hands where I can see. You sprint, you die.”
+Jessa nods once—tight, efficient—and starts crawling ahead, palms open, pry tool tucked away. The spine swallows them both, metal close on either side like a coffin built by an engineer.
+Behind them, through the hatch and a room of stale air, the Analog Order’s work spikes: CRK—scrape—POP—. A wedge seats. The inner door is losing its patience.
+Ahead, the crawl angles down. The air turns colder, drier—dust that tastes like old paper and copper pennies. The bunker’s faint wrongness—static you feel more than hear—threads through Nolan’s teeth.
+Jessa stops at a vertical seam and points with two fingers. “Here. Ladder.”
+A panel swings inward on tired hinges. Beyond it: a narrow maintenance shaft with a rung-ladder bolted to concrete. Faintly, far below, something pulses—no lightbulb, no hum of a grid—just a subtle *pressure* in the air, like a cassette deck motor trying to turn without power.
+They descend.
+Halfway down, Nolan catches it: a hair-thin filament stretched across a rung—almost invisible in the dark.
+Tripline.
+He freezes, boots locked on the rungs, one hand gripping cold metal. Jessa’s shoulders tense above him; she hadn’t seen it either.
+From behind, the hatch area carries a new sound—muffled but real: voices, not chanting, not far. The Analog Order has bodies at the door now.
+
+Reactivity
+
+meter_breakpoints: none triggered *(anomaly remains 1: Static; heat remains 5: Kill-on-sight—already at max breakpoint listed)*
+thread_milestones: none *(clues unchanged; no tier reached)*
+fail_forward: not invoked *(no roll resolved yet; imminent hazard detected in time)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(entry achieved; you are inside the bunker’s internal access network)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The tripline trembles with the bunker’s breath. Below it, bolted to the wall, a small mechanical box—glass window clouded with age—holds a spring-wound striker and a bundle of thin copper leads disappearing into the concrete. Not electronic. Not dead. A pre-Disconnect *analog* alarm… or something nastier.
+If it snaps, it won’t ping a network. It’ll do something physical.
+And above, the Order is close enough that Nolan can hear leather creak and the soft clack of tools being passed hand-to-hand. Mila and Alex are still back in the chamber—alone with a door that’s being persuaded to fail.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Cut or bypass the tripline without vibrating the striker box—use cloth tape to dampen, then lift the filament off the rung.
+Mila (Engineering): From the chamber side, listen for pressure changes and prepare a controlled vent “cough” to mask small noises from the spine—if Nolan needs cover.
+Alex (History/Procedure): Recall common Cold War-era mechanical security tricks—tripline to striker, striker to gas canister or shutter drop—and warn Nolan what the box likely triggers.
+
+Decision Point
+
+Nolan: Bypass the tripline in the shaft—dampen the filament with tape, then lift it free and continue down toward the junction.
+Mila: Risk leaving the valve—throw the chamber’s manual lockdown sequence to stall the Order, even if pressure wobbles.
+Alex: Use the binder and shout a single, precise instruction through the hatch—identify whether this bunker uses shutter-drop traps and where the manual override might be.
+
+What will you do?

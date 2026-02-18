@@ -1,0 +1,59 @@
+Your Choices
+
+Nolan: Take the staff-only door and guide the trio into the service corridors—fast, quiet, and away from the scouts’ likely line of sight.
+Mila: Press to the back wall and trace the carrier tone through the conduit—triangulate the source *inside the building* before you leave.
+Alex: Seal the decoy—trade for a cheap, harmless mixtape on the spot so the story becomes “true,” then slip out with the crowd.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:45:59 UTC---model: gpt-5.2---temp: 0.70---
+
+Static on the Line | Recap
+
+Alex makes the decoy *real*.
+He drops into the Nostalgist circle like he’s always been there, like the neon has his name stitched into it. “Show me what you’ve got,” he says—gentle, hungry in the safe way: hungry for stories, not secrets.
+A kid with a shaved sidecut produces a cassette from an inside pocket as if it’s a blade. The J-card is hand-lettered in thick marker:
+FRIDAY NIGHT DRIVE // 1987 (RECORDING)
+DO NOT DUB
+“Found it in a glovebox,” the kid says. “Tape’s a little warped, but it plays. You trade?”
+Alex doesn’t hesitate. He offers something harmless but *convincing*: a clean blank cassette with an intact case and a strip of dot-matrix paper from his satchel—old, official-looking, useless to anyone hunting bunkers. The kid’s eyes widen at the paper alone. Deal done.
+The circle cheers like it’s a ritual. Someone slaps Alex’s shoulder. The rumor hardens into fact: Archivist came for tapes. Archivist traded. Archivist is vibe-safe.
+Across the arcade, the air still carries that needle-bright carrier tone—thin as fishing line—tugging at Mila’s attention. Nolan’s gaze keeps flicking to reflections and dark glass, hunting for the two too-clean faces.
+You catch a glimpse of one scout near the door—just a shoulder, a profile—watching the crowd, trying to reacquire you. But now the crowd *owns* you. Any move they make has to cut through witnesses.
+The attendant gives you a look that says *now*.
+
+Reactivity
+
+Thread milestone check: none triggered (triangulation not completed).
+Heat breakpoint status: Heat 2 → Observation remains active (Patrols at 3).
+Fail-forward: not invoked (you succeeded in cementing the decoy narrative).
+
+State Machine
+
+current_step: 3 — *Static on the Line*
+checkpoints: Inside, Coords, Bearing (pending)
+clues: map*auth 0 | loc*conf 2 | access_conf 0
+meters: cond stable | relic 2 *(+1 cassette acquired)* | anomaly 1
+heat: 2
+supplies: 0
+
+The boombox altar thumps out a muffled bassline; dust dances in the neon like glitter that forgot it was supposed to settle. In the distance, the STAFF ONLY door breathes fryer-oil air again—an alleyway promise.
+Mila murmurs, barely moving her lips: “That carrier’s stronger when the sign flickers. Like it’s riding the building’s metal.”
+Nolan answers without looking at her: “We don’t solve mysteries while we’re being watched.”
+Alex, clutching the newly traded tape like it’s a passport, says, “We can do both—if we do it like we belong.”
+
+Approach Hooks
+
+Slip out on a “local errand”: Use the staff corridor like you’re fetching ice, parts, or a mop bucket—mundane movement draws no chase.
+Triangulate with zero gear-flash: Mila can “walk the signal” by tracking where the carrier tone strengthens near conduit, signage, and doorframes—no radios out.
+Use the mixtape as cover: Alex can keep the tape visible so anyone tailing you assumes you’re leaving to *play it*, not to follow coordinates.
+
+Your Choices
+
+Nolan: Take point through the STAFF ONLY door and get the trio into the service corridors—minimize exposure and avoid the main exit sightline.
+Mila: Move along the back wall, palm brushing conduit and metal frames—map where the carrier tone peaks to lock the 071 (NE) bearing before you leave.
+Alex: Ask the boombox circle for a “listening corner” to test the traded tape—use the playback as a natural reason to drift toward the back rooms and exits.
+
+Which path do you choose?

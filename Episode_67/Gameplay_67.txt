@@ -1,0 +1,66 @@
+Decision Point
+
+Mila: Hook the hand-crank generator to the training deck and start playback—aim for stable speed so the tones don’t warp.
+Alex: Read the playback procedure card and direct Mila step-by-step, ensuring you don’t trigger any “Dead-Man” conditions.
+Nolan: Pull everyone back from the door line and prepare for smoke—seal seams, wet cloth, and pick a retreat point inside the chamber.
+Alex: Try speaking through the door one last time—invoke quarantine protocol to make the Order hesitate while Mila prepares the deck.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:53:53 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex snaps the folded PLAYBACK PROCEDURE — QZ AUTH card open with careful fingers, holding it close to the flashlight’s weak cone like a priest reading a liturgy off a scorched hymn sheet.
+The card is blunt. Mechanical. Unforgiving.
+
+Verify playback device integrity
+Verify power source stability
+Insert cassette
+Stand clear of door mechanisms
+Playback: full sequence, uninterrupted
+Do not speak tones
+Do not write tones
+
+Alex’s voice stays low—more breath than sound—as he directs Mila step-by-step. Mila nods once, jaw set, already tracing the generator socket and the deck’s power leads, measuring in her head what “stable” means when the only thing that can feed this machine is a human arm.
+Nolan keeps his shoulder near the blast door, listening to the outside world through steel. The Analog Order’s movements have a new rhythm—cloth, scrape, pause—like they’re preparing to smother the seam with something that will burn slow and choke fast.
+The bunker’s air tastes faintly of ozone and dust, and beneath it, that ever-present cassette-hiss static—like the building itself is tuned to a dead station.
+
+Approach Hooks
+
+Alex (History/Diplomacy): Treat the procedure card like law—spot the “gotchas” that old military systems used to punish improvisation.
+Mila (Engineering/Radio): Regulate the crank speed (and thus tape speed) with a steady cadence—listen for pitch drift and correct it before the tones warp.
+Nolan (Stealth/Caution): Watch the door seam and vents—if smoke comes, you’ll need a fast seal and a fallback position.
+
+Mila gets the leads seated. Alex points to the line: “Playback: full sequence, uninterrupted.” No pauses. No rewinds. No second chances if the Order decides to turn the hallway into a chimney.
+But the moment Mila reaches for the cassette door, a new sound crawls in under the blast door—a thin hiss, then a wet crackle.
+Smoke isn’t in yet. But it’s being invited.
+
+Reactivity
+
+thread_milestones: none triggered
+access_conf 2 → 2 *(procedure understood; sequence not yet revealed—requires successful full playback)*
+map*auth 0 | loc*conf 0
+meter_breakpoints: none triggered
+heat 5 (Kill-on-sight) *(already at breakpoint)*
+anomaly 1 (Static) *(already at breakpoint)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck located ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 2
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Decision Point
+
+Mila: Start cranking and run the cassette immediately, accepting the risk—get the Tone-Key while the air is still clean.
+Nolan: Buy time—seal the door seam and prep wet cloth masks so the team can survive the first wave of smoke.
+Alex: Use the door as a podium—quote the quarantine protocol and “Dead-Man Seal” language to try to make the Order hesitate for one minute.
+Mila & Nolan: Split—Nolan seals and preps breathing cloth while Mila gets the cassette seated and ready to start on a signal.
+
+What will you do?

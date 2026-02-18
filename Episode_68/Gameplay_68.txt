@@ -1,0 +1,68 @@
+Decision Point
+
+Mila: Start cranking and run the cassette immediately, accepting the risk—get the Tone-Key while the air is still clean.
+Nolan: Buy time—seal the door seam and prep wet cloth masks so the team can survive the first wave of smoke.
+Alex: Use the door as a podium—quote the quarantine protocol and “Dead-Man Seal” language to try to make the Order hesitate for one minute.
+Mila & Nolan: Split—Nolan seals and preps breathing cloth while Mila gets the cassette seated and ready to start on a signal.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:54:59 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila doesn’t wait for perfect conditions—because perfect died with the old world.
+She seats the QZ-3 / CORE ENTRY cassette with a careful click, palms steady despite the hiss crawling under the blast door. Alex stands beside her, procedure card up, flashlight pinned between elbow and ribs. Nolan stays near the steel, listening for the moment the hallway turns into a chimney.
+Mila grips the hand-crank and starts turning—slow at first, then finding a cadence: one-two, one-two, like a heartbeat you can borrow power from.
+The deck wakes with a dry mechanical whir.
+Then the tape speaks.
+Not words—tones. Clean, clipped, clinical. A sequence that feels like it was designed by people who distrusted mouths and trusted machines. The bunker’s ever-present static thins, as if the air itself is making room for the signal.
+Outside, the Analog Order’s wet crackle intensifies—smoke beginning its slow negotiation with the door seam.
+Mila keeps the crank speed steady. Alex watches the procedure card like it’s a minefield. Nolan tightens his scarf around his neck, eyes on the seam.
+Halfway through the tape, the deck’s pitch wobbles—just a hair. Mila corrects instantly, wrist tightening, cadence smoothing. The tones recover before they can smear into something wrong.
+The cassette runs to its end with a soft clack.
+For one breath, everything is quiet.
+Then—somewhere deeper in the bunker—metal relays answer with a distant ka-thunk… ka-thunk… like a sleeping giant rolling its shoulders.
+A narrow panel beside the inner door flickers to life—not with light, but with movement: a mechanical indicator needle slides from LOCK toward ARMED.
+You have what you came for: the bunker will accept the Tone-Key—but only through playback, not memory.
+
+Reactivity
+
+thread_milestones:
+access_conf 2 → 3 ✅ Reveal: Tone-Key sequence. *(secured on cassette playback; usable as a key medium, not to be spoken/written)*
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(unchanged; breakpoint already active)*
+anomaly 1 (Static) *(unchanged; breakpoint already active)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+
+The inner door is still shut, but it’s no longer dead. The indicator needle holds at ARMED, waiting for the next step—some interface deeper than a handle and more stubborn than a lock.
+Under the blast door, smoke finally begins to thread in—thin gray fingers, carrying the bitter tang of scorched cloth and zealotry.
+Nolan coughs once, controlled. “We’ve got minutes,” he says. “Maybe less.”
+Mila lifts the cassette deck like a weapon that only plays one song. “Tell me where to point it,” she murmurs.
+Alex’s flashlight beam catches something you didn’t notice before: a recessed slot beside the inner door—cassette-shaped, with a stamped warning:
+AUTH PLAYBACK PORT — INSERT MEDIA
+So the bunker doesn’t just want the tones heard in the room. It wants them delivered *into* it.
+
+Approach Hooks
+
+Mila (Engineering): Move the deck to the AUTH PLAYBACK PORT, adapt the output if the port expects a direct feed, and keep power stable during insertion.
+Alex (History): Re-check the procedure card for any “stand clear” or “door mechanism” warnings tied to insertion, not just playback.
+Nolan (Caution/Stealth): Manage smoke: wet cloth, low breathing, and position everyone away from the blast door in case the Order attempts a sudden ram.
+
+Decision Point
+
+Mila: Carry the running deck to the AUTH PLAYBACK PORT and insert the cassette as the bunker requests—commit to opening the inner door before smoke worsens.
+Nolan: Shift priority to survival—seal the blast door seam and prep breathing cloth now, even if it delays the inner door by a minute.
+Alex: Inspect the port and signage for traps—confirm this isn’t a “Dead-Man” trigger or a decoy meant to lock you in.
+Mila & Nolan: Split—Mila preps insertion at the port while Nolan fights the smoke at the blast door; Alex coordinates timing from the procedure card.
+
+What will you do?

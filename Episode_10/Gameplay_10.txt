@@ -1,0 +1,56 @@
+Your Choices
+
+Nolan: Take point through the STAFF ONLY door and get the trio into the service corridors—minimize exposure and avoid the main exit sightline.
+Mila: Move along the back wall, palm brushing conduit and metal frames—map where the carrier tone peaks to lock the 071 (NE) bearing before you leave.
+Alex: Ask the boombox circle for a “listening corner” to test the traded tape—use the playback as a natural reason to drift toward the back rooms and exits.
+
+Which path do you choose?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:46:54 UTC---model: gpt-5.2---temp: 0.70---
+
+Static on the Line | Recap
+
+Alex keeps the mixtape visible—like a badge, like a harmless trophy—then guides the trio deeper into the Glitch Palace with the easy confidence of someone “just looking for a listening corner.”
+The boombox circle parts for him, pleased with itself. A few Nostalgists call after you—half blessing, half warning—while the neon sign above the cabinets stutters and throws blue-pink bands across the floor like scanlines.
+Near the back wall, the air changes. Less popcorn. More dust and old ozone. The carrier tone Mila’s been hearing—needle-thin, persistent—tightens in her skull as you pass a run of metal conduit. The sound doesn’t get louder so much as *more certain*, like the building itself is acting as a crude antenna.
+Mila walks it without looking like she’s walking it: shoulder brushing a steel doorframe, fingers grazing a cold pipe, head tilting as if she’s just vibing to the arcade’s muffled synth.
+A flicker hits the big neon sign—BZTZ—and for a heartbeat the carrier tone spikes clean and sharp.
+Mila exhales. “There. That’s the peak.”
+She points—not dramatically, just a small angle of her chin—toward the building’s rear corner. Not the staff door itself, but the direction beyond it.
+“Bearing,” she murmurs. “Zero-seven-one. Northeast.”
+Nolan doesn’t relax, but something in his stance shifts: a path is a path. Alex presses the cassette to his chest like it’s a passport through the dark.
+Behind you, somewhere near the curtain of cassette ribbons, a laugh turns into a cough—too controlled. Someone still watching. But now you’ve got what you came for in this step.
+
+Reactivity
+
+Checkpoint achieved: Bearing (Step 3 objective completed: triangulate).
+Thread milestone: loc_conf +1 (triangulation confidence gained; no milestone reveal yet).
+Meter breakpoint: none triggered this scene.
+
+State Machine
+
+current_step: 3 — *Static on the Line*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 2 | anomaly 1
+heat: 2 (Observation active; Patrols at 3)
+supplies: 0
+
+Milestone Reveal (loc_conf 3): The Oracle’s output wasn’t just metaphor. Buried in the dot-matrix grit, Mila recognizes a coordinate format—old military grid translated into a plain pair of numbers. You now have GPS-like coordinates (approximate, but usable) matching the 071° NE bearing.
+The staff-only door “breathes” again—fryer oil, wet concrete, alley rain. Somewhere outside, the city is a maze of dead signage and living eyes.
+
+Approach Hooks
+
+Exit with cover: Keep the mixtape visible; look like you’re heading to “play it for the crew,” not slipping away from scouts.
+Break line-of-sight immediately: Use the service corridors to avoid the main door and force any tail to choose between exposure and losing you.
+Spend heat wisely: A short, deliberate distraction now can prevent Heat 3 (Patrols) later.
+
+Your Choices
+
+Nolan: Take point through the STAFF ONLY door and cut a route into the alley network—prioritize losing any tail before they can call in Patrols.
+Mila: Pause at the back wall and mark the bearing/coords onto the bunker map with a grease pencil—make the data portable even if you have to ditch the printout.
+Alex: Use the boombox circle one last time—stage a loud “mixtape listening” invite that pulls attention away from the staff door while you slip out.
+
+What will you do?
