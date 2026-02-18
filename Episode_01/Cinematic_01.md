@@ -1,102 +1,84 @@
-## 1) SCENE TITLE  
-**GLITCH PALACE: Bruised Neon, Borrowed Heartbeats**
+### 1) SCENE TITLE
 
-## 2) ESTABLISHING SHOT (environment as a “camera pan”)  
-The road to the arcade runs under a cracked overpass that still wears its old highway numbers like a faded tattoo. Concrete ribs arch overhead, split by frost and time; rebar shows through like bone. Wind pushes grit in slow sheets across the lanes, and the husks of cars sit half-swallowed by weeds—tires gone soft, windows punched out, dashboards gutted for copper and luck.
+GLITCH PALACE: Neon on the Threshold
 
-Ahead, the city’s dead geometry breaks into a low commercial strip—collapsed storefronts, a toppled billboard sandblasted blank, and a row of streetlights that never learned to shine again. Then the color hits: a neon bruise on the horizon, pink and cyan bleeding into the dust. It doesn’t glow clean. It stutters, coughs, steadies, then falters again—like a dying star refusing to admit it’s dying.
+### 2) ESTABLISHING SHOT
 
-The air tastes of rust and old rain trapped in concrete pores. Ozone rides the back of your tongue, sharp as a coin held too long. And under everything—under wind, under distant creaks of settling steel—there’s a bassline. Not loud. Not honest. A sub-bass synth thump leaking through boards and brick, steady as a heartbeat you didn’t consent to share.
+The wind howling through the cracked overpasses carries the bitter scent of wet concrete and rust, a constant reminder of the thirty years that have passed since the Y2K clocks struck zero and the grids died. Ahead, nature has spent three decades reclaiming the asphalt—pale saplings punch through the highway dividers, and aggressive ivy swallows the rusted husks of abandoned sedans. Yet, slicing through the moonless dark is a stubborn, localized miracle: electricity.
 
-## 3) THRESHOLD MOMENT (crossing into the interior)  
-At the entrance, the temperature changes first—cooler, as if the building is hoarding night inside its walls. The neon’s flicker paints the doorway in alternating mercy and threat. Each buzz of the marquee makes the shadows jump, and for a blink you can almost imagine the place whole: carpet loud as a warning, machines lined up like altars, kids laughing in a world that still believed tomorrow would be plugged in.
+It acts like a dying star in the ruin. A flickering neon marquee buzzes and stutters, casting pink-and-cyan bruises across the wind-sanded street. The glow is untrustworthy, a pocket of scavenged power that could snap off at any second, but for now, it spells out a promise: *GLITCH PALACE*.
 
-Close to the door, the dust is wrong. Not settled. A thin trail scuffed through it—recent boots, careful steps. The boards over the windows are nailed tight, but one nail is newer than the rest, bright metal among old rust. And from somewhere deeper in the building, behind the bass, there’s a second sound: a faint, irregular tick—like a relay trying to remember its job.
+The air here tastes sharp with ozone, dust, and the exhaust of a hidden generator. Beneath the howl of the wind, a heavy, rhythmic vibration bleeds through the boarded-up windows of the arcade. It’s a sub-bass synth thump, steady and defiant as a heartbeat in a graveyard.
 
-## 4) KEY DETAILS (bullet list, 6–12 items)  
-- A **flickering neon marquee** reading *GLITCH PALACE*, letters stuttering as if the sign is arguing with itself.  
-- **Boarded windows** with hairline gaps; thin bars of cyan light leak out like breath through teeth.  
-- A **hand-painted rule plaque** by the door: *PAY CLEAN. ASK CLEAN. LEAVE CLEAN.* (fresh paint over older words).  
-- A **coin-slot donation box** welded from scrap, stamped with a crude griffin; it rattles with mixed tokens and old arcade coins.  
-- **Cassette tape spools** hanging from the awning like charms—some labeled in marker: *SIDE A: SAFE*, *SIDE B: LIES*.  
-- A **vinyl-tape-wrapped bat** resting against the bouncer’s leg—kept close, treated like a relic. *(Danger)*  
-- A **service alley** to the right: chain-link gate half-collapsed, padlock missing, a dark seam that smells of mold and coolant. *(Opportunity)*  
-- A **rooftop line-of-sight** across the street: broken HVAC housings, a low parapet, and a place a watcher could vanish behind. *(Danger)*  
-- A **tattered bunker map** in your pocket, inked arrows pointing here—edges greasy from too many hands. *(Opportunity)*  
-- A faint **burn mark** on the sidewalk near the curb—small, circular, like something hot was set down and lifted fast.
+### 3) THRESHOLD MOMENT
 
-## 5) PEOPLE IN THE ROOM (who’s here and how they move)  
-Two Nostalgist bouncers hold the threshold like it’s a stage and they’re the curtain. They wear scavenged **letterman jackets** with mismatched patches—some real, some stitched from old band tees. **Mirrored shades** hide their eyes even at night, reflecting the neon back at you so you can’t tell where they’re looking.
+Stepping out of the rusted shadows and into the spill of the neon, the temperature seems to shift—the bitter night air pushed back by the ambient heat of running machinery inside. The threshold is choked with the smell of stale cigarette smoke and burning flux.
 
-One bouncer turns a **cassette** with a pencil, slow and reverent, like winding a watch that keeps the world from ending. The other keeps a palm on that vinyl-wrapped bat, not gripping—resting, as if the weapon is a pet that might bite if startled. They don’t fidget. They don’t rush. They make you feel the cost of every second you stand in front of them.
+Dust trails on the cracked sidewalk show heavy, recent foot traffic leading right up to the heavy steel door. There is no welcoming handle, only a pair of guards blocking the warm, greenish light seeping from the doorframe. The old world is dead, but the velvet rope survived.
 
-Behind the boards and brick, the bass continues—steady, insistent. It’s the sound of a crowd you can’t see, or a machine pretending to be one.
+### 4) KEY DETAILS
 
-## 6) CHARACTER BLOCKS (for each named character)  
+* **The Sputtering Marquee:** A patchwork of argon and neon tubes, heavily soldered, advertising the *GLITCH PALACE*.
+* **The Tattered Bunker Map:** Safely hidden in Alex’s coat, heavy with military ink and the promise of a pre-Disconnect cache.
+* **Scavenged Letterman Jackets:** Worn by the guards, patched with old leather and safety pins.
+* **The Sacred Cassette:** Spun pencil-tight by the taller guard, treated not as trash, but as a holy relic.
+* **The Vinyl-Wrapped Bat:** Resting easily in the shorter guard's hand, its grip worn smooth from violent use. (Implies Danger)
+* **The Boarded Windows:** Thick plywood vibrating with the synth bass, showing faint slivers of bright arcade phosphor-glow from within. (Implies Opportunity)
 
-**Alex Carson / Historian-Engineer**  
-- What they notice first: the **rule plaque** and the way the paint covers older words.  
-- What they want: a **clean entry**—the right reference, the right phrase, the right door opened without blood.  
-- What they fear: saying the wrong thing and being marked as an outsider… or worse, a thief.  
-- Body position: shoulders squared, chin lifted; hands kept visible, like offering proof of intent.
+### 5) PEOPLE IN THE ROOM
 
-**Mila “Radio” Rhye / Signal Seeker**  
-- What they notice first: the **bassline’s steadiness** and the faint tick behind it—power, however rationed.  
-- What they want: to **touch the system**, diagnose it, earn trust by making something work.  
-- What they fear: that the place is running on a fragile pocket of power—and her help will expose it to predators.  
-- Body position: weight forward, fingers flexing; eyes tracking seams, vents, any hint of wiring.
+The Nostalgist bouncers stand as the absolute arbiters of the door. They wear their scavenged 80s and 90s gear—letterman jackets, mirrored aviator shades in the dead of night—not as costumes, but as the armor of their faith. They view the relics of the old analog world with a fierce, gatekeeping reverence. They don't just want a password; they want a performance. They stand with the relaxed, heavy posture of people who are used to turning away the desperate. The taller one’s voice is gravelly, demanding the trio to "State your vibe" as if asking for a confession.
 
-**Nolan Trench / Tech Nomad**  
-- What they notice first: the **service alley** and the rooftop sightline—routes in and routes out.  
-- What they want: entry without permission, and a look at whatever the map thinks is hidden here.  
-- What they fear: being pinned in the open—caught between bouncers at the door and a watcher above.  
-- Body position: half-turned, ready to move; hands near belt tools, not weapons—yet.
+### 6) CHARACTER BLOCKS
 
-## 7) THE RELIC / MACHINE / FOCUS OBJECT (make it tactile)  
-The marquee is the first machine that speaks to you, even before you cross the threshold. Its casing is dented aluminum and sun-bleached plastic, edges sealed with old caulk that’s cracked into a thousand tiny riverbeds. The letters—*GLITCH PALACE*—are tube-lit, but not evenly. Some segments burn hot, others barely glow, and a few flicker like they’re blinking out a message.
+* **Alex / The Diplomat**
+* **What they notice first:** The cultural signifiers—the cassette, the jackets, the language of the Nostalgists.
+* **What they want:** To talk their way inside without revealing the map or looking like scavengers.
+* **What they fear:** Saying the wrong thing and turning a neutral encounter into a violent one.
+* **How they position their body:** Shoulders loose, hands visible but relaxed, projecting the calm authenticity of someone who belongs.
 
-Every buzz carries a taste of ozone. Every stutter throws a new shadow across the bouncers’ jackets. You can feel the heat of it when you get close—localized, unreliable, like a pocket of summer trapped in a dead season.
 
-There’s a ritual here, and the bouncers enforce it without saying so: you don’t touch the sign. You don’t point at it. You don’t joke about it. Machines that still shine are treated like they’re half-sacred—because in 2030, anything that still remembers how to glow might also remember how to bite.
+* **Mila / The Engineer**
+* **What they notice first:** The buzzing neon sign that’s one bad resistor away from shorting out.
+* **What they want:** To prove her worth by fixing the failing tech, bypassing the social game entirely.
+* **What they fear:** That the Nostalgists are too superstitious to let her touch their "sacred" machines.
+* **How they position their body:** Weight shifted forward, eyes darting to the wiring, fingers twitching with the urge to hold a tool.
 
-And for a moment—just a moment—the flicker seems to sync with the bass, as if the building is breathing in time with its own heartbeat.
 
-## 8) THE UNDER-SIGNAL (signature tension device)  
-Under the synth thump, there’s static that doesn’t belong to the music. Not the warm hiss of tape. Not the crackle of a bad speaker. This is thinner—sharper—like a blade drawn slowly from a sheath. It comes in pulses that make the hair at the back of your neck lift, then settles again as if it never happened.
+* **Nolan / The Vanguard**
+* **What they notice first:** The blind spots, the alleyways, and the rooftops across the street.
+* **What they want:** To bypass the choke point entirely and find a safer, hidden way in.
+* **What they fear:** The shape he just saw moving on the roofline. Analog Order hunters.
+* **How they position their body:** Bladed stance, half a step behind the others, gaze sweeping the vertical space above the neon glare.
 
-You see it in the bouncer with the cassette: his pencil pauses for half a beat when the static cuts through. The other bouncer’s hand tightens on the bat—not enough to swing, just enough to admit he heard it too. Across the street, the rooftop feels suddenly occupied, even if you can’t prove it.
 
-The bass tries to cover it. The neon tries to pretend it’s fine. But the under-signal keeps pressing—quiet pressure before a storm breaks.
 
-## 9) CHARLOTTE RADIO FRAME (required)  
-This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven—where the hearth is honest, and the walls still remember laughter.
+### 7) THE RELIC / MACHINE / FOCUS OBJECT
 
-Out there, in the places where neon survives on borrowed breath, people start believing light is the same thing as safety. But the Disconnect taught us a cruel lesson: a machine can glow and still be dead inside… and sometimes the dead things are the ones that call the loudest.
+The focus isn't a single machine yet, but the entrance itself—a living diorama of scavenged power. The neon tubes above are patched with thick strips of black electrical tape and hand-soldered copper wire. They pop and hiss, bleeding heat into the cold night air, acting like a bug zapper for anyone desperate enough to seek the light.
 
-Mind your rituals. Mind your words. And never mistake a heartbeat for a welcome.
+The taller Nostalgist's cassette tape acts as a mechanical talisman. The yellowed plastic casing is cracked, the magnetic ribbon perfectly spooled around the hexagonal barrel of a faded yellow pencil. He spins it with the ritualistic muscle memory of a monk counting prayer beads.
 
-If you must chase a promise, chase it with your exits counted. Keep one ear on the noise beneath the music.
+The rule is simple and absolute: entry is not free. It is earned through authenticity. You must match the frequency of the machines and the people who worship them. You have to prove you remember the world before the Disconnect, or at least, prove you know how to play the B-side.
 
-## 10) PLAYER HOOK + CHOICES (interactive ending)  
-The taller bouncer tilts his head, mirrored shades catching the marquee’s cyan flare. The cassette keeps turning, turning, turning—like time wound tight around a secret.
+### 8) THE UNDER-SIGNAL
 
-“Arcade’s live,” he says again, patient as a lock. “State your vibe.”
+While the heavy synth bass from the arcade thumps through the soles of their boots, Nolan feels a different kind of pressure change. It’s not auditory; it’s instinct. A shadow detaches itself from the rusted billboard on the roof across the street.
 
-And across the street, on the rooftop, something shifts—just enough to make the night feel narrower.
+It’s there, and then it’s gone, moving with the terrifying silence of an Analog Order scout. The neon buzz tries to cover it, the arcade music tries to drown it out, but the static tension of being watched settles over the trio like a heavy blanket. If they linger at this door too long, the storm is going to break right on top of them.
 
-So tell me—what happens next?
+### 9) CHARLOTTE RADIO FRAME
 
-**A) Alex steps forward and speaks the “right” reference** (diplomacy/lore; low immediate risk, hidden cost)  
-- **Action:** Alex offers a Nostalgist-coded phrase—band, game title, local in-joke—delivered like a password, not a plea.  
-- **Risk:** If it’s wrong, you’re tagged as outsiders (or scavvers) and watched closely—maybe barred, maybe baited.  
-- **Might reveal/gain:** Entry through the front and a glimpse of the arcade’s internal rules—who runs it, who pays, who gets protected.
+"This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven. Thirty years ago, the clocks rolled over and the lights went out for good, but some folks never stopped trying to rewind the tape. The Glitch Palace is a monument to the things we refused to let die... but monuments draw vultures. When you stand in the only light for miles, you have to expect the darkness to notice. Keep your dial close, keep your fire lit, and if you hear music where there shouldn’t be any... don’t follow it alone."
 
-**B) Mila offers a repair at the threshold** (hands-on tech; high risk, high reward)  
-- **Action:** Mila points to the marquee’s stutter and asks permission to stabilize it—quick diagnostics, clean hands, no sudden moves.  
-- **Risk:** Touching a “sacred” machine can trigger violence; fixing it might also expose a hidden power source others will kill for.  
-- **Might reveal/gain:** Trust, access to the back rooms, and the first real hint of what’s powering the Glitch Palace (and what else is listening).
+### 10) PLAYER HOOK + CHOICES
 
-**C) Nolan slips toward the service alley and goes around** (social/barter/stealth; medium risk, reveals power structure)  
-- **Action:** Nolan fades off the neon line, testing the chain-link gap and hunting for a service hatch or vent route.  
-- **Risk:** Trip a bell, a wire, or a watcher’s attention—ending up trapped between rooftop eyes and interior guards.  
-- **Might reveal/gain:** A hidden entrance, evidence of who’s been moving inside recently, and whether the Analog Order (or someone worse) is already counting relics to burn.
+The bouncer waits, patient as a lock. The cassette keeps turning. The shadow on the roof has stilled.
+
+**So tell me—what happens next?**
+
+* **A) Try The Password:** Alex steps forward to answer their trivia gate with calm diplomacy and a perfectly chosen reference. (Relies on lore/authenticity; avoids immediate violence, but risks stalling too long under the watcher’s gaze).
+* **B) Offer The Repair:** Mila asks what’s "glitching" inside and trades a fast fix on their failing tech for entry. (Hands-on tech approach; earns immediate respect if successful, but risks offending their techno-religious superstitions).
+* **C) Go Around:** Nolan signals the others to abandon the front door, using stealth to find a service hatch or breach in the back alley. (Stealth approach; avoids the bouncers entirely, but risks running face-first into whatever is hunting on the rooflines).
+
+---
