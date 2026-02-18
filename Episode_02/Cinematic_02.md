@@ -1,86 +1,81 @@
-## 1) SCENE TITLE  
-**GLITCH PALACE: Side B at the Door**
+### 1) SCENE TITLE
 
-## 2) ESTABLISHING SHOT (environment as a “camera pan”)  
-Neon bleeds into the street like spilled candy-color, turning dust into glitter and broken glass into false stars. The marquee can’t hold its own name—**GLI_TCH**—buzzing, stuttering, recovering, failing again. Each flicker paints the bouncers in alternating pink and cyan, like the world can’t decide whether to bless them or bruise them.
+RITUALS OF ENTRY: The Trivia Gate
 
-Across the street, a broken billboard leans at an angle that feels intentional, like it was placed to hide someone. The synth bass inside the building keeps time with the sign’s spasms—two heartbeats, one honest, one hungry.
+### 2) ESTABLISHING SHOT
 
-## 3) THRESHOLD MOMENT (crossing into the interior)  
-Alex doesn’t cross. Not yet. He stands right on the edge of permission, where the air changes—cooler near the boards, warmer under the sign’s failing heat. The bouncers hold the doorway like a checkpoint and a stage.
+The Glitch Palace sign can’t quite hold itself together. It buzzes and stutters, a patchwork of failing argon and neon that bleeds pink-and-cyan light across the cracked asphalt. The glow turns thirty years of accumulated street dust into floating glitter. Beyond the reach of the neon, the ruins of the pre-Disconnect city are swallowed by a moonless, wind-scoured dark.
 
-“Password, then. One question. No stalling.”
+The air tastes of ozone and old decay, but closer to the arcade, it shifts. A heavy, rhythmic vibration—the steady thump of sub-bass synth—reverberates through the soles of your boots, rattling the loose rebar in the concrete. It’s the heartbeat of a sanctuary that refuses to die.
 
-The shorter bouncer leans in, voice low like a DJ cueing a track:
+Alex stands bathed in the neon wash like an actor hitting his stage mark. The bitter cold of the street is at his back, while the heavy, warm air leaking from the arcade's boarded-up facade presses against his face.
 
-“Name the movie where the kid says: *‘Roads? Where we’re going, we don’t need roads.’* And—bonus—what’s the car?”
+### 3) THRESHOLD MOMENT
 
-The question isn’t just trivia. It’s a timer. It’s a test of whether you belong to their story—or whether you’re here to steal it.
+The threshold isn’t just a physical space; it’s a temporal one. Stepping up to the Nostalgist bouncers means stepping out of the brutal reality of 2030 and into a carefully curated delusion of the 1980s. The ambient temperature rises, smelling of hot dust, stale sweat, and the faint, sweet tang of burnt sugar.
 
-## 4) KEY DETAILS (bullet list, 6–12 items)  
-- The marquee reads **GLI_TCH**, missing a letter like a tooth knocked out.  
-- A hand-painted placard: **RITUALS OF ENTRY** — *PASSWORD / CHALLENGE / BARTER*.  
-- The taller bouncer’s cassette taps the word **PASSWORD** like a gavel.  
-- Mila’s eyes flash—recognition, ready to pounce.  
-- Nolan keeps checking the rooftop line, shoulders tight, counting angles.  
-- Across the street, a **shape shifts** behind the broken billboard—then stills. Watching.  
-- The bass inside never stops, steady as a lie told often enough to sound true.
+A hand-painted placard is nailed to a rusted speaker cabinet beside the heavy steel door. Fresh scuff marks on the threshold show exactly where the bouncers plant their boots when they throw someone out. The door is thick, but the music behind it is loud enough that you can feel the air pressure change with every beat.
 
-## 5) PEOPLE IN THE ROOM (who’s here and how they move)  
-- **Two Nostalgist bouncers**: mirrored shades, letterman jackets, ritual posture. They’re not just guards—they’re curators.  
-- **Alex**: calm, practiced, performing belonging without begging for it.  
-- **Mila**: ready to feed the right answer like a spark to dry tinder.  
-- **Nolan**: half in the scene, half in the street—already planning what happens if the watcher moves.
+### 4) KEY DETAILS
 
-## 6) CHARACTER BLOCKS (for each named character)  
+* **The Placard:** Nailed to a speaker shell, reading: *RITUALS OF ENTRY: THE PASSWORD (80s TRIVIA) / THE CHALLENGE (HIGH SCORE) / THE BARTER (RELIC OFFERING).* (Implies Opportunity)
+* **Mirrored Aviators:** Worn by the bouncers to reflect the neon and hide where they are looking.
+* **The Spinning Cassette:** The taller bouncer uses it to tap the placard, treating the fragile plastic like a judge’s gavel.
+* **The Broken Billboard:** Looming across the street, its skeletal frame draped in shadows.
+* **The Shifting Silhouette:** A shape behind the billboard that freezes the moment Nolan looks at it. (Implies Danger)
 
-**Alex Carson**  
-- Goal: get in fast, clean, and without giving the rooftop watcher time to decide.  
-- Pressure point: the longer he talks, the more the street learns his face.
+### 5) PEOPLE IN THE ROOM
 
-**Mila “Radio” Rhye**  
-- Goal: lock the bouncers into a “yes” with a second reference—make it feel inevitable.  
-- Pressure point: she can’t stop hearing the building like a machine that wants attention.
+The Nostalgist bouncers operate like priests at a border crossing. The taller one cracks his knuckles—a physical threat masked as a casual habit. When Alex delivers the "flip the tape" metaphor, the taller bouncer's mouth twitches into almost a smile; they respect the *performance* as much as the accuracy. The shorter bouncer leans in close, dropping his voice low like a late-night DJ cueing a track to deliver the trivia challenge. They are gatekeepers who desperately want to be impressed, but are completely willing to use the vinyl-wrapped bat if you break the immersion.
 
-**Nolan Trench**  
-- Goal: keep the team from being pinned in the open.  
-- Pressure point: he’s watching the watcher more than the bouncers.
+### 6) CHARACTER BLOCKS
 
-## 7) THE RELIC / MACHINE / FOCUS OBJECT (make it tactile)  
-The **placard** is cheap wood and thick paint, letters uneven like they were done in a hurry—then corrected, then corrected again. It’s nailed to a speaker cabinet that hums faintly even through the boards, as if the bass is vibrating the rules into the street.
+* **Alex / The Diplomat**
+* **What they notice first:** The hand-painted *Rituals of Entry* placard.
+* **What they want:** To finish the verbal dance flawlessly and get the heavy steel door open.
+* **What they fear:** That hesitating will break the "vibe" and cause the bouncers to demand a physical relic instead.
+* **How they position their body:** Perfectly still, maintaining eye contact with his own reflection in the bouncer's aviators.
 
-This is how the Glitch Palace survives: not by power alone, but by **ritual**. By making entry feel earned. By making outsiders feel watched.
 
-## 8) THE UNDER-SIGNAL (signature tension device)  
-A thin static rides under the bass—too sharp to be tape hiss, too patterned to be random. It comes in pulses that make the neon flicker harder, like something is trying to sync the whole block to its own rhythm.
+* **Mila / The Engineer**
+* **What they notice first:** The exact movie quote. She knows it instantly.
+* **What they want:** To prove she belongs here just as much as Alex does.
+* **What they fear:** That the bouncers are scanning their gear while they play trivia games.
+* **How they position their body:** Weight shifted forward, eyes flashing with recognition, lips already parting to whisper the answer.
 
-Across the street, the shape behind the billboard doesn’t move again—but the sense of being measured grows heavier, like a sightline tightening.
 
-## 9) CHARLOTTE RADIO FRAME (required)  
-This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven.
+* **Nolan / The Vanguard**
+* **What they notice first:** The shape moving on the roofline across the street.
+* **What they want:** To get off the X. To stop standing under a bright neon light in a dark city.
+* **What they fear:** Analog Order hunters counting their numbers before striking.
+* **How they position their body:** Shoulders tight, back completely turned to the bouncers, tracking the broken skyline like a human radar.
 
-Out there, the old world doesn’t come back as history. It comes back as **tests**. As quotes you’re expected to know. As doors that only open if you can prove you remember the right kind of dream.
 
-And while you’re busy proving you belong, someone else might be proving where to aim.
 
-## 10) PLAYER HOOK + CHOICES (interactive ending)  
-Alex has the answer on the tip of his tongue. Mila’s ready to whisper it. Nolan’s ready to move if the rooftop decides to.
+### 7) THE RELIC / MACHINE / FOCUS OBJECT
 
-What do they do?
+The focus here isn't a machine, but the **Software of the Old World**—the trivia itself. The movie quote (*"Roads? Where we're going, we don't need roads."*) and the car are treated as an oral history, a password to a digital kingdom that no longer exists.
 
-**A) Answer clean and fast (Alex, no flourish)**  
-- **Say:** “*Back to the Future.* The car’s a **DeLorean**.”  
-- **Effect:** Fastest path inside; minimizes time exposed to the watcher.  
-- **Risk:** Comes off like a recitation—correct, but not *community*. The bouncers may demand a second test anyway.
+To the Nostalgists, pop culture is scripture. The ritual is strict: *One question. No stalling.* Answering correctly proves you aren't just a scavenger looking to strip-mine their temple for copper wire; it proves you are a believer. The words are the key, and the bouncer is the lock.
 
-**B) Play it diplomatic (Alex answers + proves authenticity)**  
-- **Say:** “*Back to the Future.* DeLorean DMC-12. Stainless body, gull-wing doors—ugly as sin, beautiful as hope.”  
-- **Effect:** Signals real Nostalgist fluency; may earn respect and smoother entry.  
-- **Risk:** Takes longer. Gives the rooftop more time to decide you’re worth following.
+### 8) THE UNDER-SIGNAL
 
-**C) Let Mila whisper + add a “vibe tag” (team play, lock it in)**  
-- **Action:** Mila feeds Alex the answer and adds a second reference under her breath—something adjacent and era-true (a tag that says *we’re not tourists*).  
-- **Effect:** Strongest “in-group” signal; can flip the bouncers from gatekeepers to allies.  
-- **Risk:** If the bouncers clock Mila as the source, they may pivot to testing *her*—or asking what else she knows how to fix.
+While the trivia game demands absolute focus, a heavy, silent tension presses in from the street. It’s the feeling of crosshairs settling on the back of your neck. The synth bass thumps loudly from inside the Glitch Palace, but Nolan hears the dangerous silence between the beats.
 
-Reply with **A, B, or C**, and tell me one detail: does Nolan **call out** the rooftop presence to pressure the bouncers into hurrying, or keep it quiet to avoid escalation?
+Across the street, the shape behind the broken billboard has stilled. It is watching them. The longer Alex takes to answer the DJ's question, the longer the trio remains backlit by the buzzing neon—perfectly illuminated targets. The pressure is escalating from a casual delay into a ticking clock.
+
+### 9) CHARLOTTE RADIO FRAME
+
+"This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven. You’re tuned to *Signals in the Static*—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer. The Glitch Palace bouncers weren’t just testing trivia. They were testing control. They wanted to know who was real, and who was trouble. Keep your voice steady at the door. And keep one ear on the street."
+
+### 10) PLAYER HOOK + CHOICES
+
+The shorter bouncer waits for the movie and the car. Nolan’s eyes trace the roofline, silently begging for the door to open before the watcher decides to move.
+
+**So tell me—what happens next?**
+
+* **A) Answer clean and fast.** Alex delivers the movie title and the car with a true Nostalgist flourish. *(Diplomacy/Lore approach; low immediate risk with the bouncers, secures entry but spends precious seconds in the light.)*
+* **B) Mila steps in.** Mila whispers the answer to Alex and adds her own tiny "vibe tag," an obscure secondary reference. *(Social/Tech approach; high reward for locking the bouncers into absolute awe, but risks offending them if Mila's tone is seen as disrespectful.)*
+* **C) Nolan cuts the game short.** Nolan silently signals Alex to wrap it up instantly, stepping backward to physically shield the trio from the street. *(Tactical/Stealth approach; medium risk, prioritizes survival over "the vibe," potentially making the bouncers suspicious of why they are so jumpy.)*
+
+---
