@@ -1,0 +1,60 @@
+Decision Point
+
+Alex: Pull PERSONNEL ROSTER and hunt a roster-valid shift ID that matches the checklist—fast, clean, no guessing.
+Mila: Adjust the valve to -2 and chase the hiss at the hatch seam—make the vestibule safe before touching the inner door.
+Nolan: Build a quiet barricade and trip hazard while the others work, then act as the “second person” for the two-person initials step.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 06:17:21 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+You choose Mila’s hands-on caution. Instead of rushing the inner door, she goes to the manual wheel and the trembling gauge—because a bunker that survived the Disconnect doesn’t forgive impatience.
+The hiss at the hatch seam is your clock. The Analog Order is still out there, their presence a muffled weight on the steel.
+
+State Machine
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | AUTH accepted ✅ | Pressure equalized ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones:
+access_conf 3/3 → Reveal: Tone-Key sequence *(already revealed/confirmed)*
+
+Scene
+
+Mila plants her boots on the hazard-striped floor and grips the valve wheel. The steel is so cold it steals heat through her palms. She turns—slow at first—until the mechanism catches, then it moves with a stubborn, grinding obedience: krrrnk… krrrnk…
+The gauge needle wavers, dips… and settles toward the checklist’s mark: -2.
+The bunker answers in small, physical ways—no screens, no beeps—just *behavior*. The hiss at the hatch seam thins from a steady leak to an intermittent whisper. Smoke that wanted to creep in now hesitates, pushed back by the pressure gradient like a hand on its chest.
+Alex watches the needle like it’s a lie detector. Nolan keeps one shoulder angled toward the hatch, listening for a change in the Order’s cadence—hammer becoming saw, patience becoming rage.
+Mila finds the source: a strip of gasket that’s curled, half-memory, half-rot. She digs in her kit—there isn’t much—and uses what the vestibule gives her: a torn corner of the red paper checklist, folded tight into a shim, and the edge of a decon smock strap as a cinch. She presses, seats, tightens.
+The hiss dies.
+For the first time since you stepped inside, the airlock feels like what it was built to be: a *buffer*—a place that buys you minutes when the world is trying to burn you down.
+From the inner door, the stenciled warning seems less like a threat and more like a rule you’ve finally learned to respect:
+DO NOT OPEN INNER DOOR IF SMOKE PRESENT.
+Now, with the vestibule stabilized, you’ve met the precondition the bunker wants—*and you’ve bought time*.
+
+Approach Hooks
+
+Mila (Engineering): With pressure stable, she can now follow the override checklist precisely—valve, gauge, and any mechanical interlocks—reducing the chance of a lock-in.
+Alex (Procedure/History): Use the carousel and the “DOOR OVERRIDE — PAPER TAPE / TWO-PERSON” steps to find a roster-valid SHIFT ID and the correct YYMMDD format without guessing.
+Nolan (Caution/Stealth): Use the quiet to prep a fallback—wedge points, sound traps—while acting as the “second person” for initials if needed.
+
+Decision Point
+
+Alex: Pull PERSONNEL ROSTER and extract a ROSTER-VALID shift ID + matching date format for the inner door’s paper-tape override.
+Mila: Attempt the inner door override now that the vestibule is stable—she’ll operate the mechanism while calling for Nolan’s confirming initials.
+Nolan: Quietly improve defenses (wedges, grit, smock-hang) and then take the “second person” role—ready to confirm initials the moment Alex/Mila have the ID.
+
+What will you do?

@@ -1,0 +1,56 @@
+Decision Point
+
+Mila: Commit to the full equalization cycle now—slow, exact—then cue Alex to open the false panel finger-width and hold.
+Alex: Take over the sequence using the printed emergency procedure—call each step aloud and keep everyone synchronized.
+Nolan: Stay on the STACK door and create a diversion noise *inside* the vault (a controlled crash) to mask the panel opening—risking attention but buying silence.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:27:01 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+You chose Mila’s way: slow, exact, engineered.
+She keeps one palm on the recessed EQ handwheel and the other on the false panel seam, listening through skin and bone for that subtle, dangerous language—pressure bias, gasket chatter, the faintest inhale of air. Behind you, the STACK door takes another measured hit—BANG—followed by the long, teeth-grinding scrape of a pry bar finding purchase.
+Mila bleeds the valve a fraction open… pauses… then closes it to test rebound. The air in the chamber shifts from stale to *managed*. Not safe—never safe—but predictable.
+“Now,” she whispers. “Finger-width. Hold.”
+Alex rotates the quarter-turn latch with two careful clicks—tik… tik—and eases the false panel open exactly as instructed. No slap. No pop. Just a controlled sigh as the chamber and the corridor behind it agree on a shared breath.
+A thin ribbon of colder air slides out, smelling of wet concrete and old metal. Smoke doesn’t surge in—yet. The seal holds.
+Nolan stays at the STACK wheel, counting the rhythm outside. “They’re changing angles,” he mutters. “They know it’s dogged. They’re going to start *breaking the frame*.”
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clues unchanged)*
+fail_forward: not invoked *(success: equalization performed; panel opened quietly)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The gap behind the manifest rack is just wide enough to slip a shoulder through. Beyond it: a narrow pressure corridor—paint blistered, signage half-peeled, everything lit by nothing but your own borrowed glow and the memory of fluorescent tubes that died decades ago. The corridor feels like the inside of a lung: tight, damp, and built to keep contamination from crossing thresholds.
+Mila keeps the EQ valve under her fingertips like a trigger. Alex holds the panel steady, knuckles white. Nolan finally peels away from the STACK door, but not before wedging a length of crate strapping through the wheel spokes—an improvised delay, a *second of time* bought with a scrap of metal.
+Outside, the Analog Order chants low, almost tender, as if fire is a mercy: “Cleanse. Cleanse. Cleanse.”
+And then—an ugly new sound: wood splintering somewhere beyond the door as they begin attacking the frame instead of the seal.
+You have a corridor. You have a procedure. You have maybe minutes before the vault becomes a smoke lesson.
+
+Approach Hooks
+
+Mila (Engineering): Keep cycling the EQ valve as you move—micro-adjustments to prevent smoke draw and avoid a pressure snap when you reach the next door.
+Alex (History/Procedure): Use the emergency wording to anticipate the next control point (“P‑2 → M‑7”) and spot signage, latch types, and contamination locks by touch.
+Nolan (Caution/Stealth): Lead through the corridor quietly, place a soft jam behind you (cloth, tape, strap) to slow pursuit if they find the panel.
+
+Your Choices
+
+Mila: Slip into the pressure corridor first, one hand on the EQ valve, and guide the others through with timed breath-and-pause signals.
+Alex: Take the manifest diagram lead—count paces, find the P‑2 marker, and locate the next door control without using light.
+Nolan: Move ahead to scout the corridor’s next choke point and set a silent obstruction behind you to delay any breach.
+
+What will you do?

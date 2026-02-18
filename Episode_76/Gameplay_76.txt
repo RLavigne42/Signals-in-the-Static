@@ -1,0 +1,64 @@
+Decision Point
+
+Alex: Pull everyone through and secure the hatch immediately, following the bunker’s procedure signage to lock it down fast.
+Mila: Inspect the manual valve and vestibule controls first—make sure sealing the hatch won’t trap smoke or trigger a pressure/lock-in you can’t undo.
+Nolan: Hold the corridor for a final ten seconds—kick debris into the choke point, set a quick trip hazard—then dive in and seal it.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:15:49 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex hauls first—no hesitation, no poetry—just the hard, procedural mercy of doing the next right thing fast. Mila slips in after him, cassette deck clutched tight, its spindles whispering like a nervous insect. Nolan backs in last, eyes still on the smoke, and Alex throws his shoulder into the hatch.
+The door swings shut with a deep, coffin-thick THUNK. Alex finds the interior wheel latch—paint flaked, knurled steel—and cranks until it bites. The mechanism answers with a ratcheting clack-clack-clack that feels like the bunker remembering how to be sealed.
+Outside, the Analog Order’s rhythm hits the other side of the steel a moment later—muted now, frustrated. Smoke still tries to creep through the seam… but the gasket swells and holds. The air inside turns colder, drier. It tastes like paper, dust, and old vinyl sleeves stored too long in the dark.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅ | Pressure equalized ✅ | Inside ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints: *(already active)* heat 5 → Kill-on-sight; anomaly 1 → Static
+thread*milestones:* *access*conf 3/3 → Reveal: Tone-Key sequence *(confirmed by the successful ACCEPTED cycle)*
+
+Scene
+
+The vestibule is a narrow throat of concrete and hazard stripes. A rack of yellowed decon smocks hangs limp, sleeves like dead flags. A manual valve wheel sits on the wall beside a pressure gauge whose needle trembles—not from electricity, but from airflow.
+Ahead: a second door—thicker, cleaner—stenciled in block letters:
+ARCHIVE / GERMINATION — AUTHORIZED ENTRY ONLY
+And there, bolted to the wall at shoulder height, is a piece of pre-Disconnect arrogance that somehow survived the world ending: a mechanical card carousel with laminated tags. Someone labeled each slot in black marker:
+
+SEED LOT INDEX
+WATER PURITY LOG
+VIABILITY TESTS
+PERSONNEL ROSTER
+CONTINGENCY: “BLACKOUT YEARS”
+
+Alex’s breath catches. Not because it’s “technology.” Because it’s continuity—paper continuity. A promise that someone planned for a world exactly like this.
+Mila crouches by the gauge, listening. The bunker is holding pressure, but not perfectly—there’s a faint hiss at the hatch seam. If the Order stays outside long enough, they’ll try fire again. Heat will soak into the metal. Seals fail when they cook.
+Nolan presses an ear to the hatch. Through inches of steel: distant voices, muffled into a single hateful hum.
+This is it—Step 10’s truth sitting in front of you in plain stenciled letters. The bunker isn’t just a cache of relics.
+It’s a survivor seed-vault—an ark built out of paper logs, cold rooms, and patience.
+
+Approach Hooks
+
+Alex (History/Procedure): Use the carousel tags and signage to infer the bunker’s workflow—find the *correct* log or roster that grants deeper access without tripping a lock-in.
+Mila (Engineering): Stabilize the vestibule—tighten the hatch gasket, adjust the valve, reduce the hiss—buy time and keep smoke out.
+Nolan (Stealth/Caution): Prep a silent defense: wedge the hatch wheel, scatter grit for footsteps, and pick a fallback position if the Order breaches.
+
+Decision Point
+
+Alex: Pull the SEED LOT INDEX tag set and start mapping what’s stored where—prioritize anything labeled “GERMINATION” or “CONTINGENCY.”
+Mila: Work the valve and gasket—seal the hiss, stabilize pressure, and make this vestibule a defensible airlock before you go deeper.
+Nolan: Set a quiet barricade at the hatch (wedges, smocks, cabinet metal) and lay a simple trip hazard in the vestibule—then signal the others to move.
+
+What will you do?

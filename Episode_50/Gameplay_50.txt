@@ -1,0 +1,57 @@
+Decision Point
+
+Nolan: Trust-but-verify—disarm and question the stranger fast, then decide together whether to push toward the maintenance ladder.
+Mila: Leave the valve for a heartbeat and throw the DOG BAR lever sequence—hard-lock the inner door to buy Nolan time in the spine.
+Alex: Call out directions and protocol from the binder—guide Nolan to a manual isolation point so the spine can be sealed behind them.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:36:08 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan chooses trust—but verify.
+In the maintenance crawl, there’s no room for heroics—only leverage and breath control. Nolan keeps his forearm across the stranger’s collar line, knife angled where it can *warn* without having to *work*. His other hand pats fast: waistband, boot, jacket seam. He finds a slim pry tool, a roll of cloth tape, and a small brass token on a cord—worn smooth by fingers. No firearm. No obvious Order-branding.
+“Name,” Nolan whispers. “Faction. How’d you get in the spine.”
+The stranger swallows. In the tight dark, that sound is loud as a cassette click. “Jessa. Tech Nomad. Came in through an exterior vent stack—collapsed access. I heard your door cycling and figured you’d found the chamber before they did.”
+Nolan’s eyes narrow. “And you *just happen* to be here.”
+Jessa’s breath shakes once—fear, or cold. “I happen to not want to die in a sealed box because zealots think wires are sin.”
+From behind, through the hatch, the Analog Order’s careful tapping becomes a harsher rhythm—scrape—pop—scrape—metal biting into metal. The inner door is being worked like a stubborn relic that needs “cleansing.”
+The bunker answers with its own low, wrong music: a faint static crawling along the spine panels, raising gooseflesh. Not loud—yet. But present, like a radio tuned to nothing and still insisting on *something*.
+
+Reactivity
+
+meter_breakpoints: anomaly 1 → “Static.” *(triggered by the bunker’s live wrongness)*
+thread_milestones: none *(clues unchanged; no tier reached)*
+fail_forward: not invoked *(success: contact controlled; identity gained)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Jessa shifts one shoulder, careful not to fight. “Listen—maintenance ladder’s twenty meters forward. It dumps into a junction with manual shutters. You can seal the spine behind you. But—” her voice drops even further, “—the copper bus in there… it’s not dead. Touch it and you’ll light up like a sign.”
+Nolan holds her a beat longer, weighing the cadence, the lack of zealotry, the way she talks about *shutters* and *junctions* like she’s seen them. He eases pressure—just enough to let her breathe—without letting her go.
+A new sound from the chamber: Mila’s controlled hiss stutters, then steadies—she’s fighting the system to keep the gasket from screaming. Alex, somewhere back there, is probably still hunched over the binder like it’s scripture.
+And the Order’s toolwork hits a sharper note: CRK— a crack of something giving. Not the door yet—maybe the inspection port frame. Maybe a wedge seated.
+You have a path forward… and a threat behind… and a stranger in your arms.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Demand proof: have Jessa lead *ahead* with hands visible, while Nolan shadows her—ready to drop her if she lies.
+Mila (Engineering): Use her ear for systems: identify whether the “static” is induction from a live bus, a failing shield, or a trap—then advise whether it’s safe to move now.
+Alex (History/Procedure): Cross-check the binder for “manual shutters / spine isolation” language—confirm Jessa’s claim and call out the exact lever labels to look for.
+
+Decision Point
+
+Nolan: Release to a controlled escort—put Jessa in front, whisper a single rule (“you sprint, you die”), and push toward the maintenance ladder *now*.
+Mila: Abandon the valve long enough to execute the protocol’s DOG BAR lockdown—buy minutes, then regroup at the hatch.
+Alex: Shout through the hatch with binder guidance—direct Nolan to the spine’s manual shutter and how to throw it, sealing the crawl behind them.
+
+Which path do you choose?

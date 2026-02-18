@@ -1,0 +1,60 @@
+Decision Point
+
+Alex: Feel-read the nearest crate labels and hunt for an index sheet or manifest—anything that tells you what’s stored and where the “safe” inner chamber is.
+Mila: Work the STACK door’s mechanism in total darkness—test for a manual dog-latch or pressure seal you can close behind you.
+Nolan: Freeze and listen—count intruders by footfalls and breath, then decide whether to relocate deeper before they realize the misdirection.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:21:07 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan goes still—so still the bunker’s dry air seems to forget him. In the crawlspace dark, he turns his head a fraction at a time, letting sound paint the room.
+Behind the sealed panel: boots. At least three—one heavier, two lighter. Breath through cloth. A pry bar dragged with ritual patience. The Analog Order doesn’t rush; they *purify*.
+Then Nolan’s little wedge does what it was born to do: tick… skitter—a tiny betrayal on the other side of the wall.
+A voice, muffled and pleased: “There. Movement.”
+Metal scrapes. A flashlight *tries* to exist—dies into uselessness, just a faint click and a curse. The Disconnect still owns the world.
+Nolan counts again. The heavy one gives orders. The lighter two spread—one to the left, one to the right—following the false scuff line Nolan laid. For a moment, your crawlspace is a held breath.
+Then the heavy one stops, close enough that you feel it in the concrete.
+A palm slaps the shelving outside—testing. Listening.
+Nolan’s eyes find Alex’s in the dark. No words. Just the old Tech Nomad language: *they’re smart; they’re close; they can still be lied to.*
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat stays 5: Kill-on-sight; anomaly stays 2: Static)*
+thread*milestones:* *none triggered (mapauth 3, locconf 3, accessconf 3 already achieved; no new reveals this turn)*
+fail_forward: not invoked *(success: enemy count and movement pattern identified; misdirection is holding—for now)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The crawl widens into the service bay. Nolan feels the STACK doorplate again—raised letters like an old vinyl groove under his thumb. The door itself has weight: thick, insulated, built to keep time out.
+And here—at Step Ten, at the Threshold, where the map’s promise finally stops being a rumor—you understand what this bunker truly is.
+Not a weapons cache. Not a humming server cathedral.
+A survivor seed-vault.
+Crates banded in metal. Canisters with embossed crop codes. A future packed into analog containers and silence—waiting for the world to deserve it again.
+Outside, the Analog Order keeps hunting relics to burn. In here is a relic that isn’t a toy or a song—it’s tomorrow.
+A boot drags near the panel seam. Someone sniffs the air like a dog that doesn’t know it’s already been outsmarted.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Use their spread pattern—two following the false trail, one anchoring—to slip deeper and make the “wrong direction” feel like the only direction.
+Mila (Engineering/Radio): Test the STACK door for a mechanical dog-latch and check for a pressure equalization wheel—seed vaults often have double seals.
+Alex (History/Procedure): Feel-read crate embossing for a manifest index; seed vaults sometimes store paper catalogs that point to maintenance corridors and secondary exits.
+
+Decision Point
+
+Nolan: Move now—lead the trio deeper into the service bay and away from the crawl seam while the two hunters commit to the false trail.
+Mila: Put hands on the STACK door hardware and try to dog it shut behind you—buying minutes if they breach the panel.
+Alex: Find a manifest or labeling system by touch—something that tells you where the inner, safer chamber is (and whether there’s an emergency egress).
+
+What will you do?

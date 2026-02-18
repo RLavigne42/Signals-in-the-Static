@@ -1,0 +1,87 @@
+Decision Point
+
+Mila: Execute the 3 / 1 / 4 — HOLD Tone-Key immediately and commit—if the culvert answers, dive in.
+Alex: Risk a rapid search for the HOLD duration marking to prevent a misfire that could lock or alarm the relay.
+Nolan: Trigger a controlled diversion on the ridge to break line-of-sight while Mila performs the key.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:11:18 UTC---model: gpt-5.2---temp: 0.70
+
+Tone-Key | Recap
+
+Nolan’s pebbles have barely stopped clicking when he makes his move.
+Up on the ridge, he palms a shard of glassy slag—black as old cassette tape, sharp as truth—and flicks it into a seam of loose rock above the patrol’s line. Then, with a second toss, he sends a heavier chunk skipping into a dry gully.
+The basin answers with a rattle-slide—not a full collapse, but enough to sound like something big shifting its weight. Dust blooms on the far ridge in a pale, drifting veil.
+The three silhouettes pause. One raises an arm. Another turns their head, scanning the wrong horizon.
+Nolan doesn’t watch to admire his work. He watches to *measure time*. Ten seconds, maybe twelve, before discipline reasserts itself.
+Down at the culvert mouth, Mila’s eyes snap to Alex’s. “Now,” she says—no drama, just engineering.
+
+Reactivity
+
+Heat: stays 5 (Kill-on-sight) *(diversion buys seconds, not forgiveness).*
+Thread milestone: none new (Tone-Key already revealed).
+Fail-Forward: not triggered (success; window created).
+
+State Machine
+
+current_step: 8 — Tone-Key
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ⬜
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The culvert’s throat is a black oval, rimmed with mineral crust that glitters faintly in Mila’s lantern like powdered vinyl. The static in her coil tightens—a hiss with teeth—as if the relay recognizes intent.
+Mila braces the wire loop against the tag plate, using the metal as a reference point. She taps the loop to the frame in the stamped cadence:
+three quick contacts—*tik-tik-tik*—
+one—*tik*—
+four—*tik-tik-tik-tik*—
+then she holds the loop steady, breath locked, letting the contact linger into silence.
+For a heartbeat, nothing.
+Then the culvert answers.
+Not with a voice—nothing so kind—but with a cleaning of the static, a sudden narrowing of the hiss into a thin, almost musical line. Deep inside, metal shifts: clack… clack—two latches stepping back like old teeth retracting.
+Alex feels it in the soles of his boots: a vibration through concrete, subtle as a bass note from a distant boombox.
+Nolan’s head appears at the lip above, eyes wide. He mouths without sound: *move.*
+The seam in the culvert wall—something you’d mistaken for poured concrete—splits. A slab pivots inward on hidden hinges, exhaling a colder air that smells like dust, old rubber, and the faint tang of ozone that never fully left the world.
+But the opening is narrow, and it’s opening *loudly*—a gritty grind that carries.
+From the ridge: the patrol’s call snaps again, sharper. The diversion’s spell is breaking.
+
+Reactivity
+
+Checkpoint achieved: Hold key ✅ *(Step 8 complete)*
+Anomaly: 1 → 2 *(the relay “cleans” and tightens; not voices yet, but it’s more awake)*
+  *(No anomaly breakpoint triggered; Static remains the last breakpoint at 1.)*
+Heat: remains 5 (Kill-on-sight) *(noise risks contact; no new breakpoint beyond 5)*
+
+State Machine (Updated)
+
+current_step: 9 — Final Mile
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ⬜
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Mila ducks first, sliding into the gap with the coil hugged to her chest. Alex follows, lantern hooded down to a thin slit of flame. Nolan drops last, pulling the slab by its inner handle—muscles tight, jaw clenched—trying to hush a door built to survive wars, not sneak past them.
+The slab settles… not closed, not open—ajar, like it’s waiting for a confirmation you don’t have time to give.
+Ahead: a maintenance corridor slants downward, concrete sweating in the cold. Faded arrows point deeper, and someone long ago painted a warning in block letters:
+NO LIGHT PAST THIS POINT
+LISTEN FOR THE CLICK
+Somewhere far behind you, outside, a voice carries—closer now. And beneath it, inside the corridor, you hear a different sound: a periodic, mechanical tick… tick… tick… like an old arcade timer counting down a life.
+
+Approach Hooks
+
+Mila: Use the narrowed static as a guide—tune the coil to “hear” which direction the relay wants you to go, and whether the ticking is mechanical… or signal-driven.
+Nolan: Move point in darkness, using touch and breath—find cover and angles before the patrol reaches the culvert and notices the door isn’t fully seated.
+Alex: Read the signage and paint layers—civil-defense procedure sometimes hides “safe steps” in plain phrasing (what *click* means; what triggers it).
+
+Decision Point
+
+Mila: Follow the ticking and use the coil to map the corridor’s “hot spots,” even if it risks waking the relay further.
+Nolan: Kill the lantern entirely and lead by feel, prioritizing concealment and a position to ambush if the patrol forces entry.
+Alex: Stop for ten seconds to interpret the warning—search for a second instruction (a symbol, a number, a maintenance note) that explains the “click.”
+
+Which path do you choose?

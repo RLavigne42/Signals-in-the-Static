@@ -1,0 +1,59 @@
+Decision Point
+
+Mila: Work the pressure panel—match the needle, wait through any shudder, then attempt the wheel-turn in the safest window between sensor clicks.
+Alex: Examine the bulkhead for procedural tells—look for a secondary stencil, a serial plate, or a “turn order” etched by maintenance crews.
+Nolan: Move back a few meters into darkness and set a quiet defense—calculated cover and a simple trip-noise in case the patrol finds the seam.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:14:38 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex chose the slower, smarter move: *read the door like it was written by people who expected panic.*
+He leans in until his eyelashes almost brush the blistered paint. The bulkhead’s stencil isn’t the only message—there’s a second line half-hidden under a later patch job, the kind of thing a maintenance crew adds when the official instructions get people killed:
+EQUALIZE \= SELECT “B” / COUNT 20 AFTER CLICK
+DON’T FORCE. DON’T LIGHT.
+Alex traces a fingertip along a tiny serial plate riveted to the panel. The numbers are stamped deep—pre-Disconnect confidence. Next to the gauge, someone scratched three notches into the metal: |||. Not decoration. A reminder.
+Behind you, through concrete: a dull thunk—the patrol still probing, still not sure. Yet.
+
+Reactivity
+
+Heat: 5 (Kill-on-sight) *(unchanged; breakpoint already active)*
+Anomaly: 2 *(unchanged; static is “clean,” not voices)*
+Thread milestones: none triggered *(your clue tracks are already at 3 from earlier; no new reveals)*
+Fail-Forward: not triggered *(no failure; you gained procedure clarity)*
+
+State Machine
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ⬜
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The corridor feels tighter now that you know what “no light” really means: not superstition—photo-cells. Eyes in the dark, waking on brightness.
+The ticking cycles again, nearer than it should be: tick… tick… then a soft, confirming click from somewhere in the walls, like a relay making up its mind.
+Mila shifts beside the panel, coil held close, listening to the bunker’s bones. Nolan stays a step back, angled to watch both the sealed slab behind and the black throat ahead—his whole posture a quiet argument against getting boxed in.
+And then, for the first time since you came underground, the air changes—cooler, drier—like the bunker is holding its breath with you.
+Alex whispers the procedure to Mila: “Selector to B. Wait for the click. Count twenty. Then turn.”
+As he finishes, the gauge needle gives a tiny tremor—almost a shudder—then settles.
+
+Approach Hooks
+
+Alex (History/Procedure): Treat the door like a checklist, not a challenge—time the count to the bunker’s *click* cycle and avoid triggering the photo-cells.
+Mila (Engineering/Radio): Use the coil to confirm the selector’s effect—listen for pressure valves actuating and detect if the mechanism is about to lock out.
+Nolan (Stealth/Caution): Keep the rear threat in mind—if the patrol finds the seam, you’ll need either a choke point or a vanish route.
+
+(And now—Step 10’s truth, the thing the map never said out loud: this “bunker” isn’t just a weapons cache. The stamped plates, the pressure protocol, the obsession with darkness—this place was built to preserve lives and stock, a sealed survivor seed-vault meant to outlast the world above.)
+
+Decision Point
+
+Mila: Set selector to B, wait for the next click, count twenty, then attempt the wheel-turn—enter by the book.
+Alex: Search the panel edge and frame for the “dead-man” detail—an override, a hidden latch, or a secondary instruction in tiny print before anyone touches the wheel.
+Nolan: Fall back to the nearest bend and prepare a silent defense—if the patrol breaches, you buy Mila and Alex the twenty-count they need.
+
+What will you do?

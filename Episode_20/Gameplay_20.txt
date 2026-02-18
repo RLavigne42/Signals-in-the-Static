@@ -1,0 +1,56 @@
+Decision Point
+
+Mila: Convert the rotated grid into a corrected bearing and a short, actionable route segment—move before Patrols tighten the net.
+Alex: Focus on the filing code and stamp fragments—try to identify who altered the map and why, before you trust the next leg.
+Nolan: Shadow-walk toward the nearest anchor point and investigate the source of the clacking—confirm if you’re being steered in real time.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:03:33 UTC---model: gpt-5.2---temp: 0.70---
+
+Map’s Betrayal | Recap
+
+Alex ignores the wind and the distant whistles and focuses on the stamp fragments and that jittery three-letter filing code—because maps don’t lie by accident. They lie with paperwork.
+He tilts the sheet until the light skims the charcoal rub. The stamp’s outer ring resolves into partial words—*…CIVIL…* and *…DEF…*—the kind of bland institutional language that survived the Disconnect only as rumor and rust. The ink is old, but the *pressure* behind it was decisive: this map passed through hands that had authority, forms, and reasons to hide things.
+Mila steadies the paper, eyes flicking between the rotated grid and the legend. Nolan keeps watch, posture coiled, a knife held low where it won’t flash.
+Alex traces the repeated filing code along the margin, then stops at a tiny notation he almost missed: a boxy shorthand mark beside the antenna-triangle symbol—like a clerk’s reminder.
+“Not a bunker route,” he murmurs. “A relay audit route. Someone used the map to check something… or to make sure nobody else could.”
+A gust slaps the canopy. The torn plastic strip snaps like cassette tape yanked too hard. For a heartbeat the air feels thick with ozone—and the static tightens into something that almost resembles a breath.
+
+Reactivity
+
+Thread progress: map_auth 2 → 3
+Thread milestone (map_auth 3): Reveal — UV schematics.
+  Alex’s charcoal rub exposes a faint, waxy sheen in select lines—invisible ink work meant to be read under ultraviolet (or certain phosphor glows). It’s not readable *here*, but you now know a hidden schematic layer exists.
+Meters & breakpoints: Heat 3 (Patrols) unchanged; Anomaly 1 (Static) unchanged (no new breakpoint).
+Fail-Forward: Not triggered (success; no cost beyond time).
+
+State Machine
+
+current_step: 6 — Map’s Betrayal
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅
+clues: map*auth 3* *| loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1 *(Static)*
+heat: 3 *(Patrols)*
+supplies: 1
+
+The rest stop basin sits in a hush that feels staged. Sunlight bleaches everything into tired colors—bone-white concrete, rust-red metal, the faint turquoise ghost of an old soda logo. The vending machines gape open like gutted arcade cabinets. Somewhere out beyond the billboard frame, that mechanical clack keeps time: *clack… clack… clack*—steady as a metronome.
+Mila taps the legend where the circle-with-slash sits. “If there’s UV schematics, the ‘restricted access’ mark might not be a warning. It might be an instruction—like, *enter here, but only if you know how*.”
+Nolan’s gaze tracks the horizon line. “And the clacking? That’s either a hand-crank generator… or somebody making sure we can’t hear their footsteps.”
+Alex folds the map carefully, charcoal side in, like he’s sealing a confession. The paper gives a soft, dry crackle—vinyl sleeve brittle with age.
+
+Approach Hooks
+
+Alex (Provenance leverage): Use the stamp fragments and audit-route logic to predict where the next “relay” checkpoint should be—turn bureaucracy into navigation.
+Mila (Analog illumination): Improvise a UV-like reveal using phosphor salvage (glow paint, old watch dials, arcade marquee residue) or reflective tricks to coax the hidden schematics to show.
+Nolan (Counter-ambush): Assume the audit route is watched; set a false trail across the basin and observe who reacts.
+
+Decision Point
+
+Mila: Act on the UV-schematics reveal—scavenge the rest stop for anything that can make hidden ink show, *before* you move on.
+Nolan: Investigate the source of the clacking with stealth—confirm whether it’s a machine, a trap, or a watcher.
+Alex: Use the audit-route theory to choose the next leg—plot a path that avoids the “restricted access” mark until you have the means to read the schematic layer.
+
+Which path do you choose?

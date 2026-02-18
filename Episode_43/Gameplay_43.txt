@@ -1,0 +1,56 @@
+Your Choices
+
+Mila: Slip into the pressure corridor first, one hand on the EQ valve, and guide the others through with timed breath-and-pause signals.
+Alex: Take the manifest diagram lead—count paces, find the P‑2 marker, and locate the next door control without using light.
+Nolan: Move ahead to scout the corridor’s next choke point and set a silent obstruction behind you to delay any breach.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:28:01 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila goes first—because the corridor isn’t just a hallway, it’s a *system*, and she’s the only one who can hear it breathe.
+She slips through the finger-width gap behind the manifest rack, shoulders turning sideways, boots finding the slick grit of old concrete. One hand stays on the recessed EQ handwheel like a safecracker’s dial; the other hovers near the seam, feeling for the slightest pushback. Alex follows, keeping the false panel from rattling, while Nolan brings up the rear—quiet as cassette tape sliding through a deck.
+Behind them, the STACK door answers with a brutal new note: not the seal failing, but the frame beginning to complain—wood splintering, metal groaning. The Analog Order’s chant leaks through in a low, devotional murmur, like a hymn sung through a wall.
+Mila pauses, closes the valve a hair, waits for the pressure to settle… then opens it again by millimeters.
+The corridor accepts you without a cough of smoke.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(no new clue tier reached)*
+fail_forward: not invoked *(success: controlled entry into P‑2 with no pressure slap, no smoke draw)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The pressure corridor P‑2 is narrow enough that your shoulders almost brush both sides. The paint has bubbled into scabbed blisters; warning stripes—once loud—are now just texture under your fingertips. Somewhere overhead, a dead fluorescent tube hangs like a snapped bone. The air is colder here, damp with the scent of wet concrete and old ozone, as if the bunker remembers lightning.
+Halfway down, you find the next threshold: a steel door with a circular inspection port, its glass fogged. A stenciled label—raised enough to read by touch—says:
+P‑2 INNER
+EQUALIZE BEFORE OPEN
+And there’s another hand control beside it, smaller than the first, with a notch that suggests three positions—vent, hold, seal.
+From behind you, the first true tendril of smoke finally threads into the vault space you left—thin, searching. Not a flood yet, but it’s learning the route.
+Mila puts her ear to the inner door. Nothing. No footsteps. No answering chant. Just the bunker’s long silence—and a faint, unsettling *tick… tick… tick* that could be cooling metal… or something counting.
+
+Approach Hooks
+
+Mila (Engineering): Run a two-stage equalization at the inner door (vent → hold) to prevent smoke draw and avoid a pressure “clap” that would echo down the corridor.
+Alex (Procedure/History): Use the emergency protocol language (“do not open both doors simultaneously”) to coordinate door discipline—panel stays cracked, inner door opens only after seal confirmation.
+Nolan (Stealth/Caution): Listen at the corridor behind and at the inner door; be ready to silently re-seat the false panel if pursuit finds it, or to ambush in the choke point if forced.
+
+Your Choices
+
+Mila: Equalize the P‑2 INNER door (vent → hold), then open it in a controlled, silent swing.
+Alex: Call the procedure step-by-step from memory and touch, ensuring no one violates the “two doors” rule—even if smoke thickens behind you.
+Nolan: Slip back to the false panel and rig a quiet delay (strap, cloth, wedge) to slow anyone who discovers the route—risking separation.
+
+What will you do?

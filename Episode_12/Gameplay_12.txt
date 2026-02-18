@@ -1,0 +1,59 @@
+Your Choices
+
+Nolan: Lead a low-profile route to the Relic Market and case it first—identify exits, spot fakes, and keep Heat from climbing.
+Mila: Go straight to a modder stall and barter for practical gear (filters, grease pencil, mechanical compass, wire) using the cassette as leverage.
+Alex: Work the market socially—trade the “Friday Night Drive” tape *as a story* to secure supplies and a quiet contact who can point you northeast safely.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:51:43 UTC---model: gpt-5.2---temp: 0.70---
+
+Relic Market | Recap
+
+Alex works the market the way he works a room: by making people feel like their junk-drawer history matters.
+You emerge from the Glitch Palace’s service alley into a side-street stitched with tarps and scavenged awnings. Neon is rare out here—just a few salvaged tubes humming weakly over stalls of vinyl sleeves, cracked Walkman shells, coiled copper, and dead circuit boards sold like charms. The air tastes like dust and fryer grease; somewhere a generator coughs and dies, leaving only the hiss of distant static.
+Alex keeps FRIDAY NIGHT DRIVE // 1987 in plain sight, not as bait—*as proof*. He stops at a stall where cassette spindles hang like wind chimes. The vendor is older, eyes sharp, fingers stained with oxide.
+“That’s a real one,” the vendor says, nodding at the tape. “Not a re-wind scam.”
+Alex smiles, softens. “It’s got a story. Found in a glovebox. ‘Do Not Dub.’ That kind of warning means somebody loved it.”
+The vendor’s posture changes—less merchant, more curator. Around you, Nolan clocks two exits, a narrow cut between stalls, and a rooftop ladder. Mila’s gaze keeps snagging on anything that could become a tool: grease pencils, mechanical compasses, filter cloth, wire.
+Alex trades *story first*, then relic: he offers the mixtape and a sliver of dot-matrix paper as “liner notes”—a small sacrament. The vendor, moved and greedy in equal measure, slides a bundle across the counter under a rag:
+
+a grease pencil (wax-heavy, rain-resistant)
+a mechanical compass (no batteries, no lies—if it’s not been dropped)
+a folded charcoal filter cloth (ugly, lifesaving)
+and—quietly—a brass token stamped with a pixel crown: *a Nostalgist “safe-route” marker* used by runners to indicate alleys watched by the wrong eyes.
+
+“Head northeast,” the vendor murmurs, voice low enough to hide under the market’s chatter. “Don’t take the straight streets. The Order’s been sniffing for ‘relic smugglers’ since midday.”
+As if summoned by the word, a ripple passes through the market: a pair of robed figures at the far end—faces half-hidden, hands too clean—pause at a stall and *watch* without buying. Observation, patient and hungry.
+Nolan’s hand drifts near his blade. Mila tucks the compass away like it’s sacred. Alex feels the loss of the tape—then reminds himself: a relic traded is a relic that *moves the story forward*.
+
+Reactivity
+
+Checkpoint achieved: High relic (Step 4 objective completed: you secured meaningful, practical gear via trade).
+Thread milestone check: none triggered (map*auth 0, loc*conf 3 already revealed earlier, access_conf 0).
+Meter breakpoint check: no new anomaly breakpoint; heat unchanged.
+
+State Machine
+
+current_step: 4 — *Relic Market*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 *(gear bundle counts as high-value kit)* | anomaly 1
+heat: 2 *(Observation active; Patrols at 3)*
+supplies: 1 *(filters/compass/pencil \= tangible travel readiness)*
+
+Approach Hooks
+
+Leave like locals: Use the brass “safe-route” token to pick alleys that Nostalgist runners mark as low-watch.
+Lock the route physically: Mila can set the compass bearing 071° NE and have Alex mark the map with grease pencil so the path survives rain, panic, or separation.
+Keep Heat from tipping: Nolan can shadow-check for tails now—better a slow exit than hitting Heat 3: Patrols on open ground.
+
+Decision Point
+
+Nolan: Lead an immediate, low-profile exit through marked alleys—shake any watchers before they can coordinate.
+Mila: Stop under cover and fix the bearing/coords onto the bunker map with the grease pencil—make the route durable and sharable.
+Alex: Spend one more minute networking—use the vendor’s goodwill to get a named contact or passphrase for the northeast approaches.
+
+What will you do?

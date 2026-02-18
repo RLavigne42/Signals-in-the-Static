@@ -1,0 +1,70 @@
+Decision Point
+
+Mila: Set selector to B, wait for the next click, count twenty, then attempt the wheel-turn—enter by the book.
+Alex: Search the panel edge and frame for the “dead-man” detail—an override, a hidden latch, or a secondary instruction in tiny print before anyone touches the wheel.
+Nolan: Fall back to the nearest bend and prepare a silent defense—if the patrol breaches, you buy Mila and Alex the twenty-count they need.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:15:42 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila follows Alex’s found-protocol to the letter. She turns the rotary selector with two careful clicks until it points to B. The panel answers with a faint internal *hiss*—not air escaping, but air being invited through a valve that hasn’t moved in decades.
+The bunker’s wall-ticking cycles: tick… tick… then that soft relay click—the “safe” moment Alex promised.
+Mila’s lips move in silence as she counts.
+…seventeen… eighteen… nineteen… twenty.
+She grips the red wheel-handle and turns.
+For a heartbeat, the needle on the gauge shudders—a quick tremble like a cassette spool catching on warped tape. Mila freezes instantly, honoring the stencil. She waits it out—one breath, then another—until the needle settles back into a steady line.
+Then she turns again.
+This time the mechanism yields with a deep, reluctant groan, metal waking from a long sleep. The wheel completes a quarter turn, then another—each rotation dragging a low vibration through the concrete.
+Somewhere behind the sealed slab, the patrol gives up on guessing and starts *working*: a scrape of metal on stone, a tool being set.
+You don’t have long.
+The bulkhead unlocks with a final, heavy clunk. A seam opens—black at first, then a spill of air so cold it tastes like penny-metal and dry paper.
+Mila pulls the door inward just enough for the trio to slip through.
+Inside: darkness that feels *organized*. Shelving silhouettes. Crates stenciled with government codes. And—faintly—rows of cylindrical canisters like oversized thermoses, each with analog tags that glint in Mila’s pinhole light.
+Alex’s voice drops to a reverent whisper, the words scraping out like they’re afraid to wake something.
+“This isn’t an armory.”
+The map’s true destination finally resolves in your bones: a survivor seed-vault, sealed against the Disconnect, built to keep the future alive in the dark.
+
+Reactivity
+
+Checkpoint achieved: Sealed ✅ *(Step 10 complete: you’re through the threshold.)*
+Heat: 5 (Kill-on-sight) *(breakpoint already active; patrol now actively attempting breach)*
+Anomaly: 2 *(unchanged; coil static remains “clean”)*
+Thread milestones: none new *(mapauth/locconf/access_conf already satisfied earlier)*
+
+State Machine (Updated)
+
+current_step: 11 — Cold Shelves
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5
+supplies: 1
+
+The door eases shut behind you with a soft suctioned thump, and the world becomes a museum of preservation: dustless air, vinyl-smell replaced by sterile dryness, and the faint ozone tang of old shielding.
+Your pinhole light catches labels on the canisters—handwritten, careful, almost tender:
+CORN / DENT
+BEANS / PINTO
+SUNFLOWER
+WHEAT / HARD RED
+On a nearby shelf sits a binder in a sealed plastic sleeve: VAULT PROTOCOLS (ANALOG)—and beside it, a squat device with a crank handle and a needle meter, like a radio married to a safe. A manual environmental controller, maybe. Or a lock.
+Behind the bulkhead, muffled through layers of steel: scrape… scrape… then a dull THUNK as the patrol commits to forcing entry.
+Nolan’s eyes track the room’s corners, already measuring where to disappear if the wrong people pour in. Mila’s coil twitches toward the crank device, hungry for function. Alex stares at the binder like it’s a living artifact—because in a way, it is.
+
+Approach Hooks
+
+Alex (History/Procedure): Open the Vault Protocols binder and find the “what do we do first” page—shutdown sequences, concealment steps, or rules for moving canisters safely.
+Mila (Engineering/Radio): Inspect the crank-and-needle controller for a lock interface or alarm circuit; she can test it without bright light, listening for relays and watching the meter.
+Nolan (Stealth/Caution): Scout for a secondary exit, crawlspace, or service duct; if the patrol breaches the bulkhead, you’ll need a vanish route—or a choke point.
+
+Your Choices
+
+Alex: Pull the sealed binder and scan for immediate protocols—what to secure, what not to touch, and how to keep the vault hidden.
+Mila: Work the crank device softly—test whether it controls pressure, lights, or a lock deeper inside, without waking photo-cells.
+Nolan: Sweep the perimeter in near-total dark—find a secondary route or a defensible angle before the breach reaches the door.
+
+What will you do?

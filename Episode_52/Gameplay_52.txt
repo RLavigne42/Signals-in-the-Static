@@ -1,0 +1,59 @@
+Decision Point
+
+Nolan: Bypass the tripline in the shaft—dampen the filament with tape, then lift it free and continue down toward the junction.
+Mila: Risk leaving the valve—throw the chamber’s manual lockdown sequence to stall the Order, even if pressure wobbles.
+Alex: Use the binder and shout a single, precise instruction through the hatch—identify whether this bunker uses shutter-drop traps and where the manual override might be.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:38:15 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan commits to the bypass.
+On the ladder, he goes statue-still—then moves like a locksmith in a gunfight. One hand clamps the rung to kill vibration; the other fishes out the last of their cloth tape, tears it with his teeth, and presses it gently onto the hair-thin filament. The tape kisses the line and drinks up its tremble.
+Jessa’s breath hangs above him, tight and silent.
+Nolan slides two fingers under the taped filament and lifts—slow, slow—until it clears the rung. The striker box doesn’t twitch. No spring snap. No shutter slam. Just the bunker’s dry, patient silence.
+He eases past, one rung at a time, keeping his shoulder from brushing the concrete. Jessa follows, hands still visible, eyes wide in the shaft-dark.
+
+Reactivity
+
+meter_breakpoints: none triggered *(anomaly 1 already active: “Static”; heat remains 5: “Kill-on-sight”)*
+thread_milestones: none triggered *(clues unchanged; no tier reached)*
+fail_forward: not invoked *(success: trap bypassed cleanly)*
+
+State Machine (Step 10 Tracking)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(inside the bunker’s internal access network; the chamber is not yet “safe”)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The ladder spits them out into a junction that smells like cold concrete and old plastic—faintly sweet, like vinyl left in heat for decades. A corroded sign, stenciled in military block letters, points three ways:
+
+SPINE SHUTTER — MANUAL
+SERVICE CORRIDOR B
+ENV. LOCK / DECON
+
+A handwheel the size of a steering wheel waits on the shutter assembly—paint flaking, grease long gone. The static in Nolan’s teeth spikes when he gets close, like the bunker is warning him off its bones.
+Above, through layers of concrete and duct, the Analog Order’s presence is no longer hypothetical: muted voices, a hard knock, then the dull groan of metal under leverage. They’re forcing the chamber door, and Mila and Alex are on the wrong side of that sound.
+Jessa leans in, whispering, “If you throw the shutter, you cut the spine. They can’t follow down the ladder. But your friends—” she flicks her eyes toward the shaft, “—they’re still up there.”
+The junction’s other path—ENV. LOCK / DECON—breathes a colder air, tinged with iodine and dust. The door is shut, with a mechanical latch and a viewing slit. No electronics. Just engineering.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Use the shutter wheel to seal the spine, then shadow-run Service Corridor B to find a manual route back toward the chamber from *inside* the bunker.
+Mila (Engineering): If Nolan can reach the ENV. LOCK, she can be guided to cycle it mechanically—creating a pressure “cough” that stalls the Order’s pry-work and buys seconds.
+Alex (History/Procedure): Alex can recall common bunker layouts: decon locks often connect to command-adjacent corridors; he can call likely signage/lever labels for Nolan to hunt by touch.
+
+Decision Point
+
+Nolan: Spin the SPINE SHUTTER — MANUAL handwheel now—seal the ladder route, then sprint Service Corridor B to loop back toward Mila and Alex from behind the breach.
+Mila: Hold the chamber as long as she can—use pressure control to keep the door from “popping,” trusting Nolan to find a manual interior route.
+Alex: Risk shouting a single instruction through the hatch—coordinate a timed move so Nolan throws the shutter exactly when Mila vents, maximizing confusion for the Order.
+
+What will you do?

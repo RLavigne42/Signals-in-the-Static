@@ -1,0 +1,70 @@
+Decision Point
+
+Mila: Slip through the opening first and jam the inner door’s cam at a defensible gap—turn the archive door into a choke point.
+Alex: Dive inside and snatch the “BLACKOUT YEARS” binder or index cards—get the rulebook before you trip a protocol.
+Nolan: Stay in the vestibule to delay the saw team—improvise a barricade and buy the others time to get through.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 06:18:55 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+You send Alex through the pale seam of the inner door—not to run, not to rummage, but to grab the *rulebook* before the bunker’s procedures grab you. Behind you, the outer hatch answers the Analog Order’s patience with a new rhythm: rasp… rasp… rasp—a saw worrying steel.
+
+State Machine
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(milestone reached earlier; Tone-Key sequence available)*
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+
+Reactivity
+
+breakpoint triggered: heat 5 → Kill-on-sight *(active)*
+breakpoint active: anomaly 1 → Static *(a thin interference you feel more than hear)*
+thread milestone available: access_conf 3/3 → Reveal: Tone-Key sequence *(no new reveal needed—already in hand)*
+
+Scene
+
+Alex slips through the inner door sideways, shoulders scraping cold paint. The light inside is sterile and too clean for the world outside—like it’s been waiting in a sealed cassette case for forty years.
+Immediately to his right: a wall-mounted rack of binders in clear sleeves. Labels in blocky stencil:
+
+BLACKOUT YEARS
+SMOKE / FIRE PROTOCOL
+DECON & QUARANTINE
+ARCHIVE ACCESS — PAPER TAPE
+
+He doesn’t hesitate. He yanks BLACKOUT YEARS free.
+The binder is heavier than it should be—thick with laminated flowcharts and carbon-copy forms. When he flips it open, the pages smell like dust and old toner, that ghost of offices and fluorescent ceilings.
+A bold header punches up at him:
+BLACKOUT YEARS CONTINGENCY — INNER DOOR RULES
+Below it, a boxed warning stamped in red:
+IF OUTER HATCH IS UNDER BREACH OR HEAT: 1) DO NOT FULLY CYCLE INNER DOOR OPEN.
+2) MAINTAIN VESTIBULE AS SACRIFICIAL BUFFER.
+3) OPEN INNER DOOR TO “SERVICE GAP” ONLY. *(4–6 inches)*
+4) ENGAGE MANUAL CAM LOCK AFTER PASSAGE.
+5) IF SMOKE PRESENT: QUARANTINE MODE.
+Alex’s throat tightens. “Mila—service gap. Four to six inches. We hold it like a choke point.”
+Mila’s hands are already on the mechanism, feeling the cam’s pulse through the metal like a heartbeat. Nolan’s stance shifts—weight forward, ready—eyes cutting between the widening seam and the hatch that’s being eaten alive by a saw.
+Alex flips one more page and finds the line that matters most right now, typed like someone expected this exact moment:
+FAIL-SAFE NOTE: *If cam lock is engaged during breach conditions, inner door may require 10 minutes to re-cycle. Choose timing carefully.*
+The bunker isn’t trying to be cruel. It’s trying to be *correct*.
+And outside, the saw’s cadence changes—faster, more confident—like they’ve found purchase.
+
+Approach Hooks
+
+Alex (History/Procedure): Call the steps in order from the binder—*service gap*, pass-through, then *manual cam lock*—reducing the chance you trigger quarantine or a lock-in at the wrong time.
+Mila (Engineering): Physically hold the inner door at a 4–6 inch gap and feel for the cam’s “sweet spot,” then engage the manual lock at the exact moment the others clear the seam.
+Nolan (Caution/Combat): Use the vestibule as the sacrificial buffer: position to intercept if the hatch pops, and be the last through—so the others aren’t exposed mid-transition.
+
+Decision Point
+
+Mila: Set the inner door to a strict service gap (4–6 inches) and start moving the party through one at a time, ready to cam-lock.
+Nolan: Hold the vestibule and prepare to meet the breach—improvise a last-second delay while Alex and Mila get through first.
+Alex: Keep flipping BLACKOUT YEARS for a quarantine bypass or alternate route—risking seconds now to avoid a dead-man protocol later.
+
+What will you do?
