@@ -1,5 +1,7 @@
 ﻿# Signals-in-the-Static
 
+(https://app.viloud.tv/hls/channel/9b800fdf2a740084802567c106460f65.m3u8)
+
 This is **Charlotte**, from **the Red Griffin Inn** in **Oakhaven**—and you’re listening to **“Signals in the Static.”**
 
 Thirty years after **the Disconnect**, the world still hums with the ghosts of dead networks: **silent satellites**, **dark screens**, and cities that learned to live without the comfort of a signal. Out here, information travels the old way—**by voice, by paper, by radio**, and by the courage of whoever’s willing to carry it.
@@ -127,4 +129,5 @@ If you ask, I can also produce:
 - **Radio-safe teaser** (10–20 seconds of copy)
 
 ---
+
 
