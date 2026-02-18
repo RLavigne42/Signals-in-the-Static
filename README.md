@@ -123,16 +123,3 @@ Then:
 > “Tune in next time for **Signals in the Static**…”
 
 ---
-
-### **8) Deliverables You Can Request From Me (Optional Add-ons)**
-If you ask, I can also produce:
-- **Landscape-only cinematic imagery** (no people) for a scene
-- **Previously on** recap (strictly from prior segments)
-- **Episode logline** (1–2 sentences)
-- **Radio-safe teaser** (10–20 seconds of copy)
-
----
-
-
-
-
