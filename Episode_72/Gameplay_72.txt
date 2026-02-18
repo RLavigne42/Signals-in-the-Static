@@ -1,0 +1,65 @@
+Decision Point
+
+Alex: Examine the keypad and “CREDENTIAL STRIP” slot for clues—wear marks, date conventions, and any procedure language that hints at the correct input.
+Mila: Inspect the keypad mechanism and hatch frame—attempt a non-destructive bypass or find an emergency release tied to pressure/decon.
+Nolan: Fall back to the corridor entrance and fortify—slow the smoke and prepare to repel a breach while the others work the hatch.
+Mila & Alex: Work in tandem—Alex interprets the bunker’s credential conventions while Mila tests the mechanism with minimal risk.
+
+Which path do you choose?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:59:58 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex commits to reading the bunker like it’s a primary source—no heroics, no guessing. Just evidence.
+He kneels by the mechanical keypad and the CREDENTIAL STRIP / PAPER TAPE slot, letting the thin corridor light rake across grime and scratches. Smoke still worries at the world behind you, but here the air is colder, drier—preserved. The bunker’s silence has weight.
+Alex runs his thumb along the keypad’s edges. The most-worn buttons tell a story: 0, 1, 9, and 8 are polished down to a soft shine. Not random. Habitual. Institutional.
+“Year format,” he murmurs. “They loved dates.”
+He checks the stenciling around the hatch frame for procedure language—anything that reads like an instruction manual trying to sound like authority. A faded strip of text sits just above eye level, half-scraped away:
+…ENTER AUTH DATE / SHIFT ID…
+So not a single code. A compound entry.
+Mila keeps the cassette tones feeding the AUTH port behind you—steady crank, steady prayer—while Nolan watches the corridor mouth like it’s the barrel of a gun pointed both ways.
+Alex tests the credential slot with a sliver of stiff paper from his own notes—just enough to feel the mechanism. Inside, a set of rollers bite and release with a dry, precise tick-tick, like a receipt printer that never got the chance to die.
+This hatch wants paper. A strip. A credential you don’t have.
+But it also wants a date and a shift ID—and those are things you can sometimes steal from the past.
+
+Reactivity
+
+thread_milestones: none newly triggered
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(active)*
+anomaly 1 (Static) *(active)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅ | Pressure equalized ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor gives you one more detail—easy to miss unless you’re Alex: a maintenance placard bolted beside the hatch, its corners curled.
+WEEKLY: VERIFY PAPER TAPE IN DISPENSER — DECON ANTECHAMBER
+MONTHLY: TEST OVERRIDE KEY (CAPTAIN ONLY)
+“Decon antechamber,” Alex says, voice tight. “There’s a dispenser. That’s where the credential strip lives.”
+Nolan’s head snaps toward the smoke behind you. A dull, heavy scrape—metal on metal—followed by a muffled chant, low and rhythmic. The Analog Order is close enough that the words are almost legible through the concrete: “Cleanse. Cleanse. Cleanse.”
+You have two problems now: 1) A hatch that wants a paper credential you don’t yet have.
+2) A corridor that’s about to become a chimney if they keep feeding smoke.
+
+Approach Hooks
+
+Alex (History): Use the wear-pattern and the “AUTH DATE / SHIFT ID” hint to try likely institutional defaults (e.g., facility commissioning date, standard shift codes), *without* locking the keypad.
+Mila (Engineering): Find the decon antechamber and locate the paper tape dispenser; keep the Tone-Key playback stable or determine if the AUTH port has latched and can be released.
+Nolan (Caution/Stealth): Turn the corridor mouth into a choke point—improvised smoke control, listening for a ram, and setting a trip hazard in the dark.
+
+Decision Point
+
+Alex: Attempt a careful keypad entry based on the evidence—use a plausible AUTH DATE (1980s commissioning) plus a standard SHIFT ID, watching for mechanical feedback that suggests you’re close.
+Mila: Push deeper to find the DECON ANTECHAMBER and its paper tape dispenser while maintaining or safely ending Tone-Key playback.
+Nolan: Fall back to the corridor entrance and slow the smoke/hold the line—buy time for the others to solve the hatch.
+Alex & Mila: Alex tries one low-risk keypad attempt while Mila scouts for the paper tape; Nolan holds rear guard.
+
+What will you do?

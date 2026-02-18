@@ -1,0 +1,70 @@
+Decision Point
+
+Alex: Make a second keypad attempt using a different “AUTH DATE” convention (Julian day / YYMMDD) while keeping the same shift ID—minimize variables.
+Mila: Take over the slot—manually tension the paper strip and time the feed while Alex inputs, trying to satisfy whatever mechanical cadence the reader expects.
+Nolan: Leave the rear guard for a moment to help physically brace the hatch and block smoke with improvised seals, then return to the choke point.
+Alex & Mila: Coordinate a single, deliberate second attempt—Alex changes only the shift ID while Mila monitors bolt movement and paper stamping for immediate feedback.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:14:02 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex takes the RETRY like a gift with teeth. One more chance before the bunker decides you’re noise.
+Mila keeps her hand near the paper slot, feeling the rollers’ pulse through the metal. Nolan’s voice carries from the smoky corridor mouth—tight, low: “They’re moving something heavy.”
+Alex wipes dust off the placard again, like the right smear might reveal the right truth: …ENTER AUTH DATE / SHIFT ID… The worn keys—1, 9, 8, 0—still tell him the bunker’s favorite story, but the half-retracted bolt told another: *close isn’t correct.*
+So he changes the *date*, not the identity.
+Not “1980.” Not a year.
+He thinks like a clerk trapped in a military machine: YYMMDD. Or a Julian day. Or a format meant to be stamped on paper, not remembered in a head.
+He goes with the cleanest institutional habit: YYMMDD—a date that would’ve been printed on every form that ever passed through this place.
+His fingers press the keys in a measured cadence, matching the rollers’ faint tick… tick… as Mila steadies the paper strip.
+The last digit goes in.
+For a heartbeat, the bunker holds its breath.
+Then the hatch answers with a deeper sound than before—less “trying,” more “deciding”:
+K-CHUNK.
+A bolt retracts fully.
+Then another.
+Then a third, like knuckles cracking in sequence.
+The paper strip lurches inward as if swallowed. A wheel stamps it again—harder this time—THIP—and the little window flips from RETRY to:
+ACCEPTED
+The seam of the hatch exhales a thin line of cold, dry air that smells faintly of vinyl, old antiseptic, and something like paper kept too long in the dark.
+Mila doesn’t smile—she just whispers, reverent and furious at once: “It worked.”
+Behind you, Nolan swears as the outer corridor booms with a new impact—THUD-THUD—the Analog Order testing metal, finding rhythm.
+The hatch begins to swing inward on reluctant hinges, a slow, heavy arc. Darkness beyond—thicker than the corridor’s dim—waits like a mouth.
+
+Reactivity
+
+meter_breakpoints: none newly triggered
+heat remains 5 (Kill-on-sight) *(active)*
+anomaly remains 1 (Static) *(active)*
+thread_milestones: none newly triggered
+map_auth 0/3
+loc_conf 0/3
+access_conf 3/3 *(already known: Tone-Key sequence)*
+
+Scene
+
+The opening is just wide enough to slip through single-file. The bunker’s interior swallows sound—your boots scuff and it dies instantly, as if the walls are padded with years.
+A narrow vestibule lies beyond: painted hazard stripes, a manual wheel valve on the wall, and a rack of limp, yellowed decon smocks that smell like dust and forgotten rules. A sign—block letters, bureaucratic menace—reads:
+SECURE DOOR AFTER ENTRY. CONTAMINATION IS FOREVER.
+Mila’s cassette deck continues its soft mechanical whir, but the Tone-Key has done its job; the AUTH port’s appetite feels… satisfied.
+Alex glances back at the corridor haze. The smoke is closer now, crawling, eager. Nolan’s silhouette is a cutout against it—knife-ready, eyes hard.
+If you step in and swing this hatch shut, you buy safety from the Order—at least for a while.
+If you hesitate, you invite smoke and zealots into the same throat you just cleared.
+
+Approach Hooks
+
+Alex (History/Procedure): Read signage and workflow—identify which wheel/lever seals the vestibule fastest and whether there’s a “lock-in” protocol you can exploit.
+Mila (Engineering): Check the hinge, dog-bolt, and valve states; ensure you can re-open if needed and that you’re not sealing in smoke with yourselves.
+Nolan (Caution/Combat): Cover the corridor while the others enter; decide whether to leave a trap/obstruction before sealing the door.
+
+Decision Point
+
+Alex: Pull everyone through and secure the hatch immediately, following the bunker’s procedure signage to lock it down fast.
+Mila: Inspect the manual valve and vestibule controls first—make sure sealing the hatch won’t trap smoke or trigger a pressure/lock-in you can’t undo.
+Nolan: Hold the corridor for a final ten seconds—kick debris into the choke point, set a quick trip hazard—then dive in and seal it.
+
+What will you do?

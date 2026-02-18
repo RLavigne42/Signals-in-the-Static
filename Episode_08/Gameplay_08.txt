@@ -1,0 +1,53 @@
+Your Choices
+
+Nolan: Take point through a staff-only corridor—get the trio out the back, keeping Heat from spiking to Patrols.
+Mila: Follow the conduit deeper into the building—use the arcade’s wiring as an antenna to triangulate the carrier source *now*, before you leave.
+Alex: Plant a rumor with a nearby Nostalgist circle—turn your Oracle visit into harmless “vibe devotion,” then slip out during the distraction.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:43:36 UTC---model: gpt-5.2---temp: 0.70---
+
+Static on the Line | Recap
+
+Alex does it again—weaponizes warmth.
+He slides back toward a knot of Nostalgists near a battered boombox altar: denim vests, neon laces, a scarf made from cassette tape spools. Their laughter is loud enough to drown suspicion—perfect cover.
+Alex lifts his hands, palms out. “Quick public service announcement,” he says, grinning like he’s about to tell a joke from a late-night rerun. “If anyone hears a rumor that I was back there trying to *pull secrets* from the Oracle—nah.”
+A few faces tilt toward him. Hooked.
+“I asked it something small,” Alex continues, voice earnest, almost reverent. “Like… why we keep the lights on when the world wants them off. And it spit out the most Nostalgist answer imaginable: *follow the old rail.*”
+That lands. A couple of them laugh. One claps. Someone repeats it—already turning it into a chant.
+Alex leans closer, lowering his voice like he’s sharing contraband. “Truth? I’m here for music. Old tapes. J-cards. Anything with handwriting. If you’ve got a mixtape with a real story, I’ll trade for it.”
+Now the narrative is set: *Archivist, harmless, tape-hunter.* Not *map-chaser.* Not *bunker-seeker.*
+Across the room, Nolan watches the entrance through the cabinet reflections. The Analog Order scouts are still out there in the crowd somewhere—faces missing, but their attention blunted. They can’t move on you without looking like the aggressors in a sanctuary that hates drama.
+Mila, meanwhile, catches that needle-bright carrier tone again—faint, insistent—like a radio trying to clear its throat. It’s stronger near the back wall, where thick conduit snakes into the building’s bones.
+A door marked STAFF ONLY rattles once as someone bumps it from the other side. The smell of fryer oil and wet concrete seeps in. An exit route. A risk. A chance.
+
+Reactivity
+
+Thread milestone check: none triggered.
+Heat breakpoint status: Heat 2 (Observation remains active; Patrols at 3).
+
+State Machine
+
+current_step: 3 — *Static on the Line*
+checkpoints: Inside, Coords, Bearing
+clues: map*auth 0 | loc*conf 2 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1
+heat: 2
+supplies: 0
+
+Approach Hooks
+
+Slip while the rumor spreads: Alex’s “tape-hunter” story buys you a narrow window to exit without pursuit.
+Triangulate on the move: Mila can track the carrier shiver through metal conduit as you pass—no gear out, no obvious listening.
+Use staff routes, not street routes: Nolan can keep you off sightlines and away from anyone waiting outside the main door.
+
+Your Choices
+
+Nolan: Take the staff-only door and guide the trio into the service corridors—fast, quiet, and away from the scouts’ likely line of sight.
+Mila: Press to the back wall and trace the carrier tone through the conduit—triangulate the source *inside the building* before you leave.
+Alex: Seal the decoy—trade for a cheap, harmless mixtape on the spot so the story becomes “true,” then slip out with the crowd.
+
+What will you do?

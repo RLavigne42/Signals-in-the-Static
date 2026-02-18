@@ -1,0 +1,64 @@
+Decision Point
+
+Mila: Commit to the hinge-side—force the secondary latch/dog-bolt into place, even if it takes brute strength and risks a loud metallic report.
+Nolan: End the lantern threat—kick the cloth wick away, then drive the torch-bearer into the lantern zealot and take the lantern.
+Alex: Switch tactics—stop ordering and start *warning*: sell a specific hazard to keep them from lighting anything and from reapplying the pry bar.
+Nolan: Retreat into the crawlspace now—bleeding shoulder and all—dragging the torch-bearer just far enough to buy Mila time to seal.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:48:06 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila commits to the hinge-side.
+She wedges her shoulder into the cold steel, fingers hunting by feel in the narrow gap where the old engineers hid their redundancies. Her nails scrape paint. She finds it—an oblong housing with a recessed lever, stiff with decades of dust and dried grease.
+Outside, the corridor is all lantern-flare and cudgel-shadows. Nolan grunts through pain as he keeps bodies from the seam. Alex’s voice is hoarse now, the authority fraying at the edges.
+Mila sets her jaw and throws her weight into the lever.
+It doesn’t move.
+Not at first.
+Then it gives with a sound like a snapped vinyl record—KRAK—followed by a deep, satisfying CHUNK as a dog-bolt slides home somewhere inside the doorframe.
+The whole blast door shudders, settles, and the seam tightens until it’s almost invisible.
+The pry bar outside screeches once—metal finding no purchase—then slips free and clatters to the floor.
+For half a second, even the static in the air seems to pause and listen.
+
+Reactivity
+
+meter_breakpoints: none triggered
+heat 5 *(Kill-on-sight already active; no new breakpoint)*
+anomaly 1 (Static) *(no change; no new breakpoint)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(success; seal upgraded)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The Analog Order realizes it at the same time—like a crowd watching a high-score run end in a sudden *GAME OVER*.
+The tall zealot slams his cudgel into the door in rage. The impact rings through the steel and into your bones, but the door doesn’t even *flinch* now. The lantern zealot scoops up the cloth wick with shaking fingers, but the flame’s confidence is gone; it’s just a small, mortal light in a corridor that suddenly feels too tight.
+Nolan, shoulder burning, uses the moment to shove the torch-bearer hard into the others—just enough to tangle feet and elbows without committing to a full brawl. He backs toward the seam, keeping his body between them and Mila.
+Inside the chamber, the air is stale—paper-dry, tinged with old ozone and the faint sweetness of decayed vinyl sleeves. Somewhere deeper, something mechanical ticks in a slow rhythm, like a metronome for a song nobody remembers.
+Now that the door is truly holding, you have seconds—maybe a minute—before they regroup and decide whether to wait you out, smoke you out, or go hunting for another way in.
+And this is Step 10: the Threshold. The map’s promise finally stops being a rumor and becomes a place—a sealed, pre-Disconnect chamber that was meant to outlast panic, fire, and time.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Follow the dog-bolt mechanism inward—look for an internal manual release, pressure lock, or an intercom/tone panel that might control deeper access.
+Alex (History/Diplomacy): Scan the interior signage, stencils, and any posted procedures—old military language can reveal what this chamber *is* and where the safe routes are.
+Nolan (Stealth/Caution): Prepare for the next push—improvise a silent barricade, plan an exit line, and strip anything useful off the dropped pry bar (if reachable) before they recover it.
+
+Decision Point
+
+Mila: Move deeper into the chamber and trace the locking assembly to a secondary inner door—try to find a control box or tone panel before the Order changes tactics.
+Alex: Hunt for posted protocols, labels, and a logbook—figure out what this place was designed to protect and what hazards are real.
+Nolan: Fortify the threshold—quietly build a second barricade and set a trap using scrap/hinge gaps so the next breach attempt costs them.
+Mila: Attempt a radio/induction “listen” against the bunker’s wiring—see if the static is coming from inside, and whether it masks voices or mechanisms.
+
+What will you do?

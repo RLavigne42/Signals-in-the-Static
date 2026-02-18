@@ -1,0 +1,67 @@
+Decision Point
+
+Alex: Go straight to the manifests—hunt for “EGRESS,” “FIREBREAK,” or “MAINT” and map an exit route by touch and memory.
+Mila: Search the chamber wall for a manual valve box or air system controls—try to stabilize oxygen and prevent smoke infiltration.
+Nolan: Build a brace on the STACK door using crate bands and a steel rod—turn the entry into a trap corridor if they force it.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:25:08 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex goes for paper—because paper doesn’t lie the way people do.
+In the sealed dark, he finds a wall rack by fingertip: plastic sleeves, clipped binders, a metal index box with a latch that snaps open like an old cassette case. The air tastes of dust and dry starch. Somewhere beyond the STACK door, a body hits steel again—BANG—testing the dogs.
+Nolan plants his shoulder near the wheel, ready to catch a failure with muscle. Mila keeps one palm on the wall, feeling for vibration, for airflow, for the bunker’s old lungs.
+Alex flips pages by touch. The sheets are thick, government-stock, their edges crisp from decades of untouched stillness. He finds the section headers embossed into the paper—raised letters that guide him like braille:
+INVENTORY
+HANDLING
+CONTAMINATION
+…and then, like a secret whispered in a filing cabinet:
+EMERGENCY PROCEDURES
+He follows the sub-tabs, lips moving silently as he reads in the dark. There’s a diagram—he can’t see it, but the legend is printed in relief: arrows, hatch symbols, something marked FIREBREAK / PRESSURE.
+A memory sparks: bunker designers loved redundancy. Loved doors behind doors. Loved a route that didn’t exist unless you knew it existed.
+Outside, the Analog Order’s voices press close to the seal, muffled but clear enough to chill the spine.
+“Dogged,” one says. “Good. They think it saves them.”
+A wet strike of rag-on-metal. The smell of oil finds the seam, thin and sharp.
+Mila’s coil gives a faint, involuntary hiss—static crawling up her forearm. Not rising to panic, but present: the bunker’s old systems are still *awake enough* to notice you.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clues unchanged; no tier-3 reveal reached)*
+fail_forward: not invoked *(success: Alex located the Emergency Procedures index and egress references)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Alex finds what he needs: a procedure title stamped in raised block letters and a line of coordinates *inside the bunker*, not on any map you carried in.
+“EGRESS ROUTE: PRESSURE CORRIDOR P-2 → MAINT SHAFT M-7 → EXTERNAL GRATE (SOUTH SERVICE).”
+“NOTE: MANUAL EQUALIZATION REQUIRED. DO NOT OPEN BOTH DOORS SIMULTANEOUSLY.”
+So there’s a way out—*but it’s a pressure route*. A throat that has to be breathed through carefully, or it will breathe you back.
+Nolan leans in, voice low. “Where’s P-2 from here?”
+Alex’s fingers skim the legend again. The diagram’s tactile key gives him one more gift: the pressure corridor is accessed through a false panel behind the manifest rack—secured by a quarter-turn latch.
+A hidden door behind the paperwork. Of course.
+Another impact hits the STACK door—BANG—followed by a scrape that sounds like metal being set against metal. They’re not just ramming now. They’re setting leverage.
+
+Approach Hooks
+
+Alex (Procedure/History): Use the manifest diagram and tactile legend to locate the quarter-turn latch and open the false panel to P‑2 without making noise.
+Mila (Engineering): Once the panel is found, handle manual equalization—listen/feel for pressure change, seal timing, and prevent a dangerous rush of air (and smoke).
+Nolan (Caution): While they work, build a minimal brace or noise-dampener at the STACK wheel to buy seconds if the pry bar bites deeper.
+
+Decision Point
+
+Alex: Locate and open the false panel to Pressure Corridor P‑2—quiet, precise, now.
+Mila: Take point on manual equalization—search for the valve/handwheel and prep the pressure sequence before anyone opens the panel.
+Nolan: Reinforce the STACK door wheel and hinge side with whatever you can scavenge—buy time against the pry bar.
+
+Which path do you choose?

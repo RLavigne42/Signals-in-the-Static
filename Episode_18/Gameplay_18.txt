@@ -1,0 +1,54 @@
+Decision Point
+
+Alex: Examine the map’s margins and stamp under raking light—hunt for shorthand, unit codes, or a provenance clue that explains the ghost routes.
+Mila: Run an analog diagnostics pass—check for pressure-impressed lines and possible conductive ink patterns using improvised tools and the compass housing.
+Nolan: Circle the rest stop perimeter on stealth—look for fresh tracks, a hidden observer, or a planted marker that would confirm someone’s steering you.
+
+Which path do you choose?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:01:44 UTC---model: gpt-5.2---temp: 0.70
+
+Map’s Betrayal | Recap
+
+Alex takes the paper like it’s a living thing—something that can be spooked, something that can be coaxed.
+He angles the map under the rest stop canopy where the light comes in thin and sharp, then uses a broken mirror shard Nolan found to throw a raking beam across the fibers. Dust motes drift through it like slow snow. Mila holds the corners steady, fingertips careful—no smudging, no tearing. Nolan keeps his back to the wall, eyes on the basin, because betrayal rarely travels alone.
+Under that low-angle glare, the “ghost routes” stop being a feeling and become a fact: pressure lines, old and deliberate, impressed into the paper beneath the visible ink. Someone traced a second path with a hard hand, then printed a cleaner lie on top.
+Alex finds the half-smeared stamp again and reads what he can—military-adjacent, late Cold War bureaucracy vibes. Not a full name, but a pattern: a unit code fragment and a three-letter designation that keeps repeating along the margin like a nervous tic.
+Not enough to tell you *who*… but enough to tell you this map had custody. It was handled, processed, altered.
+
+Reactivity
+
+Thread progress: *map_auth* 0 → 1 (provenance indicators: stamp fragment + custody marks).
+Heat breakpoint: Heat remains 3 (Patrols); no new escalation.
+Anomaly breakpoint: Anomaly remains 1 (Static); the hiss is faint here, but it rides the wind under the canopy.
+
+State Machine
+
+current_step: 6 — Map’s Betrayal
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ⬜
+clues: map*auth 1* *| loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1
+heat: 3 *(Patrols)*
+supplies: 1
+
+The rest stop feels like a mouthful of old teeth: vending machines with their guts torn out, a billboard frame that squeals when the wind hits it, and a service kiosk whose windows are filmed with grime like cataracts.
+Alex runs a charcoal nub—careful, feather-light—over a blank corner. The paper takes it like a bruise, and the hidden lines rise: a secondary grid, slightly rotated from the printed one. Two routes diverge near a landmark labeled only with a symbol: a triangle over a line—almost like a stylized antenna or a relay marker.
+Mila leans in, eyes narrowing. “That’s not random. That’s… alignment.”
+Nolan, still scanning, mutters, “So we’ve got a liar-map and a truth-map. Question is: which one gets us killed slower.”
+Far off, a whistle answers another—faint now, but present. Patrols are still working the area.
+
+Approach Hooks
+
+Paper-forensics: Alex can continue the rub to isolate the rotated grid’s anchor points—turning “ghost” into navigable.
+Engineering alignment: Mila can use the compass housing and straightedge scraps to measure the rotation and derive a corrected bearing.
+Security check: Nolan can search the kiosk and vending husks for a stashed note, marker, or tail-sign—someone might have expected you to stop here.
+
+Decision Point
+
+Alex: Complete a full margin-to-center charcoal rub to reveal the hidden grid and symbol legend—commit to the truth-layer even if it costs time.
+Mila: Calculate the rotation offset and produce a corrected bearing from the hidden grid—fast conversion into a usable route.
+Nolan: Sweep the rest stop structures for a planted marker or watcher sign—confirm whether the “lie layer” is actively being enforced.
+
+Which path do you choose?

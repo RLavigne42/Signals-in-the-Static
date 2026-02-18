@@ -1,0 +1,54 @@
+Decision Point
+
+Nolan: Slip to the ENV. LOCK / DECON door first—check for a maintenance bypass or internal route that could extract Mila and Alex without meeting the Order head-on.
+Nolan: Push down SERVICE CORRIDOR B toward the groaning metal—attempt a stealth flank and hit the Order from behind at the breach point.
+Mila: Hold the chamber and prepare a timed pressure “cough”—wait for Nolan’s signal (knock-pattern through ductwork) to disrupt the Order’s pry-work.
+Alex: Use the binder and procedure voice—attempt to bluff the Order into hesitation (“Containment protocol—stand down”) while Mila keeps the seal from popping.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:40:30 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan ghosts to the ENV. LOCK / DECON door instead of charging the groaning metal ahead.
+He presses his ear to cold steel. Nothing—no fan, no hiss, no life. Just the bunker’s dry, breathless quiet… and that faint, crawling static that isn’t sound so much as pressure behind the eyes.
+He tests the latch: a mechanical throw with a stubborn spring. It gives a millimeter, then catches—like it’s held by a secondary lock meant for gloved hands and checklists.
+Jessa points with two fingers at the frame. “Maintenance bypass usually hides in the hinge-side. Look for the service pin.”
+Nolan’s beam skates along the hinge line and finds it: a recessed cap screw, half-painted over, with a tiny arrow stamped beside it. Someone wanted trained hands to see it—and everyone else to miss it.
+From farther down Corridor B, the ugly groan of leverage spikes, then a sharp metallic POP echoes—distant, but close enough to taste. The Analog Order is making progress up there.
+
+Reactivity
+
+meter_breakpoints: Anomaly 1 → “Static.” *(triggered now as the bunker’s field intensifies near the lockwork)*
+thread*milestones:* *none (clues remain: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(no check has failed yet)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(spine shutter is closed; you are within internal access)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The bypass cap is tight—old paint acting like glue. Nolan can force it with his knife and risk a *ping* of metal-on-metal, or he can try to back it out slow with Jessa’s pry tool. Either way, once the pin comes free, the decon door will likely swing—into whatever dark waits behind the viewing slit.
+And somewhere above and forward, Mila and Alex are still on the wrong side of a door being convinced to fail.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Use Jessa’s pry tool as a quiet lever—break the paint seal without ringing the metal, then pull the service pin and slip inside.
+Mila (Engineering): If Nolan gets into decon, he can find a manual pressure wheel or purge lever; Mila can exploit that knowledge to brace the chamber door with a controlled pressure shift.
+Alex (History/Procedure): Alex can listen for the Order’s cadence—tool rhythm and call-and-response—and predict when they’ll pause to reset leverage, buying Nolan a “safe noise window.”
+
+Decision Point
+
+Nolan: Quietly work the bypass pin with Jessa’s pry tool—open DECON and search for an internal route to Mila and Alex.
+Nolan: Abandon the bypass—move now toward the breach sounds in Corridor B and attempt a stealth flank.
+Mila: Hold the chamber and prepare a timed pressure “cough”—wait for a signal through ductwork.
+Alex: Attempt a procedure-bluff through any grille/vent—stall the Order with containment language.
+
+Which path do you choose?

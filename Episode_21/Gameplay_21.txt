@@ -1,0 +1,59 @@
+Decision Point
+
+Mila: Act on the UV-schematics reveal—scavenge the rest stop for anything that can make hidden ink show, *before* you move on.
+Nolan: Investigate the source of the clacking with stealth—confirm whether it’s a machine, a trap, or a watcher.
+Alex: Use the audit-route theory to choose the next leg—plot a path that avoids the “restricted access” mark until you have the means to read the schematic layer.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:04:29 UTC---model: gpt-5.2---temp: 0.70
+
+Map's Betrayal | Recap
+
+Nolan slips away from the canopy’s shade like a rumor—low, quiet, and inevitable.
+The rest stop basin is a dead stage: cracked asphalt, skeletal billboard, vending machines gutted like arcade cabinets after a riot. Wind drags grit across the ground with a sound like a tape head chewing ribbon. The clack… clack… clack keeps time somewhere ahead—steady, mechanical, patient.
+He moves along the line of collapsed concrete, using sun-bleached shadows and broken rebar as cover. Close to the billboard frame, he finds the source.
+Not a person.
+A device.
+A wind-driven clacker—a crude warning metronome made from a bent license plate and a spring arm, mounted to a rusted post. Every gust snaps it forward: *clack*. It’s not meant to alert you. It’s meant to mask softer sounds—footsteps, whispered signals, the shift of someone settling into a firing position.
+Nolan’s eyes narrow. He follows the post down and finds a second tell: a thin line of fishing filament stretched knee-high across a shallow dip—nearly invisible unless the light hits it just right. A tripline, not to explode, but to ring a cluster of bottle-glass chimes tucked under a slab.
+Someone tuned this place like an instrument.
+He backs out the way he came, careful not to touch filament, careful not to kick grit. When he returns to the canopy, his voice is barely above the wind.
+“We’re not alone. No eyes on us yet—but this stop’s been *prepared*.”
+Mila’s gaze flicks to the horizon, then to the map folded in Alex’s hands. Alex swallows, the paper crackling softly like old vinyl sleeve.
+
+Reactivity
+
+Heat: stays 3 (Patrols) — no direct contact, but you’ve confirmed a watched zone.
+Anomaly: stays 1 (Static) — the air still has that faint hiss, like a cassette left rolling.
+Thread progress: access_conf 0 → 1 *(evidence of controlled approach/tripline suggests “restricted access” is enforced physically, not just marked on paper).*
+Fail-Forward: not triggered (clean success).
+
+State Machine
+
+current_step: 6 — Map’s Betrayal
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 1
+meters: cond stable | relic 3 | anomaly 1
+heat: 3 *(Patrols)*
+supplies: 1
+
+The wind shifts. For half a second the clacker’s rhythm syncs with the faint static in the air—like two bad instruments finding the same ugly note. Then it breaks apart again.
+Out past the basin, the rotated-grid anchor point (antenna-triangle) sits on your route like a thumbprint. If the lie-layer tried to steer you, this place is where it would’ve wanted you to hesitate… or bleed time… or get spotted.
+Nolan points with two fingers—not at the trap, but at the terrain beyond it. “We can go around. Or we can go through and pretend we never saw it. But if someone’s watching, they’re watching *that*.”
+
+Approach Hooks
+
+Mila: Use engineering instincts to disable the tripline and clacker without leaving obvious tamper marks—turn their instrument silent.
+Alex: Use the map’s audit-route logic to predict where the next enforced checkpoint would be, so you can avoid a chain of traps.
+Nolan: Lay a false trail—kick grit, drag cloth, toss a pebble—then watch for a reaction in the billboard shadows.
+
+Decision Point
+
+Mila: Neutralize the clacker and tripline quietly (no snap, no ring), then push toward the antenna-triangle anchor point before Patrols tighten.
+Alex: Plot a detour using the audit-route theory—avoid all marked anchors until you can read the UV schematic layer.
+Nolan: Set a false trail across the basin and observe from cover—try to flush out whoever prepared the rest stop.
+
+What will you do?

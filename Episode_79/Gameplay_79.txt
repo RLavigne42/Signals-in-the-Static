@@ -1,0 +1,72 @@
+Decision Point
+
+Alex: Pull PERSONNEL ROSTER and extract a ROSTER-VALID shift ID + matching date format for the inner door’s paper-tape override.
+Mila: Attempt the inner door override now that the vestibule is stable—she’ll operate the mechanism while calling for Nolan’s confirming initials.
+Nolan: Quietly improve defenses (wedges, grit, smock-hang) and then take the “second person” role—ready to confirm initials the moment Alex/Mila have the ID.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:17:52 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+With Mila’s valve set to -2 and the hatch hiss finally dead, the vestibule becomes what it was meant to be: a pressure-buffered throat of concrete that keeps smoke and flame on the wrong side of steel. You bought minutes—maybe more—without inviting the bunker to punish you for rushing.
+Now you take the next careful move: Alex goes for the paperwork.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active): heat 5 → Kill-on-sight; anomaly 1 → Static
+thread*milestones:* *access*conf 3/3 → Reveal: Tone-Key sequence *(already confirmed earlier; still usable for inner systems)*
+
+Scene
+
+Alex spins the mechanical carousel. Tags clack past in a dry rhythm—clack… clack… clack—until he finds PERSONNEL ROSTER and pulls.
+A thin drawer slides out with a reluctant rasp, like peeling tape off cardboard. Inside: onion-skin sheets, carbon copies, stamped and initialed by hands that assumed the world would keep its lights on.
+Mila holds the red override checklist beside the roster, matching fields like a priest aligning a ritual.
+Nolan keeps watch, one ear angled to the hatch. The Analog Order is still out there—quiet now—which is never comforting. Quiet means listening. Quiet means planning.
+Alex flips through the roster until he finds a header that matters:
+“ARCHIVE / GERMINATION — SHIFT AUTH LIST (MECHANICAL OVERRIDE)”
+Below it: rows of names, IDs, and a date format key.
+
+AUTH DATE FORMAT: YYMMDD *(confirmed—no guessing)*
+SHIFT ID (ROSTER-VALID): AG-2 / NIGHT MAINT *(stamped “VALID FOR PAPER TAPE”)*
+SECOND PERSON RULE: “Confirming initials must be from a different line item.”
+
+A second line item sits right under it—another valid confirming party:
+
+SHIFT ID: SEC-1 / VESTIBULE WATCH *(also stamped “VALID FOR PAPER TAPE”)*
+
+Alex exhales through his teeth. “They built this like a lock that only opens for… procedure. Not power.”
+Mila taps the checklist. “We can satisfy this. We just need a date that makes sense.”
+Nolan’s eyes narrow. “And we need to do it fast.”
+Alex scans the top margin—there’s a penciled note, faint but legible:
+“BLACKOUT YEARS CONTINGENCY ACTIVE — USE DATE OF SEAL.”
+He flips back a page. There it is, stamped hard enough to bruise the paper:
+SEAL DATE: 861104
+A date from the year the world started dying.
+That’s your key: YYMMDD \= 861104, with AG-2 as the operating shift and SEC-1 as the confirming line—two-person, no cheating.
+
+Approach Hooks
+
+Alex (History/Procedure): Use the roster’s “DATE OF SEAL” and dual shift IDs to complete the override cleanly—minimizing the chance of a mechanical lock-in.
+Mila (Engineering): Inspect the inner door’s paper-tape slot and interlock pins before inserting anything—prevent a jam or misfeed.
+Nolan (Caution): Act as the confirming “second person,” but also keep a hand on the vestibule—if the hatch starts heating again, call it before the inner door cycles.
+
+Decision Point
+
+Mila: Execute the paper-tape override on the inner door using DATE 861104, SHIFT AG-2, and Nolan as the confirming initials.
+Alex: Pull the “BLACKOUT YEARS” contingency binder first—verify whether opening the inner door triggers any dead-man protocol.
+Nolan: Return to the hatch and listen for tool-changes; if the Order is cutting, you’ll prioritize barricade and delay over opening deeper.
+
+What will you do?

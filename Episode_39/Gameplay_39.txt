@@ -1,0 +1,68 @@
+Decision Point
+
+Mila: Stay at the vent and crank the damper to a full seal—commit to making smoke ineffective, even if it means holding position as they breach.
+Nolan: Pull everyone down the lower run *now*—distance first, silence second, before their two scouts return and triangulate the junction.
+Alex: Make for the STACK door and try to get it open and dogged shut behind you—turn the seed-vault itself into your firebreak.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:24:08 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex breaks from the junction toward the STACK door, guided by bunker-instinct and the half-remembered grammar of old government facilities: *storage is never just storage—storage is a maze with rules.*
+Nolan shadows him like a second silhouette, one hand hovering near Alex’s shoulder to steady him if he stumbles. Mila stays a pace behind, grime-black fingers flexing after the damper fight, her coil giving off a faint, nervous static like a cassette hiss you can’t quite mute.
+Behind you, the pry bar’s rhythm accelerates—SCRK—SCRK—SCRK—and the heavy one’s voice gets closer to anger than prayer.
+Alex finds the door by touch: raised letters—S T A C K—and a wheel-lock the size of a dinner plate. The metal is cold enough to bite.
+He sets his ear against it. Nothing. No airflow. No hum. Just the deep, padded silence of a room designed to keep the world out.
+“Okay,” he whispers, more to himself than anyone. “If they built this right… it dogs.”
+He grips the wheel and turns.
+At first it won’t move—decades of stillness holding it like a grudge—then it gives with a low, reluctant groan that seems to travel down every corridor in the bunker.
+Nolan winces. Mila goes still.
+A beat later: a sharp bark of recognition from the other side of the crawl seam.
+“There\!” one of the lighter hunters calls. “That way\!”
+They’re triangulating.
+Alex keeps turning. One full rotation. Two. The latch mechanism inside the door answers with a heavy clunk—a sound like an old arcade coin-door finally accepting a quarter.
+The door cracks open a handspan, exhaling air that smells like paper, dust, and sealed winters.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(no new clue tier reached)*
+fail_forward: not invoked *(you reached a sealable compartment in time—no failure)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+You slip through the gap—Nolan first, then Alex, then Mila—shoulders scraping, breath held. Alex hauls the door wider just long enough to swallow you, then starts spinning the wheel back the other way, fast, hands trembling.
+The room beyond is not an armory. Not a server farm.
+It’s a survivor seed-vault—a cathedral of tomorrow packed into analog order.
+Crates stacked with obsessive precision. Canisters stamped with crop codes. Paper manifests sealed in plastic sleeves. Everything labeled, indexed, waiting for a world that can plant hope without burning it.
+Outside, the Analog Order’s boots close in, their oil-rag plan ready to turn your lungs into a lesson.
+Alex finishes the last turn. The dogs catch with a final, decisive THUNK.
+On the other side of the door: a sudden, furious impact—BANG—a shoulder testing the seal.
+The wheel shudders in Alex’s hands but holds.
+For the first time since you crawled into this bunker, you have a barrier you can trust… for a while.
+And you have a new problem: this chamber is sealed for a reason. If it’s airtight, then smoke is less of a threat—but oxygen is now a clock you can’t see.
+
+Approach Hooks
+
+Alex (History/Procedure): Find the paper manifest index and locate a marked firebreak / emergency egress route—seed vaults often have redundant exits and pressure rooms.
+Mila (Engineering): Check for a manual pressure equalization valve or air-handling control; if you can regulate airflow, you can outlast smoke and maybe redirect it.
+Nolan (Caution/Combat): Reinforce the door mechanically (jam, brace, wedge) and prep a silent fallback—if they breach, you want a second choke point, not a chase.
+
+Decision Point
+
+Alex: Go straight to the manifests—hunt for “EGRESS,” “FIREBREAK,” or “MAINT” and map an exit route by touch and memory.
+Mila: Search the chamber wall for a manual valve box or air system controls—try to stabilize oxygen and prevent smoke infiltration.
+Nolan: Build a brace on the STACK door using crate bands and a steel rod—turn the entry into a trap corridor if they force it.
+
+What will you do?

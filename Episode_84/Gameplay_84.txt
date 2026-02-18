@@ -1,0 +1,63 @@
+Decision Point
+
+Alex: Follow MANUAL DECON — LOW POWER MODE exactly—crank, latch, and cycle the airlock without triggering quarantine.
+Mila: Use the Tone-Key input to force RED → GREEN and get the doors open fast, even if you skip the spray.
+Nolan: Fall back to the service gap and listen for the breach moment, then return—risking time now to avoid being trapped mid-cycle.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 06:20:32 UTC---model: gpt-5.2---temp: 0.70
+
+Tone-Key at DECON | Recap
+
+You choose Mila. She ignores the ritual purity of spray nozzles and warning placards and goes for what still works in this dead century: an analog port and a pattern of sound. The Decon doors sit there like a mute judge—RED in the window—while, down the corridor, the Analog Order keeps worrying the outer hatch with steel and hate.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅ | Decon approach ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(Tone-Key sequence available)*
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones (available):
+access_conf 3/3 → Reveal: Tone-Key sequence *(already obtained; now being applied)*
+
+Scene
+
+Mila kneels by the brass plate—TONE-KEY INPUT (ANALOG)—and pulls a little hand-cranked tone generator from her kit: a scavenged relic that looks like a cross between a bike bell and a cassette deck capstan. She seats its plug into the recessed slot with a soft, satisfying thunk.
+“Keep your breathing quiet,” she says, like the bunker might be listening for fear.
+Alex holds the binder open, finger on the diagram—*frequency, duration, pause, repeat*—the kind of procedure that used to keep missiles asleep and doors honest. Nolan stands at the corridor bend, knife low, eyes hard, body angled to run if the service gap becomes a funnel of robed bodies.
+Mila turns the crank.
+A thin, pure note spills out—eeee— then cuts, then returns in a different pitch. It’s not music. It’s not speech. It’s a password made of air.
+The static in her skull flares—just a prickling crown—then steadies, as if the bunker’s old circuits recognize the shape of the sound and decide not to bite.
+The latch-window hesitates.
+RED… flicker… AMBER…
+From behind you: another POP, closer now, followed by a low, triumphant murmur—voices on the other side of the vestibule, muffled by steel and distance.
+Mila keeps cranking, sweat beading at her temple.
+AMBER… GREEN.
+The wheel-latch gives a reluctant clunk as internal pins retract. The DECON doors don’t swing open by themselves—nothing here is that generous—but the mechanism is now *willing*.
+Fail-forward pressure: the Tone-Key worked, but not cleanly. A small indicator needle on the brass plate twitches into a marked zone: PARTIAL AUTH / LOGGED. You got in fast—yet the bunker has *recorded* that someone used an emergency bypass under breach conditions.
+A thin hiss leaks from the door seam—stale air exhaling like a long-kept secret.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Keep the Tone-Key generator connected while you open—ready to re-play the pattern if the lock tries to reassert.
+Alex (History/Procedure): Use the binder to choose the *next* interior barrier that won’t auto-seal you behind DECON if quarantine flags.
+Nolan (Caution/Stealth): Take point through the opening and check corners fast—if the bunker logged you, it might also trigger internal countermeasures or alarms.
+
+Decision Point
+
+Nolan: Slip through the newly-unlocked DECON doors first and clear the immediate interior before anyone else enters.
+Alex: Enter with the binder and hunt for the quarantine/log panel to see what “PARTIAL AUTH / LOGGED” will trigger next.
+Mila: Hold position at the Tone-Key input and run the sequence again while the others move—trying to upgrade the bypass from “partial” to “full.”
+
+What will you do?

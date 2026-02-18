@@ -1,0 +1,67 @@
+Decision Point
+
+Nolan: Take the lower run—go down and away from the panel seam, prioritizing distance and silence before they try smoke.
+Mila: Go for the vent throat—find a damper wheel or access panel to control airflow and stop smoke from reaching you.
+Alex: Head for the STACK door—use what you know about bunker layouts and the Tone‑Key protocol to reach a sealable compartment.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:23:07 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila peels off toward the vent throat, guided by the way her coil *itches*—a nervous, bright static that thickens where air moves. Nolan holds the junction, one hand up, counting heartbeats. Alex stays close enough to be grabbed, far enough not to knock a crate band and sing your position to the concrete.
+The grated mouth of the vent is cold under Mila’s fingers, dust-caked, with a faint tang of old lubricant—like a cassette deck that hasn’t spun since the Reagan years. She presses her cheek near it, listening.
+From behind you, through the wall, the Analog Order’s plan sharpens into sound: fabric tearing, a bottle cap clinking, the wet whisper of oil on rag.
+“Smoke it,” the heavy voice repeats—calm, devotional. “If it’s a crawl, it breathes.”
+Mila finds the fasteners by feel: two bolts, one already half-stripped by time. She works them with a flat bit from her kit, slow and patient, each turn a tiny prayer against panic. The grate loosens with a reluctant clink.
+Air sighs out—*out*, not in.
+Good. That means this vent can become a throat you can close… or a throat you can make them choke on.
+Inside the vent, her hand meets a wheel—old-school damper control, knurled metal, stiff with neglect. She braces, puts her weight into it—
+SCREEEEE.
+The sound is ugly. Loud in the quiet. The kind of noise that makes every nerve in Nolan’s body flinch.
+On the other side of the sealed panel: immediate stillness.
+Then a voice, closer now, sharpened by attention: “Hear that?”
+Boots pivot. The heavy one stops pretending to be patient.
+Mila keeps turning. The wheel fights, then gives. The airflow changes—she feels it on her knuckles, the direction flipping like a page in a book.
+You’ve bought something: if they smoke the crawl, it won’t *pull* toward you the same way.
+But you’ve also paid for it: you’ve thrown a sound flare in a world where flashlights don’t work.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static—present but not escalating)*
+thread_milestones: none triggered *(clues unchanged this beat)*
+fail_forward: not invoked *(success with cost: airflow control achieved; attention drawn)*
+
+State Machine (Updated)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The service bay feels tighter now, like the bunker heard that SCREEE and decided to hold its breath. Neon doesn’t exist down here—only the remembered neon behind your eyes, the ghost-glow of arcades and boomboxes and the last time the world felt loud on purpose.
+Mila withdraws from the vent with grime on her fingertips and the damper wheel set hard. If they try to smoke you, it’ll pool wrong, drift sideways, hesitate. Maybe even backwash into their own corridor if they’re careless.
+But the Analog Order isn’t careless.
+A pry bar bites again at the panel seam—faster now. SCRK—SCRK—SCRK. The heavy one has decided the crawl is real.
+Nolan leans close to the junction and listens: the two lighter hunters are still out there, still chasing the false trail… but their footfalls are turning back. The lie is expiring.
+Alex’s hand finds a crate edge; his fingers trace embossed letters like braille, trying to turn darkness into information. Mila’s coil hums against her ribs, a trapped thunderstorm.
+You have a vent you can control, a junction you can choose, and seconds before the search becomes a breach.
+
+Approach Hooks
+
+Mila (Engineering): Use the damper you just seized—either seal airflow completely to deny smoke, or reverse it to send smoke back toward the breach point.
+Nolan (Stealth/Caution): Exploit the moment of confusion—move while they reorient, and leave a second misdirection (a soft rattle, a dragged chain) to keep them off the junction.
+Alex (History/Procedure): Use bunker logic: vents often map to firebreak doors and pressure rooms; the STACK door likely has a mechanical seal you can dog shut if reached in time.
+
+Decision Point
+
+Mila: Stay at the vent and crank the damper to a full seal—commit to making smoke ineffective, even if it means holding position as they breach.
+Nolan: Pull everyone down the lower run *now*—distance first, silence second, before their two scouts return and triangulate the junction.
+Alex: Make for the STACK door and try to get it open and dogged shut behind you—turn the seed-vault itself into your firebreak.
+
+What will you do?

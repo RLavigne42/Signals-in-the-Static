@@ -1,0 +1,60 @@
+Decision Point
+
+Mila: Follow the ticking and use the coil to map the corridor’s “hot spots,” even if it risks waking the relay further.
+Nolan: Kill the lantern entirely and lead by feel, prioritizing concealment and a position to ambush if the patrol forces entry.
+Alex: Stop for ten seconds to interpret the warning—search for a second instruction (a symbol, a number, a maintenance note) that explains the “click.”
+
+Which path do you choose?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:12:22 UTC---model: gpt-5.2---temp: 0.70
+
+Final Mile | Recap
+
+Alex holds up a hand—two fingers, then a fist—*ten seconds, then done.* He kills the lantern down to a pinhole and leans close to the wall text.
+NO LIGHT PAST THIS POINT
+LISTEN FOR THE CLICK
+In the thin flame, the paint isn’t one message—it’s three, layered like mixtape recordings over old songs. The newest layer is blocky and urgent. Under it, a faded stencil reads “PHOTO-CELLS ACTIVE”—a civil-defense shorthand. And beneath that, barely visible, a maintenance scrawl in grease pencil that only an archivist would think to look for:
+HOLD \= 10 COUNT.
+CLICK \= SAFE.
+NO CLICK \= EYES OPEN.
+Alex swallows. “It’s not poetry,” he whispers. “It’s procedure.”
+Mila’s coil answers with a thin, clean line of static—like a radio finding the exact edge of a station. Nolan, crouched low, keeps his shoulders square to the corridor, listening to the world behind the slab.
+Outside, the patrol’s voice is closer now—words still smeared by distance, but the cadence is hard. The kind of cadence that doesn’t ask questions.
+
+Reactivity
+
+Checkpoint progress: Step 9 underway *(Position ⬜)*
+Heat: 5 (Kill-on-sight) *(unchanged; patrol still imminent)*
+Anomaly: 2 *(unchanged; static is “clean,” not yet voices)*
+Thread reveal: none new *(milestones already revealed earlier: UV schematics, GPS coords, Tone-Key)*
+
+State Machine
+
+current_step: 9 — Final Mile
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ⬜
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5
+supplies: 1
+
+The ticking ahead—tick… tick… tick…—isn’t a timer. It’s a sensor sweep, a mechanical eyelid opening and closing somewhere in the dark. The corridor slopes down into a wider throat where pipes sweat and the air tastes like old rubber gaskets and dust that hasn’t been disturbed since Reagan was on the radio.
+Nolan edges to the half-seated slab and lays two fingers on the inner handle. He can feel it: the door wants to settle, but it’s waiting for the “10 count” confirmation like a stubborn cassette deck that won’t accept a tape until you press *play* just right.
+Mila tilts her coil, listening. The static line bends—*not louder, not softer*—but directional, tugging toward the left branch where the concrete is darker, smoother, less scuffed by passing boots. A safer route… or simply the one less traveled.
+Then—faint, behind you—grit crunches on concrete. The patrol is at the culvert mouth.
+A shadow slices across the seam of the slab. Someone outside is close enough that their breath might fog the gap.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Use the coil as a proximity sensor—find the “blind” zone between sweeps and move only in the *safe* interval after each click.
+Nolan (Stealth/Caution): Seat the slab fully using the 10-count hold procedure—reduce light leak and sound, and set yourself for an ambush point if they force entry.
+Alex (History/Procedure): Apply the discovered protocol literally—count the hold, listen for the confirming click, and interpret any *missing* click as “eyes open” (stop, freeze, cover).
+
+Decision Point
+
+Nolan: Perform the 10-count hold on the inner handle to fully seat the slab—seal the entrance before the patrol notices the gap.
+Mila: Move on the sweep rhythm—advance down the left branch only in the safe interval after each click, using the coil to avoid “open eyes.”
+Alex: Stay at the junction and translate the sensor cadence into a simple call—*click \= go, no click \= freeze*—coordinating the trio’s movement through the dark.
+
+What will you do?

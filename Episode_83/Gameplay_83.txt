@@ -1,0 +1,63 @@
+Decision Point
+
+Alex: Follow the binder’s flowchart and head for DECON first to prevent quarantine protocols from sealing you in the wrong section.
+Mila: Advance toward ARCHIVE / GERMINATION and look for a compatible panel to apply the Tone-Key sequence—get deeper access before the breach.
+Nolan: Stay near the service gap long enough to set a silent trap, then fall back—buy time without getting pinned.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:20:07 UTC---model: gpt-5.2---temp: 0.70
+
+Decon Arrow | Recap
+
+Alex takes point with the BLACKOUT YEARS binder pressed to his ribs and leads you toward DECON—not because it feels safe, but because the bunker’s own procedures are a minefield, and you’d rather step where the stenciled arrows expect feet.
+Behind you, the inner door holds at a 4–6 inch service gap, cam-locked. The Analog Order’s saw keeps eating the outer hatch—steady, merciless.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅ | Decon approach ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(Tone-Key sequence available)*
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones:
+access_conf 3/3 → Reveal: Tone-Key sequence *(available; not yet applied here)*
+
+Scene
+
+The corridor narrows, the air turning sharper—bleach ghost, rubber, and the dry taste of old filters. A yellowed sign—half peeled, still authoritative—hangs above a set of double doors:
+DECONTAMINATION — NO EXCEPTIONS
+The doors don’t have a keypad. They have a hand-crank wheel and a mechanical latch with a little window that shows a color: RED.
+Mila leans close. The static in her head prickles—like a radio tuned between stations. Not loud. Just… present.
+Alex flips the binder open on his forearm like a shield. “Here. Decon entry sequence. If we force it wrong, it flags quarantine and seals internal bulkheads.”
+Nolan’s gaze keeps darting back down the corridor toward the service gap, as if he can see through concrete. “And if quarantine seals us in *this* hall, we’re a gift-wrapped box.”
+A faint vibration shivers through the floor—distant, metallic. The saw biting deeper. Or the first hammer strike after.
+Alex reads, finger tracing a flowchart line: MANUAL DECON — LOW POWER MODE. Under it, a note in block letters:
+IF BREACH CONDITIONS: BYPASS SPRAY. PRIORITIZE AIRLOCK CYCLE.
+Mila finds a small brass plate beside the wheel: three recessed slots shaped like old-school audio jacks—TONE-KEY INPUT (ANALOG). A relic of the old world’s paranoia: no radios, no codes over wire, just sound and shape.
+“This is where the Tone-Key goes,” she whispers. “If we can sing the right pattern into it, it might flip RED to GREEN without a full decon.”
+From behind, a new sound: not the saw—a dull, ringing POP, like a bolt giving up.
+Nolan’s jaw tightens. “They’re close.”
+
+Approach Hooks
+
+Alex (Procedure/History): Use the binder’s LOW POWER MODE chart to run the *correct* manual sequence and avoid triggering quarantine bulkheads.
+Mila (Engineering/Radio): Apply the Tone-Key sequence into the analog input to flip the latch state without powering the spray system.
+Nolan (Stealth/Caution): Post at the corridor bend and set a silent early-warning (string + washer, loose bolt, dust line) to buy seconds if the breach becomes a rush.
+
+Decision Point
+
+Alex: Follow MANUAL DECON — LOW POWER MODE exactly—crank, latch, and cycle the airlock without triggering quarantine.
+Mila: Use the Tone-Key input to force RED → GREEN and get the doors open fast, even if you skip the spray.
+Nolan: Fall back to the service gap and listen for the breach moment, then return—risking time now to avoid being trapped mid-cycle.
+
+What will you do?

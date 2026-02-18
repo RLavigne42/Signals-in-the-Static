@@ -1,0 +1,59 @@
+Decision Point
+
+Nolan: Finish the corridor fight quickly—use the torch-bearer as cover, disarm the cudgel-rusher, and shove both zealots back from the door.
+Mila: Use the lull to hard-seal the chamber—engage any secondary latch and prepare another controlled pressure “cough” if they reapply the pry bar.
+Alex: Attempt a protocol bluff at full volume—invoke “containment violation” and “decon purge” to make them retreat from the seam.
+Nolan: Grab the lantern and retreat into the crawl—deny them light and force them to regroup blind.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 05:44:50 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex takes the opening Nolan bought with bruises and silence—and turns it into a weapon made of *words*.
+From inside the chamber, he steps up behind Mila, puts his mouth close to the steel seam, and projects like the bunker is a lecture hall and the Analog Order are inattentive students.
+“CONTAINMENT VIOLATION. STAND CLEAR.” His voice hits the corridor with clipped, bureaucratic certainty—old-world cadence, the kind that used to move soldiers without needing to explain. “DECON PURGE IMMINENT. NO OPEN FLAME. NO CONTACT.”
+Outside, the zealots freeze for half a breath.
+Not because they respect Alex.
+Because procedure is a ghost that still haunts places like this—laminated checklists, stenciled warnings, the lingering dread that the old world left behind traps you can’t pray away.
+Nolan, forearm still cinched around the torch-bearer, feels the cudgel-rusher hesitate—just enough to glance at the door, just enough to doubt whether the next step is *martyrdom* or *idiocy*.
+The lantern’s flame wobbles. Shadows stutter across the concrete like a flickering arcade attract screen.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat remains 5: Kill-on-sight; anomaly remains 1: Static)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(successful stall; no failure condition triggered)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+
+The corridor answers with doctrine.
+A zealot—taller, scarf stitched with a crude black sun—spits on the floor and raises his cudgel again. “Lies. Old-world tricks.”
+But the torch-bearer’s eyes dart to the bottle in Nolan’s grip, then to the door seam, then to the laminated fear in his own head. He *swallows*.
+Alex presses harder, riding the moment like a high score run. “You breach this seal, you contaminate *your own*. You’ll carry it back to your camp. You’ll poison your sermons.”
+Mila, hand on the wheel, feels the steel’s vibration ease. She can use the hesitation to lock something real—secondary latches, a dog-bolt, anything the old military engineers built for exactly this.
+And Nolan—still behind them, still unseen by the one with the lantern—has a narrow window to turn a standoff into a rout.
+
+Approach Hooks
+
+Alex (Diplomacy/History): Keep stacking specific, believable protocol language—numbers, steps, consequences—to deepen their hesitation and split their unity.
+Mila (Engineering): Use the pause to engage a secondary latch or jam the hinge-side—turn “stall” into “seal.”
+Nolan (Stealth/Combat-Caution): Exploit the doubt: disarm the cudgel zealot while morale is wobbling, then drag the torch-bearer into the shadows as leverage.
+
+Decision Point
+
+Mila: Hard-seal the chamber now—hunt for a secondary latch/dog-bolt and lock it while Alex holds their attention.
+Nolan: Use the hesitation to disarm the cudgel zealot—fast, close, and quiet—then retreat back into the crawl with the lantern.
+Alex: Escalate the bluff—cite a “Purge Cycle Step 2” and threaten immediate venting to force them to back away from the door.
+Mila: Trigger a controlled pressure “cough” timed with Alex’s threat—risk noise to shove them off balance.
+
+What will you do?

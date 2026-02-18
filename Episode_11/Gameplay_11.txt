@@ -1,0 +1,62 @@
+Your Choices
+
+Nolan: Take point through the STAFF ONLY door and cut a route into the alley network—prioritize losing any tail before they can call in Patrols.
+Mila: Pause at the back wall and mark the bearing/coords onto the bunker map with a grease pencil—make the data portable even if you have to ditch the printout.
+Alex: Use the boombox circle one last time—stage a loud “mixtape listening” invite that pulls attention away from the staff door while you slip out.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:50:45 UTC---model: gpt-5.2---temp: 0.70---
+
+Static on the Line | Recap
+
+Alex turns the decoy into a *magnet*.
+He lifts the newly acquired cassette over his head like it’s a trophy from a high-score duel. Neon washes over the handwritten label—FRIDAY NIGHT DRIVE // 1987—and the boombox circle answers with whoops and stomps that rattle the cabinet glass.
+“Listening invite,” Alex calls, loud enough for half the arcade to hear. “Back room—two minutes. If this thing plays clean, you’re all witnesses.”
+Witnesses. Crowd. Noise.
+Exactly what the Analog Order hates.
+Across the floor, Nolan catches a glimpse of that too-clean scout shoulder-checking the crowd, trying to find a clean line to you. He doesn’t get one. Not without shoving Nostalgists aside and starting a sanctuary brawl.
+Mila keeps her face neutral, but her eyes track the back wall—conduit, steel frames, the place where the carrier tone peaked. The bearing is already locked in her head: 071° NE. The coordinates—rough, usable—sit like a secret under her tongue.
+Alex’s invitation swells into a small riot of excitement. People surge toward the back like it’s a pilgrimage. Someone cranks the boombox louder; the bass becomes a soft concussion in your ribs.
+Then Nolan moves—quiet, decisive—hooking two fingers at Alex’s sleeve and Mila’s elbow. “Not with them,” he mutters. “Beside them.”
+You slip along the edge of the crowd, using bodies as cover. The STAFF ONLY door is suddenly just another doorway in the chaos—no longer a suspicious exit, just where the “listening corner” *must* be.
+The attendant cracks it open for a heartbeat. Fryer-oil air. Wet concrete. Alley rain.
+And you’re through.
+The door swings shut behind you with a soft, final *thunk*—muffling the arcade’s synth and laughter into a distant, underwater throb.
+
+Reactivity
+
+Heat breakpoint check: Heat remains 2 → *Observation* still active (no new breakpoint).
+Thread milestone check: none new (loc*conf already at 3; access*conf unchanged).
+Consequence: You bought time and cover; any tail now has to choose between pushing into staff space (high exposure) or losing you.
+
+State Machine
+
+current_step: 4 — *Relic Market*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ⬜
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 2 | anomaly 1
+heat: 2 (Observation)
+supplies: 0
+
+The service corridor is a narrow vein of the Glitch Palace—bare bulbs, peeling paint, and the smell of old grease soaked into concrete. A mop bucket sits like a sentry. Somewhere beyond, a delivery hatch rattles in the wind.
+Nolan edges to the alley door and listens. Outside: distant voices, a cart rolling over broken glass, a dog barking once and stopping like it remembered better.
+Mila presses the bunker map against the wall, shielding it from the draft. The paper wants to curl. The ink wants to smear. The world wants to eat your evidence.
+Alex holds the mixtape close, suddenly aware it’s not just cover now—it’s a relic with a story, and stories buy favors in a market that runs on nostalgia and need.
+You can’t head into the wastes empty-handed. Not with the Analog Order sniffing around and the route pointing northeast.
+
+Approach Hooks
+
+Gear before ground: The Relic Market can turn your two relics into *useful* items—filters, grease pencils, cord, a compass, a hand-crank charger shell (dead electronics, useful parts).
+Trade smart, not loud: Use Alex’s diplomacy to keep your purchases from becoming a spectacle that bumps Heat toward Patrols.
+Scout the stalls first: Nolan can spot fakes, pickpockets, and Analog Order “torch teams” hunting for anything that looks like tech.
+
+Your Choices
+
+Nolan: Lead a low-profile route to the Relic Market and case it first—identify exits, spot fakes, and keep Heat from climbing.
+Mila: Go straight to a modder stall and barter for practical gear (filters, grease pencil, mechanical compass, wire) using the cassette as leverage.
+Alex: Work the market socially—trade the “Friday Night Drive” tape *as a story* to secure supplies and a quiet contact who can point you northeast safely.
+
+What will you do?

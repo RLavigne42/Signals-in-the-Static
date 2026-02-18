@@ -1,0 +1,63 @@
+Decision Point
+
+Mila: Hold crank speed steady and push through the inner door gap first, keeping the Tone-Key playback stable while you look for the manual pressure equalization control.
+Alex: Take point into the corridor and interpret the DECON / PRESSURE signage—call the exact sequence so you don’t trigger an automatic reseal.
+Nolan: Stay rear guard at the outer blast door, seal the seam with what you can and prepare to repel a sudden ram while the others work the inner controls.
+Mila & Alex: Move together into the corridor—Mila maintains playback/power while Alex handles valves and reads procedures; Nolan follows once the pressure cycle starts.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:57:34 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Alex takes point through the handspan gap, turning sideways to slip into the bunker’s throat. The air on the other side is cold-dry, preserved—like paper sealed in plastic and forgotten. Behind him, the outer blast door keeps whispering smoke into the chamber with a patient, hateful hiss.
+His flashlight skims stenciled arrows and a strip of reflective tape, then lands on the panel:
+DECON / PRESSURE EQUALIZATION — MANUAL
+Mila stays at the inner door with the cassette deck, crank turning in a tight, controlled rhythm. The tones continue—thin, precise, machine-prayer—feeding the bunker’s AUTH port. Nolan remains in the gap’s shadow, ready to shove the door if it tries to bite shut.
+Alex’s eyes flick over the warnings, and his voice drops into that calm, archival cadence—half lecture, half survival.
+“Manual equalization means… it’ll punish improvisation.”
+He finds the handwheel valve, paint flaked, knurling worn smooth by hands that expected to be obeyed. There’s a tiny placard beneath it, almost polite:
+EQUALIZE BEFORE FULL ENTRY. STAND CLEAR OF DOOR PATH.
+A second later, the inner door shudders—testing its own weight—like the bunker is listening to see if you know the next verse.
+Smoke thickens behind you. Not enough to blind—yet. Enough to taste: burnt cloth, bitter resin, zeal.
+
+Reactivity
+
+thread_milestones: none newly triggered
+access_conf 3 *(Tone-Key sequence already secured via playback medium)*
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(active)*
+anomaly 1 (Static) *(active)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Alex braces his boots on the corridor’s gritty concrete and turns the handwheel a quarter rotation.
+A low whooomp answers—air moving through hidden ducts. The reflective tape trembles. The inner door’s gap widens by a finger… then stops, as if waiting for the rest of the ritual.
+But the valve fights him—stiff, reluctant, like it hasn’t moved in decades. If Alex forces it too fast, it could snap… or trigger an automatic reseal. If he goes too slow, the smoke behind you wins by default.
+Mila’s crank tempo stays steady, but sweat beads at her hairline—powering the past with her forearm while the present tries to suffocate you.
+Nolan’s voice is a rasp from the doorway: “We’re on a clock.”
+
+Approach Hooks
+
+Alex (History): Interpret the stenciling like doctrine—find the intended *sequence* (equalize → pause → confirm indicator → clear door path) instead of muscling the valve.
+Mila (Engineering): Keep tone playback stable while giving Alex mechanical advice—micro-adjust pressure cycling by counting turns and listening for duct response.
+Nolan (Caution/Stealth): Monitor the smoke and the outer door—call the moment you need to drop low, wet cloth, or abandon the chamber.
+
+Decision Point
+
+Alex: Follow the signage to the letter—turn the handwheel in measured increments, pausing to listen for duct flow and watching for an indicator change.
+Mila: Risk a brief slowdown in cranking to free a hand—help Alex with leverage on the valve while trying not to warp the Tone-Key playback.
+Nolan: Commit to rear-guard survival—use cloth and whatever seal you can improvise to slow smoke ingress while Alex works uninterrupted.
+Alex & Nolan: Alex works the valve while Nolan physically braces/controls the inner door path, ready to yank Alex clear if the mechanism surges.
+
+What will you do?

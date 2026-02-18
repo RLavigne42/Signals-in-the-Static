@@ -1,0 +1,68 @@
+Your Choices
+
+Nolan: Shadow the observers from inside—blend into the cabinet rows, get close enough to overhear who they answer to, then peel away.
+Mila: Use the arcade’s own wiring as a crude antenna—follow the faint carrier shiver toward its strongest point and triangulate the source without stepping outside yet.
+Alex: Approach the observers with a smile—use diplomacy and vibe-talk to “welcome” them, forcing them to improvise a cover story while you read their tells.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:42:35 UTC---model: gpt-5.2---temp: 0.70---
+
+Static on the Line | Recap
+
+Alex goes straight at the watchers with a smile—turning their quiet surveillance into a social problem.
+He threads through the arcade crowd like he belongs to it, neon flicker striping his face in cyan and magenta. The two strangers by the cassette-ribbon curtain don’t move until he’s close enough to make retreat awkward.
+“Hey,” Alex says, easy. Warm. Like he’s greeting someone at a mall food court in ‘86. “You look a little… underpatched for the Glitch Palace. First time?”
+One of them—tall, wind-chapped, hands too clean—tilts his head. “Just passing through.”
+Alex nods, as if that’s charming. “Passing through is how people get lost. You want a cabinet recommendation or a safe exit?”
+The second one’s eyes flick to Alex’s coat pocket—too quick to be casual. Nolan sees it from across the aisle and tightens his jaw. Mila’s attention is split: half on faces, half on that faint carrier-shiver in the air like a radio stuck between stations.
+Alex keeps talking, forcing them to *perform* normal. “Name’s Alex. Archivist. I’m collecting stories—real ones. What’s your vibe?”
+The tall one answers a beat too late. “We… heard there was a working machine. Thought we’d see it.”
+That’s the tell. Nostalgists don’t call it “a working machine.” They call it the Oracle. Or they don’t say it at all.
+Alex leans in just slightly, still smiling. “Then you’re late. Oracle time’s done. But if you’re here for *quiet tech*, you’re in the wrong neighborhood.”
+The tall one’s mouth twitches—annoyance, restrained. His companion’s hand brushes the inside of his coat, not drawing anything, just checking it’s there.
+And then Alex hears it too: not the arcade music, not the crowd—a thin, needle-bright tone under everything. A carrier. Real. Alive.
+The tall watcher notices Alex noticing. His eyes sharpen.
+“Enjoy your night,” the watcher says, and tries to step past.
+Alex shifts—polite, but blocking. “Sure. One more thing. Who told you about the Oracle?”
+Silence. Heavy as dust on vinyl.
+The watcher’s companion answers instead, voice flat: “Wrong question.”
+They slip sideways into the crowd—smooth, practiced—vanishing between cabinets and bodies before Nolan can cut them off without making a scene.
+You don’t get names. You don’t get a faction badge.
+But you get something else: as they pass beneath a hanging neon sign, Mila catches a glint at the tall one’s belt—an etched metal tag, not a token. A plain stamped symbol: a circle with a slash.
+Analog Order.
+They were close enough to smell the smoke on their clothes.
+
+Reactivity
+
+Heat breakpoint (1) already active → Observation. Confirmed: Analog Order scouts have eyes on the Glitch Palace and on *you*.
+
+State Machine
+
+current_step: 3 — Static on the Line
+checkpoints: Inside, Coords, Bearing
+clues: map*auth 0 | loc*conf 2 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1
+heat: 2 *(escalation: you forced contact; they clocked your face)*
+supplies: 0
+
+The side chamber feels smaller now, like the walls heard everything. The attendant’s broom handle taps once on the floor—warning, not applause.
+“Out,” they hiss. “Not main door. Not tonight.”
+Mila closes her eyes for half a second and turns her head like a human antenna. The carrier tone is stronger near the back wall, where old conduit runs like fossilized veins into the building’s bones.
+Nolan is already mapping exits—service corridors, kitchen hatch, the alley that smells like old fryer oil and rain.
+
+Approach Hooks
+
+Exit like locals: A staff hallway or delivery chute avoids the scouts’ line of sight and buys time before Heat spikes again.
+Triangulate while moving: Mila can follow the carrier shiver through metal conduit and signage without pulling out anything flashy.
+Create a decoy narrative: Alex can seed a harmless rumor (“we’re here for music tapes”) to muddy why the scouts care.
+
+Your Choices
+
+Nolan: Take point through a staff-only corridor—get the trio out the back, keeping Heat from spiking to Patrols.
+Mila: Follow the conduit deeper into the building—use the arcade’s wiring as an antenna to triangulate the carrier source *now*, before you leave.
+Alex: Plant a rumor with a nearby Nostalgist circle—turn your Oracle visit into harmless “vibe devotion,” then slip out during the distraction.
+
+What will you do?

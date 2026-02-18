@@ -1,0 +1,66 @@
+Decision Point
+
+Nolan: Slip through the newly-unlocked DECON doors first and clear the immediate interior before anyone else enters.
+Alex: Enter with the binder and hunt for the quarantine/log panel to see what “PARTIAL AUTH / LOGGED” will trigger next.
+Mila: Hold position at the Tone-Key input and run the sequence again while the others move—trying to upgrade the bypass from “partial” to “full.”
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 06:21:02 UTC---model: gpt-5.2---temp: 0.70
+
+DECON Breach-Line | Recap
+
+Nolan takes point the instant the latch goes GREEN. He slips through the DECON doors like a shadow peeling off a wall—knife low, breath quiet—clearing corners before the bunker can decide whether it’s letting you in or luring you deeper.
+Behind you, the bypass needle still sits in PARTIAL AUTH / LOGGED, a thin accusation etched into brass. Down the corridor, the Analog Order’s tools keep worrying the outer hatch—close enough now that the air seems to vibrate with it.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Hatch secured ✅ | Pressure stabilized ✅ | Sealed ✅ | Decon approach ✅ | Decon unlocked ✅
+clues: map*auth 0/3 | loc*conf 0/3 | access_conf 3/3 *(Tone-Key sequence in use)*
+meters: cond stable | relic 1 | anomaly 1 (Static) *(breakpoint active)*
+heat: 5 (Kill-on-sight) *(breakpoint active)*
+supplies: 0
+
+Reactivity
+
+meter_breakpoints (active):
+heat 5 → Kill-on-sight
+anomaly 1 → Static
+thread_milestones (revealed/available):
+access_conf 3/3 → Reveal: Tone-Key sequence *(applied; partial auth logged)*
+
+Scene
+
+The DECON chamber swallows Nolan first—an antechamber of white tile gone nicotine-yellow, with overhead spray rails like skeletal fingers. Every surface is filmed with dust so fine it looks like powdered vinyl.
+Nolan pauses just inside, listening.
+Tick… tick… tick…
+Not a timer—too irregular. More like something mechanical *settling*.
+He sweeps left: a waist-high cabinet with a cracked plexi window. Inside: paper masks, rubber gloves, and three sealed canisters labeled in fading stencil: IODINE, CARBON, SILVER.
+Right: a grated floor drain with a dry, metallic smell. Above it, a hanging sign: REMOVE METAL OBJECTS—and someone long ago scratched into it with a key: *“GOOD LUCK.”*
+Straight ahead: an inner door with a second wheel latch and a small analog gauge. The needle trembles at the edge of a green band marked SAFE FLOW. Next to it, a little speaker grille—no electronics you’d trust, just a diaphragm and a coil that might still respond to sound.
+Nolan holds up two fingers—*clear so far*—then points to the ceiling rail. A tripwire? No. A break-beam housing, dead since the 80s… unless this bunker has power in places you haven’t earned yet.
+From behind, the corridor carries a new sound: not the saw this time—a heavy metallic knock, repeated, purposeful. Someone’s switched tools. Someone’s trying to punch through fast.
+Mila slips in behind Nolan, eyes flicking to the canisters. “We have filters,” she murmurs. “If the bunker tries to choke us with its own air.”
+Alex enters last, binder open, and the pages flutter in the chamber’s faint draft like nervous wings. “Decon chambers often have a—” he stops, reading a note in the margin he hadn’t seen before, written in different ink: IF LOGGED, EXPECT INTERNAL QUERY. DO NOT LIE.
+The speaker grille gives a soft, almost human click—as if a throat cleared in the dark.
+Then, a voice—thin, warbly, analog—pushes into the room through dust and decades:
+“IDENTIFY. PURPOSE OF ENTRY.”
+Not a siren. Not an alarm. A *question*.
+And the inner wheel latch gives a tiny twitch, like it’s waiting for the right kind of answer.
+
+Approach Hooks
+
+Alex (History/Diplomacy): Answer the bunker’s query with the right *procedural language*—names, roles, and a purpose that matches old military bureaucracy (and avoids quarantine).
+Mila (Engineering/Radio): Inspect the speaker grille and adjacent gauge; try to route the Tone-Key through this inner checkpoint to upgrade from PARTIAL AUTH to something cleaner.
+Nolan (Stealth/Caution): Quietly prep the chamber—grab masks/canisters, position by the inner door, and watch the outer entrance in case the Analog Order breaches into the corridor behind you.
+
+Decision Point
+
+Alex: Step to the speaker and deliver a calm, formal identification and purpose—using the binder’s phrasing to satisfy the bunker’s internal query.
+Mila: Try to “handshake” with the inner door—apply the Tone-Key pattern again through the speaker grille/gauge assembly to convert partial auth into full access.
+Nolan: Ignore the query for the moment—secure masks/canisters and set a defensive posture inside DECON before committing to any answer.
+
+What will you do?

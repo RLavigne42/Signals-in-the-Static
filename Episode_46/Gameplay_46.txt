@@ -1,0 +1,64 @@
+Decision Point
+
+Nolan: Hold the choke point and prepare a silent ambush the moment a silhouette crosses the threshold.
+Mila: Sprint to the nearest analog control bank and throw the chamber into seal/overpressure, trying to stall entry and smoke spread.
+Alex: Hunt for the lockdown procedure placard or hand-log station—anything that tells you how to secure doors without guessing.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:31:44 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila bolts for the analog control bank—boots whispering over reflective tape, breath held like she’s trying not to fog the world.
+The chamber’s cold is *engineered* cold: dry, disciplined, the kind that preserves. A row of wall-mounted boxes waits beneath a faded stencil—AIR HANDLING / MANUAL—with chunky toggles, a wheel valve, and a needle gauge that trembles at the edge of its green band.
+Behind you, Nolan melts into the doorway shadow, knife-hand poised over his trip line like a musician ready to mute a string. Alex stays mid-room, eyes darting between labels and the corridor, clutching his satchel like it’s a life raft.
+Mila flips the first toggle: DAMPERS—CLOSE.
+A low, reluctant groan answers from somewhere in the ductwork—old metal shifting after decades of obedience.
+She takes the wheel valve and turns it a quarter… then another eighth. The needle creeps. The chamber *tightens* around you, pressure rising just enough to push air outward—just enough to make smoke and intruders fight the flow.
+From the corridor: a muffled scrape, like cloth on concrete, then a soft curse swallowed into doctrine.
+They’re at the threshold, and the bunker is pushing back.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(no clue tier crossed)*
+fail_forward: not invoked *(success: partial seal/overpressure established without gasket blowout)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 (Reveal: UV schematics.) | loc*conf 3 *(Reveal: GPS coords.)* | access_conf 3 *(Reveal: Tone-Key sequence.)*
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The air changes immediately. It’s subtle, but your ears notice first: a faint pressure hiss at the door seams, like the bunker is exhaling through its own scars. The smoke taste in the back of your throat fades—pushed away, denied entry.
+Then the *tick… tick… tick* seems louder—not because it’s closer, but because everything else has quieted. It’s a metronome under concrete, keeping time in a world that lost its clocks.
+A shadow shifts behind the fogged inspection port of the inner door.
+Something presses close—enough to blur the glass with warmth. A hand? A face? You can’t tell. The latch gives a tentative test-pull… and stops. The wedge Nolan set makes the door resist with a stubborn, silent refusal.
+From the other side comes a new sound: not chanting—listening. The Analog Order, suddenly careful. They’ve realized this isn’t just a room. It’s a *sealed place*.
+Mila’s gaze flicks to the gauge. The needle is steady—for now. Push it too far and old gaskets could fail with a wet pop, equalizing everything at once. Keep it here and you buy time… maybe minutes… maybe more.
+Alex finds what he was looking for at the edge of the chamber: a slanted metal desk bolted to the floor, a hand-crank lamp, and a thick binder in a plastic sleeve labeled:
+INVENTORY LOG — HAND ENTRY ONLY
+CONTAMINATION PROTOCOL INSIDE COVER
+This is it. The bunker’s truth. The map didn’t lead to a weapons cache or a comms hub.
+It led to a survivor’s seed-vault—a library of future harvests sealed away from the world’s ash and zealotry.
+And right now, the zealotry is on the other side of your door.
+
+Approach Hooks
+
+Mila (Engineering): Fine-tune overpressure and isolate P‑2 completely—keep the needle in the safe band while you buy time to plan a deeper move.
+Alex (History/Procedure): Open the inventory log and contamination protocol—find a lockdown method, alternate egress, or a “sacrificial” airlock sequence.
+Nolan (Stealth/Caution): Use the stalled door as a choke point—decide between a silent takedown if they force entry, or a retreat to a better defensive lane among the shelving.
+
+Decision Point
+
+Mila: Hold the overpressure steady and hunt for a hard seal lever or manual lock that can deadbolt the inner door without stressing the gaskets.
+Alex: Crack open the contamination protocol and inventory log—search for an emergency route, secondary hatch, or a procedure to lock down the chamber.
+Nolan: Set for contact—weapon ready in the doorway shadow, prepared to strike the first intruder through the gap the moment the door shifts.
+
+Which path do you choose?

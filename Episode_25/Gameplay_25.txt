@@ -1,0 +1,59 @@
+Your Choices
+
+Mila: Execute the 3 / 1 / 4 — HOLD Tone-Key at the sweet spot and watch for the relay to “answer” with a mechanical unlock or a confirming pattern.
+Alex: Audit the tag plate’s authenticity (tool marks, paint age, rivet corrosion) to confirm it’s not a planted false key before anyone signals deeper.
+Nolan: Sweep for recent traffic and overwatch angles—if the key works, you’ll be committed and exposed for a moment.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:09:04 UTC---model: gpt-5.2---temp: 0.70
+
+Tone-Key | Recap
+
+Alex doesn’t let Mila play the relay like an instrument—not yet. He leans into the culvert mouth, lantern hooded low, and treats the tag plate like what it is: a promise made in metal… or a lie nailed there for the curious.
+His fingertips trace the rivets. One is flattened too cleanly, like it was set with a modern punch—*post-Disconnect* modern, meaning hand tools, careful hands. The other is uglier, older, swollen with oxidation that has bled into the concrete like rust-tea.
+“Mixed hardware,” Alex murmurs. “One original, one replaced.”
+He tilts the lantern so the stenciling catches light. CIVIL DEFENSE — MAINT ACCESS is under at least two coats; the lower layer is thicker, older paint that’s sunk into the pores. But CALL/RESP: SEE PLATE looks sharper—edges too crisp, paint sitting proud like it hasn’t lived through decades of grit. Someone refreshed it.
+Nolan shifts, boot grinding glass-sand. “Refreshed by who.”
+Alex looks closer for the storyteller’s fingerprints: tool chatter, scrape arcs, the way a hand hesitates when it doesn’t know the alphabet it’s copying. The punched rhythm marks—3 / 1 / 4 — HOLD—are consistent, evenly spaced. Not a prank. Not a rushed bait job. More like… maintenance. A crew that *expected* this to be used.
+Then Alex finds the detail that settles his stomach: a tiny stamped symbol on the bottom edge of the plate, half-hidden by grime—an old civil-defense emblem, the kind printed on evacuation pamphlets and bunker signage before the world went mute. It’s worn the way only time can wear it.
+“This plate’s been… *tended*,” Alex says softly. “But the language is authentic. Whoever updated it knew the old system well enough to keep the cadence true.”
+Mila exhales, tension leaving her shoulders in a slow hiss. “So it’s a real key. Or a real key… being watched.”
+
+Reactivity
+
+Result: Partial confirmation (authentic system; evidence of later maintenance).
+Heat: 3 → 4 *(lingering in the echo pocket; sound carries, time accumulates).*
+  Breakpoint check: Heat 4 (no new breakpoint; Patrols remains the last threshold at 3).
+Clues: unchanged (map*auth 3, loc*conf 3, access_conf 3 already revealed).
+Meters: cond stable | relic 3 | anomaly 1 (Static)
+Supplies: 1 (unchanged)
+Fail-Forward: not triggered (no failure).
+
+State Machine
+
+current_step: 8 — Tone-Key
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ⬜
+clues: map*auth 3* *(UV schematics revealed) | loc*conf 3 *(GPS coords revealed)* | access_conf 3 *(Tone-Key revealed)*
+heat: 4
+meters: cond stable | relic 3 | anomaly 1
+
+The culvert’s draft brushes your faces like a cold hand. Somewhere deeper, metal answers metal—another faint tink, then silence that feels deliberate. The static in Mila’s coil tightens again, as if the relay is listening to your hesitation and growing impatient with it.
+Above, the wind shifts. It carries something that isn’t wind: a distant, rhythmic clatter—too organized to be loose debris. Nolan’s head snaps up. “Boots. Far ridge. Could be a patrol cutting across.”
+You have a key that’s probably real, and a window that’s probably closing.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Use the relay’s static as immediate feedback—execute 3 / 1 / 4 — HOLD and listen for a mechanical confirmation before the patrol gets line-of-sight.
+Nolan (Stealth/Caution): Take overwatch and set a silent warning (pebble drop, mirror flash, string tug) so Mila can abort mid-handshake if silhouettes crest the ridge.
+Alex (History/Procedure): Look for a *second* instruction layer—an “HOLD duration” standard (e.g., 5-count vs 10-count) common to civil-defense protocols.
+
+Your Choices
+
+Mila: Perform the 3 / 1 / 4 — HOLD Tone-Key now, using the relay’s static as a guide, and commit to whatever response follows.
+Nolan: Slip up the concrete rib to confirm the ridge movement and cover the culvert mouth—buy Mila time to do the key safely.
+Alex: Search the culvert frame and nearby concrete for the missing piece: the HOLD standard (duration/confirmation mark) before anyone triggers the next stage.
+
+What will you do?

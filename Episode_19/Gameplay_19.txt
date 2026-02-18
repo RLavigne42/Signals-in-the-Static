@@ -1,0 +1,60 @@
+Decision Point
+
+Alex: Complete a full margin-to-center charcoal rub to reveal the hidden grid and symbol legend—commit to the truth-layer even if it costs time.
+Mila: Calculate the rotation offset and produce a corrected bearing from the hidden grid—fast conversion into a usable route.
+Nolan: Sweep the rest stop structures for a planted marker or watcher sign—confirm whether the “lie layer” is actively being enforced.
+
+Which path do you choose?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:02:36 UTC---model: gpt-5.2---temp: 0.70
+
+Map’s Betrayal | Recap
+
+Alex commits. No shortcuts—no half-read ghosts. He spreads the bunker map flat on the kiosk counter under the canopy’s dead shade, pins the corners with scavenged washers, and begins a full charcoal rub from margin to center.
+The paper drinks the graphite. Hidden pressure-lines rise like bruises under skin: a rotated grid, a second set of waypoints, and—near the lower fold—a repeated three-letter designation that looks less like a name and more like a filing code. The half-smeared stamp becomes clearer in pieces: not enough for a full seal, but enough to scream *custody chain*. This wasn’t found. It was *handled*.
+Mila watches the emerging geometry, jaw tight. Nolan keeps his eyes on the basin, counting the wind-gusts and listening for footfall.
+Then Alex hits the center.
+A thin, nearly invisible legend blooms under charcoal: symbols with tiny tick-marks—antenna triangles, hatch rectangles, and a circle-with-slash that Alex recognizes from old civil defense manuals as “restricted access / controlled entry.”
+The truth-layer doesn’t just correct the route.
+It warns you where the route turns into a door.
+
+Reactivity
+
+Thread progress: map_auth 1 → 2
+Checkpoint achieved: Identify layers ✅
+Meter breakpoints: no change (Heat 3 remains Patrols; Anomaly 1 remains Static)
+Fail-Forward: not triggered (clean success, time cost only in-fiction)
+
+State Machine
+
+current_step: 6 — *Map’s Betrayal*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅
+clues: map*auth 2* *| loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1 *(Static)*
+heat: 3 *(Patrols)*
+supplies: 1
+
+The canopy rattles. A strip of torn plastic flaps like a broken cassette ribbon. In the distance, the Glass Desert shimmers—heat haze and powdered glass making the horizon look like a warped CRT.
+Alex’s fingertips hover over the newly revealed legend. The rotated grid has anchor points—three of them—each marked with the antenna-triangle symbol. One sits uncomfortably close to your projected route, like a checkpoint you were meant to pass without noticing.
+Mila traces the line with a grim precision. “These anchors… they’re relay references. Not radio towers—older. Passive reflectors, maybe. Or survey markers.”
+Nolan’s voice is low. “Or places someone can watch from.”
+As if to answer him, a faint *clack… clack… clack* carries on the wind from somewhere beyond the basin—mechanical, rhythmic, too steady to be loose debris. The same sound you heard underground.
+And then—just for a second—the static in the air tightens, almost forming a consonant at the edge of hearing.
+Not a voice.
+A *shape* of a voice.
+
+Approach Hooks
+
+Route certainty: Mila can use the rotated grid and anchor points to derive a corrected bearing that avoids the “restricted access” symbol until you’re ready.
+Provenance leverage: Alex can interpret the filing code and legend style to guess which pre-Disconnect institution altered the map—military, civil defense, or contractor.
+Threat posture: Nolan can scout toward the nearest anchor point to see if the mechanical clacking is a watcher, a trap, or a working relic.
+
+Decision Point
+
+Mila: Convert the rotated grid into a corrected bearing and a short, actionable route segment—move before Patrols tighten the net.
+Alex: Focus on the filing code and stamp fragments—try to identify who altered the map and why, before you trust the next leg.
+Nolan: Shadow-walk toward the nearest anchor point and investigate the source of the clacking—confirm if you’re being steered in real time.
+
+Which path do you choose?

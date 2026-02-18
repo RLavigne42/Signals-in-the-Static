@@ -1,0 +1,58 @@
+Decision Point
+
+Nolan: Take the deeper, darker straight run—prioritize losing the Patrols even if it’s slower and rougher.
+Mila: Investigate the upward slope toward the whine—identify if it’s a scavenger rig, a trap, or a working relic.
+Alex: Go for the airflow exit—risk the partial collapse to surface quickly and regain bearings before Patrols bracket the area.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:00:48 UTC---model: gpt-5.2---temp: 0.70---
+
+Glass Desert | Recap
+
+Nolan chooses the straight run—deeper, darker—where the culvert stops pretending it’s a path and starts acting like a throat.
+You crawl in single file. The air turns colder and more metallic, tasting of rust and old rainwater. The static in the pipe-wall thins to a faint hiss, like a cassette left running in an empty room. Above, the Analog Order’s world fades: boots on glass become distant percussion, pole-taps become a memory.
+At a bend, Nolan pauses and listens—then gives a single, tight nod. No voices. No whistle. Just the wet drip of condensation and the soft scrape of your sleeves over grit.
+You’ve slipped their search pattern.
+A few more meters and the tunnel pitches slightly upward. Fresh air threads in—dry, dusty—carrying the scent of sun-warmed concrete. Nolan finds a rusted service hatch and eases it open a finger’s width. A blade of neon daylight cuts in, full of floating dust motes like glitter trapped in a beam.
+He waits. Counts. Then lifts.
+You surface behind a collapsed retaining wall, still within the Glass Desert’s perimeter—but now out of the patrol’s immediate net.
+
+Reactivity
+
+Heat (3: Patrols) remains active, but you’ve broken direct contact; pursuit is now *area search* rather than *line chase*.
+Checkpoint achieved: Dead Zone ✅ (you crossed the contested territory without being caught).
+Thread milestones: no new reveals (clues unchanged).
+
+State Machine
+
+current_step: 6 — Map’s Betrayal
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1 *(Static)*
+heat: 3 *(Patrols)*
+supplies: 1
+
+The landscape changes on the other side of the wall—less glitter, more ruin. A shallow basin of cracked asphalt holds the skeleton of an old rest stop: bent vending machines, a sun-bleached billboard frame, and a roof canopy sagging like a tired shoulder.
+Mila unrolls the bunker map against the concrete. The grease-pencil marks are still there—bold and stubborn. But now, in this light, the paper shows something wrong: faint lines that don’t match the terrain. A second set of routes—almost like a ghost map—peeks through the fibers.
+Alex squints. “That’s… not age. That’s *intent*.”
+Nolan scans the basin. “Someone wanted you to walk to the wrong place.”
+A gust slides under the canopy, rattling a strip of torn plastic. The static in the air thickens for a moment—almost shaping into syllables—then dissolves again.
+On the map’s lower margin, a small stamp you hadn’t noticed catches the light: a blurred seal, half-smeared, like it was pressed in haste decades ago. It isn’t readable—not yet—but it’s there.
+The map is layered. And one layer is lying.
+
+Approach Hooks
+
+Find the layer: Alex can use careful, non-destructive techniques—raking light, charcoal rub, edge-reading—to identify overwritten shorthand without tearing the paper.
+Make the map talk: Mila can test for non-electronic “resonance” tricks—pressure impressions, conductive ink traces, or alignment marks—using analog tools and engineering instincts.
+Assume a watcher: Nolan can sweep the rest stop for signs of recent feet, hidden stakes, or a tail—because “betrayal” often has hands nearby.
+
+Decision Point
+
+Alex: Examine the map’s margins and stamp under raking light—hunt for shorthand, unit codes, or a provenance clue that explains the ghost routes.
+Mila: Run an analog diagnostics pass—check for pressure-impressed lines and possible conductive ink patterns using improvised tools and the compass housing.
+Nolan: Circle the rest stop perimeter on stealth—look for fresh tracks, a hidden observer, or a planted marker that would confirm someone’s steering you.
+
+Which path do you choose?

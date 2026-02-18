@@ -1,0 +1,61 @@
+Decision Point
+
+Alex: Lead everyone into the service crawl immediately, sealing the panel behind you as the protocol implies.
+Nolan: Stay out for ten seconds to plant a silent misdirection trail, then slip into the crawl last.
+Mila: Pause to “read” the vault’s breathing—time your movement to the next damper shift and minimize noise, then enter.
+
+Which path do you choose?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:19:54 UTC---model: gpt-5.2---temp: 0.70
+
+Cold Shelves | Recap
+
+Nolan holds up two fingers—*ten seconds*—then melts away from the crawl mouth like a shadow detaching from the wall.
+In the blackout, his world becomes texture and timing: the cold bite of concrete under his palm, the faint vibration of shelving when the bulkhead takes another THUNK, the whisper-hiss of the vault’s lungs running LOW under Mila’s setting. He doesn’t need light to lie convincingly.
+He drags a loose chain of canister tags—just enough to make a soft, tinny tch-tch—and lets it trail toward the far end of the shelves, away from the southern rack. Then he scuffs a boot heel in a short, deliberate arc—one false “panic pivot”—and smears a pinch of grit into a line that says *someone ran this way*.
+Finally, he palms a tiny wedge of metal from his pocket and sets it near the bulkhead-side floor seam. Not a trap—an indicator. If someone crosses, it’ll tick and skitter just loud enough for a trained ear.
+A new sound answers from the door: a sharp pop—metal giving, seal protesting. A thin draft crawls into the room, carrying the stink of outside dust and sweat.
+Nolan doesn’t hesitate. He glides back, finds the pull-ring by memory, and slips into the service crawl last. Alex eases the panel down. Snick. The seam disappears into darkness.
+You’re gone—at least, on first glance.
+
+Reactivity
+
+meter_breakpoints: none triggered *(heat remains at 5: Kill-on-sight; anomaly remains 2: Static)*
+thread_milestones: none triggered *(clue thresholds unchanged)*
+fail_forward: not invoked *(success: misdirection planted; early-warning placed; clean retreat)*
+
+State Machine (Updated)
+
+current_step: 10 — Threshold
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The crawlspace is a throat of raw concrete and old paint, tight enough that your shoulders whisper against the walls. The air is colder here—dry as cassette tape ribbon—smelling of cardboard, adhesive, and something faintly botanical… like crushed leaves sealed in a book for decades.
+Ahead, the passage dips and widens into a narrow service bay. Alex’s hand finds stenciled letters on a doorplate, raised and gritty:
+STACK
+Mila’s fingers brush the edge of a crate through the dark—wood, banded in metal. She freezes as her coil gives a small, involuntary twitch: static—controlled, but brighter here, as if the bunker’s shielding makes the world’s noise rebound inward.
+Then, from behind the wall you just sealed, comes the Analog Order’s presence in sound alone: boots, breath, the scrape of a pry bar. A voice, low and certain, muffled by concrete:
+“Relics are rot. Burn the rot.”
+Your indicator does its job—faint, almost nothing: tick… skitter. Someone stepped where Nolan wanted them to.
+And in the cramped dark by the STACK door, you finally understand what this chamber really is: not an armory, not a server room, not a shrine of circuits.
+Crates. Canisters. Labels you can feel with your fingertips—embossed codes, dates, and crop names in old government shorthand.
+A survivor seed-vault—a future packed into analog containers, waiting out the long night.
+
+Approach Hooks
+
+Alex (History/Procedure): Read the embossed crate/canister markings by touch and interpret what “STACK” stores—food security, biodiversity, maybe even a paper index that points to other bunkers.
+Mila (Engineering/Radio): Assess the door hardware and seals—can it be dogged shut from inside? Is there a manual pressure latch, a mechanical lock, a secondary vent you can exploit?
+Nolan (Stealth/Caution): Use the early-warning tick and misdirection timing to choose whether to hold silent, move deeper, or set a second false trail within the service bay.
+
+Decision Point
+
+Alex: Feel-read the nearest crate labels and hunt for an index sheet or manifest—anything that tells you what’s stored and where the “safe” inner chamber is.
+Mila: Work the STACK door’s mechanism in total darkness—test for a manual dog-latch or pressure seal you can close behind you.
+Nolan: Freeze and listen—count intruders by footfalls and breath, then decide whether to relocate deeper before they realize the misdirection.
+
+What will you do?

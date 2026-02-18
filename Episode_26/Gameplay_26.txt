@@ -1,0 +1,58 @@
+Your Choices
+
+Mila: Perform the 3 / 1 / 4 — HOLD Tone-Key now, using the relay’s static as a guide, and commit to whatever response follows.
+Nolan: Slip up the concrete rib to confirm the ridge movement and cover the culvert mouth—buy Mila time to do the key safely.
+Alex: Search the culvert frame and nearby concrete for the missing piece: the HOLD standard (duration/confirmation mark) before anyone triggers the next stage.
+
+What will you do?
+user
+2
+assistant
+---timestamp: 2026-01-10 05:10:07 UTC---model: gpt-5.2---temp: 0.70
+
+Tone-Key | Recap
+
+Nolan peels away from the culvert mouth without a word—just a shift of weight, a breath held, then gone into the broken geometry of the concrete ribs. Dust puffs under his heel and dies immediately in the culvert’s cold draft. He climbs where the structure is jagged enough to hide him, hands finding old rebar like guitar strings in the dark.
+Below, Mila keeps her wire loop steady, listening to the relay’s tight hiss. Alex stays at the plate, lantern hooded, eyes still on the mixed rivets—authentic system, recently tended. *A real key… in a place that expects someone to try it.*
+Nolan reaches the rib’s crest and flattens himself against the concrete. The world up here is wind and distance: a strip of grey sky, a ridge line of black rock, and the basin’s echo pocket swallowing sound.
+Then he sees them.
+Not close—yet. Three figures cutting across the far ridge, moving with the ugly patience of people who’ve walked too many miles with purpose. Their silhouettes are wrong for scavengers: long staffs or rifles slung, packs tight, heads wrapped. At this range he can’t read symbols, but the spacing is disciplined. A patrol.
+Nolan signals down with a simple, Tech Nomad warning: two pebbles dropped in sequence—*look up, then move smart.* They click down the concrete like a metronome, swallowed by the culvert’s engineered hush.
+He watches their line. They’re not beelining to you… but they’re angling toward the basin. If they crest the next outcrop, they’ll have a clean view of the culvert mouth.
+
+Reactivity
+
+Heat: 4 → 5 *(time + exposure risk; patrol proximity escalates)*
+  Meter Breakpoint triggered (Heat 5): *Kill-on-sight.*
+  Whatever faction they are, you can’t assume talk first. If they spot the culvert activity, they’ll treat it as a relic breach.
+Anomaly: stays 1 (Static) *(relay still awake, tight hiss)*
+Fail-Forward: not triggered (success on overwatch)
+
+State Machine
+
+current_step: 8 — Tone-Key
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ⬜
+clues: map*auth 3 (UV schematics revealed) | loc*conf 3 *(GPS coords revealed)* | access_conf 3 *(Tone-Key revealed: 3/1/4—HOLD)*
+meters: cond stable | relic 3 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+Down at the culvert, the air feels suddenly thinner—like the world noticed Nolan’s view and leaned in.
+Mila’s coil gives a faint chirr as the static tightens. The relay is ready. Impatient. A lock that’s been alone for forty years and doesn’t like being teased.
+Alex glances up at Nolan’s perch, reading the warning in the timing of the clicks. His mouth goes dry. “We don’t have minutes,” he says. “We have… a breath.”
+From the ridge, a far-off sound rides the wind: a single sharp call—human, not bird. The patrol is communicating.
+If you trigger the Tone-Key now, you might get a latch and a way down. If you hesitate, you might get spotted with your hands on a relic door.
+
+Approach Hooks
+
+Mila (Engineering/Radio): Use the relay feedback to perform 3 / 1 / 4 — HOLD *cleanly and fast*—if it opens, you vanish into the throat before the ridge clears.
+Alex (History/Procedure): Scan for the missing HOLD standard (a stamped “5-count,” a hash mark, a maintenance note) to avoid a “dirty key” that could lock you out—or scream your presence.
+Nolan (Stealth/Caution): Create a short diversion up top (rockslide rattle, reflected flash, thrown debris) to bend the patrol’s sightline for ten seconds—just enough for the handshake.
+
+Decision Point
+
+Mila: Execute the 3 / 1 / 4 — HOLD Tone-Key immediately and commit—if the culvert answers, dive in.
+Alex: Risk a rapid search for the HOLD duration marking to prevent a misfire that could lock or alarm the relay.
+Nolan: Trigger a controlled diversion on the ridge to break line-of-sight while Mila performs the key.
+
+What will you do?

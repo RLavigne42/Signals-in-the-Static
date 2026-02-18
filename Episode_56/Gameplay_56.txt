@@ -1,0 +1,56 @@
+Decision Point
+
+Nolan: Slip into MAINT. RETURN — CHAMBER ACCESS now—stealth-crawl back toward Mila and Alex and attempt an internal extraction.
+Nolan: Spin the inner hatch wheel-lock—enter deeper through decon and look for a safer route that avoids the breach entirely.
+Mila: Prepare a last-ditch pressure “cough” at the chamber door—risking a loud vent to buy Nolan seconds.
+Alex: Attempt a containment-protocol bluff—use procedure language to stall the Analog Order at the moment of breach.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:42:18 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan commits to the MAINT. RETURN — CHAMBER ACCESS crawl.
+He drops to a knee, slips through the grate, and lets the bunker swallow him into a low, rectangular throat of concrete and sheet metal. The smell changes immediately—less iodine, more dust and old insulation, a faint sweetness like sun-baked vinyl. His elbows scrape, slow and controlled. Every movement is measured, because sound carries weird in places like this—echoes folding back on themselves like warped cassette tape.
+Behind him, Jessa hovers at the opening, eyes reflecting Nolan’s thin beam. She doesn’t follow—she can’t fit as clean, and she knows it. Instead, she presses two fingers to her lips, then points down the crawl: *go*.
+Ahead, the crawl slopes toward a vented panel. Through its slats: the chamber’s outer corridor—dim, industrial, and alive with Analog Order boots and breath.
+A harsh voice above the metal groan: “Torch it if it fights.”
+Mila and Alex are still in there.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat already 5: Kill-on-sight; anomaly remains 1: Static)*
+thread_milestones: none *(clues unchanged)*
+fail_forward: not invoked *(success: you reached a flanking position)*
+
+State Machine (Step 10 Tracking)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(spine shutter closed; you are inside internal access)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Nolan inches to the vent. The slats give him a slice of the scene: two Order zealots in patched canvas and ash-stained scarves bracing a pry bar at the chamber door; a third stands back with a glass bottle wrapped in cloth—oil for a torch, maybe. Their silhouettes jerk in the flicker of a hand-lantern, light bending across concrete like bad neon.
+The chamber door—old military steel—has a growing mouth of daylight at its seam. Every levered groan is a countdown.
+The static in Nolan’s teeth thickens, not louder, just heavier—like pressure in a storm.
+He can drop out right behind them… or he can try something smarter: turn the bunker’s own anatomy against them.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Stay in the crawl, pop the vent quietly, and time a silent drop onto the rear zealot—use the tight corridor to keep it close and fast.
+Mila (Engineering): If Nolan can reach the door’s hinge-side from inside, Mila can exploit the door’s flex—slam it into a partial reseat while Nolan disrupts the pry angle.
+Alex (Diplomacy/History): If Nolan can create a brief pause (a thrown sound, a sudden shadow), Alex can use procedure language through the door—“Containment protocol”—to force hesitation long enough for a mechanical reset.
+
+Decision Point
+
+Nolan: Pop the vent and drop behind the Order—go hands-on and silent, stopping the torch-bearer first.
+Nolan: Stay hidden and sabotage their leverage—jam the pry bar’s fulcrum with debris through the slats, buying seconds for Mila and Alex to reposition.
+Mila: On Nolan’s signal (three knocks on the door from inside), shove the door into a partial reseat while Nolan disrupts the pry angle.
+Alex: The moment Nolan creates confusion, shout “Containment protocol—stand down\!” through the door and attempt to fracture their resolve.
+
+Which path do you choose?

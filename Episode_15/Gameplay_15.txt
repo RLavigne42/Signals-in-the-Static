@@ -1,0 +1,56 @@
+Decision Point
+
+Alex: Lean into diplomacy—quote pre-Disconnect “safety doctrine” (real-sounding, 80s military tone) to frame your map as *non-tech* and your passage as harmless.
+Mila: Create a controlled distraction—drop the compass and loudly “confess” it’s just a navigational toy, drawing their scrutiny away from the satchel.
+Nolan: Make the call—fake compliance, then sudden movement into the rubble line to break sight and force a chase on your terms.
+
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:58:15 UTC---model: gpt-5.2---temp: 0.70
+
+Glass Desert | Recap
+
+Nolan makes the call with his whole body—half a breath of “compliance” and then a sudden, violent pivot.
+He lets his hands rise like he’s about to open his pack… and instead he kicks a fan of glass-slag into the nearest patrolman’s shins. The crunch becomes a spray; light shatters into a thousand glittering lies. Nolan hooks Alex by the elbow and yanks him hard toward the collapsed storefront line—where broken masonry and rebar make teeth of cover.
+“Move,” Nolan hisses, voice flat as duct tape.
+Mila is already moving—she keeps the compass hidden, the map tight, her boots finding the dullest patches of ground. The Analog Order patrolman barks something like a prayer and rage combined. Behind them, the spotter on the ridge raises the whistle—
+A thin, ugly note slices the air.
+Not loud enough to summon an army. Loud enough to summon *attention*.
+You hit the rubble line and drop into shadow. The glass desert behind you keeps talking—crunching under the patrol’s boots, the scrape of their poles, the hiss of wind carrying faint static like a radio between stations.
+
+Reactivity
+
+Meter breakpoint triggered: Heat 2 → 3: Patrols.
+  The whistle escalates the zone; more Order eyes will be moving now.
+Anomaly breakpoint: unchanged (1: Static persists).
+Fail-Forward: Not triggered (you didn’t fail the step yet; you forced a messy success path with consequences).
+
+State Machine
+
+current_step: 5 — *Glass Desert*
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ⬜
+clues: map*auth 0 | loc*conf 3 | access_conf 0
+meters: cond stable | relic 3 | anomaly 1
+heat: 3 *(Patrols)*
+supplies: 1
+
+The three of you wedge into the collapsed storefront’s skeleton: a long, slanted wall of cinderblock and shattered display glass. Old signage—sun-bleached and half-melted—still shows a cartoon boombox in a corner, grinning through decay.
+Nolan crawls first, keeping low. Alex follows, breath tight, satchel hugged like a heartbeat. Mila’s shoulder brushes a hanging strip of vinyl; it slaps softly against her sleeve, a dead banner flapping in the wind.
+Behind you, the patrol fans out. You hear the poles tapping—tap… tap… tap—testing rubble, listening for hollow spaces. The whistle’s echo dies, but the desert feels *awake* now, like you’ve kicked a nest.
+Ahead, the rubble line narrows into a choice: a jagged maintenance culvert half-buried under glass-sand (dark, tight, promising silence) or a broken service corridor that runs straight under skeletal beams (faster, but with sightlines).
+
+Approach Hooks
+
+Stay unseen, not fast: Nolan can use the culvert to break line-of-sight and let Patrols lose your trail.
+Keep the map safe: Alex can wrap the map in filter cloth against grit and moisture before any crawlspace ruins it.
+Make noise somewhere else: Mila can toss reflective scrap behind you to bait pole-taps and buy seconds.
+
+Decision Point
+
+Nolan: Take the maintenance culvert—lead a silent crawl to slip past the Patrols’ search pattern.
+Alex: Stop for ten seconds to secure the map and satchel with the filter cloth—protect the route even if you get jostled.
+Mila: Create a decoy glint and sound behind you—draw the pole-taps and Patrols away from your chosen path.
+
+What will you do?

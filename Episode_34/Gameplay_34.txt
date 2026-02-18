@@ -1,0 +1,61 @@
+Decision Point
+
+Alex: Lead everyone to the southern rack and find the service crawl entrance by touch—no light, per protocol.
+Mila: Keep one hand on the controller and try SEAL (or FILTER) to see if the vault can “button up” further—listening for any lock engagement deeper inside.
+Nolan: Lay a silent trip indicator at the bulkhead side of the room and position himself at the darkest angle to delay or misdirect an entry.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:18:45 UTC---model: gpt-5.2---temp: 0.70
+
+Cold Shelves | Recap
+
+Alex takes point, because the binder told him how to move through a place like this: no white light, no careless footsteps, no heroics. He closes the protocols to a dog-eared diagram and tucks it under his arm like a shield.
+Mila kills the pinhole beam. The vault swallows you whole—neon-less, moonless—just the taste of dry air and the faint, medicinal tang of old shielding. Nolan’s hand finds the back of Alex’s jacket. Alex’s fingers find the southern rack by memory and touch.
+Metal shelving: cold.
+Canister tags: thin, tinny, trembling when the bulkhead takes another THUNK.
+Floor: unnervingly clean, like the dust itself was ordered to stand down.
+Alex counts shelf uprights the way he’d count tracks on a cassette. One… two… three…
+His palm finds it: a seam behind the rack where the binder promised a rectangle.
+A hidden pull-ring—flat, flush, meant to be invisible unless you already *knew*.
+He hooks two fingers under it and draws it up with a controlled, silent effort.
+A panel gives with a muted snick, and a breath of colder air slides out—stale, paper-dry, threaded with the scent of cardboard and old adhesive. The opening is barely shoulder-wide: a service crawl that drinks sound.
+Behind you, the bulkhead shudders again. The patrol’s tools are no longer guessing; they’re winning time.
+Alex leans in, whispering so softly it’s more vibration than voice: “Crawl goes to… ‘STACK.’ Whatever that is—it’s our only vanishing trick.”
+
+Reactivity
+
+Meter breakpoints: none triggered *(heat remains 5: Kill-on-sight; anomaly remains 2: Static)*
+Thread milestones: none triggered *(mapauth/locconf/access_conf unchanged this turn)*
+Fail-Forward: not invoked *(success: service crawl located and opened without light)*
+
+State Machine (Tracked)
+
+current_step: 11 — Cold Shelves
+checkpoints: Inside ✅ | Coords ✅ | Bearing ✅ | High relic ✅ | Dead Zone ✅ | Identify layers ✅ | Sync relay ✅ | Hold key ✅ | Position ✅ | Sealed ✅
+clues: map*auth 3 | loc*conf 3 | access_conf 3
+meters: cond stable | relic 3 | anomaly 2
+heat: 5 (Kill-on-sight)
+supplies: 1
+
+The crawlspace edge bites at your knuckles as you test it—raw concrete, a thin lip of rusted steel. Inside, you can feel the geometry of it: narrow, straight for a few meters, then a slight drop. Somewhere deep in the dark, something *ticks*—not a clock, more like a settling relay or a cooling pipe.
+Nolan shifts, angling his body between the open crawl and the bulkhead, as if he can block inevitability with posture alone. Mila’s coil gives a faint, sympathetic twitch—static clean, controlled, but present.
+Then—through the door you entered by—comes a new sound: not a thump.
+A screech, long and metallic, like a pry bar finding purchase.
+They’re close.
+
+Approach Hooks
+
+Alex (Procedure/History): Use the binder’s “BLACKOUT HOLD” guidance to move the team into the crawl in the correct order (no dropped gear, no rattling canisters, no scuffing that leaves a trail).
+Nolan (Stealth/Caution): Cover the retreat—leave a tactile misdirection (a dragged canister tag chain, a grit smear, a false scuff line) to pull intruders away from the crawl entrance.
+Mila (Engineering/Radio): Before committing, listen for airflow/relay changes—if the vault’s low-air setting masks sound, she can time the move to the damper cycle and reduce noise.
+
+Decision Point
+
+Alex: Lead everyone into the service crawl immediately, sealing the panel behind you as the protocol implies.
+Nolan: Stay out for ten seconds to plant a silent misdirection trail, then slip into the crawl last.
+Mila: Pause to “read” the vault’s breathing—time your movement to the next damper shift and minimize noise, then enter.
+
+Which path do you choose?

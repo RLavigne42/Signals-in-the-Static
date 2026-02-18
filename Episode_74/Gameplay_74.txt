@@ -1,0 +1,71 @@
+Decision Point
+
+Mila: Open the access panel and perform a careful jam-clear, preserving any intact tape; then attempt to hand-feed a strip through the rollers.
+Mila: Abandon the dispenser and search the decon cabinets for any pre-cut credential strips, tags, or log paper that could be shaped into a substitute.
+Nolan: Fall back to Mila’s position and help—use brute leverage and smoke control while Mila does the delicate work.
+Alex (shouted coordination): Ask Mila to bring *any* paper immediately; Alex will attempt a low-risk keypad entry while Mila returns, accepting that the hatch may lock out after too many tries.
+
+What will you do?
+user
+4
+assistant
+---timestamp: 2026-01-10 06:12:26 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Mila doesn’t gamble on the jammed dispenser. She makes the call over her shoulder—sharp, practical: “Alex\! I’m bringing *paper*. Make it count.”
+She tears a strip from what the decon alcove still has: a brittle maintenance log sheet, pre-printed with tiny boxes and faint blue lines. Not a credential, not officially—just *the right kind of thing* in a bunker built by people who trusted rollers and levers more than they trusted humans.
+She jogs back, boots scuffing dust, cassette deck hugged to her ribs. Behind her, Nolan’s silhouette holds the corridor mouth—smoke crawling low like fog off a dead river, and beyond it the Analog Order’s work-rhythm: THUD… THUD… metal on metal.
+At the hatch, Alex is already poised, eyes flicking between the worn keys and the slot like he’s reading a codebook written in grime.
+Mila slides the paper strip into his hand. “It’s not tape. But it’s feedable.”
+Alex nods once. “Then we make it *believable*.”
+He creases the leading edge into a stiff tongue, trims it with a quick tear, and—careful as threading a cassette—feeds it into the CREDENTIAL STRIP / PAPER TAPE slot.
+The rollers bite.
+Tick-tick.
+The hatch answers with a dry internal clatter—mechanical logic waking up.
+
+Reactivity
+
+thread_milestones: none newly triggered
+meter_breakpoints: none newly triggered
+heat 5 (Kill-on-sight) *(active)*
+anomaly 1 (Static) *(active)*
+
+Scene
+
+The keypad’s chunky buttons feel like tombstones under Alex’s fingertips. Above them, the half-scraped instruction—…ENTER AUTH DATE / SHIFT ID…—hangs in the dim like a dare.
+Mila leans close, listening not for beeps (those died with the old world), but for tiny changes in pressure and the cadence of the rollers. Nolan, back at the corridor mouth, hisses: “They’re setting something up. You’ve got seconds, not minutes.”
+Alex chooses a date that fits the bunker’s own vanity: a commissioning-year style code—1980—then a shift ID that institutions love because it’s boring and repeatable.
+He presses the last key.
+For a heartbeat, nothing.
+Then: CHUNK. A bolt retracts halfway—stops—then retracts again as if reconsidering.
+The rollers tug the paper strip another inch. A stamped wheel inside the slot kisses the paper with a faint thip—an inked imprint, or a punch mark, something that says *validated* even if it’s only pretending.
+But the bunker is fussy. The hatch doesn’t open.
+Instead, a small mechanical window beside the keypad flips from blank to a single word:
+RETRY
+And from deep behind the hatch, a different sound—thin, high—like a valve feathering open. The corridor air shifts. Smoke wants in; the bunker wants out. A tug-of-war you can feel in your teeth.
+This is not a hard failure. It’s the bunker giving you one more chance—*and tightening the clock*.
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ | Dog-bolt engaged ✅ | QZ-3 cassette acquired ✅ | Training deck operational ✅ | Tone-Key obtained (playback) ✅ | AUTH port accepted ✅ | Pressure equalized ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 3
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+Approach Hooks
+
+Alex (History/Patterning): Reconstruct institutional formats: if “AUTH DATE” is *day-of-week* or *Julian day* rather than year, try a second entry that matches military paperwork habits.
+Mila (Engineering/Ears-on-Metal): Watch the paper feed and listen to the bolt behavior—partial retraction suggests the date was close but the shift ID (or checksum) is wrong; adjust one variable at a time.
+Nolan (Caution): Buy a breath: shove debris into the corridor seam, damp cloth over vents, and keep the Order guessing—seconds matter.
+
+Decision Point
+
+Alex: Make a second keypad attempt using a different “AUTH DATE” convention (Julian day / YYMMDD) while keeping the same shift ID—minimize variables.
+Mila: Take over the slot—manually tension the paper strip and time the feed while Alex inputs, trying to satisfy whatever mechanical cadence the reader expects.
+Nolan: Leave the rear guard for a moment to help physically brace the hatch and block smoke with improvised seals, then return to the choke point.
+Alex & Mila: Coordinate a single, deliberate second attempt—Alex changes only the shift ID while Mila monitors bolt movement and paper stamping for immediate feedback.
+
+What will you do?

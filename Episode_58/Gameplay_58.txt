@@ -1,0 +1,60 @@
+Decision Point
+
+Nolan: Drop from the vent now—go hands-on to stop the torch-bearer before fire hits the seam.
+Mila: Trigger a second, harsher pressure “cough” to try to break their leverage—risking noise and structural strain.
+Alex: Use the checklist language as a blade—shout “CONTAINMENT PROTOCOL—STAND CLEAR\!” and attempt to freeze them with procedure and fear.
+Nolan: Stay hidden and relocate to another vent—set up a better angle for a silent takedown or a tool-snatch.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:43:46 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan drops.
+The vent gives with a soft metallic sigh as he palms it free and lets his weight pour down in one controlled spill—boots to concrete, knees bent, breath swallowed. The corridor’s air is stale and sharp, tasting of dust and old ozone, lantern-light flickering like wounded neon across the Analog Order’s backs.
+The torch-bearer is closest—glass bottle in one hand, cloth wick in the other. He’s half-turned, confused by the door’s sudden flex and the jammed pry angle.
+Nolan moves before thought can catch up.
+He crosses the last two steps in silence and clamps a forearm across the zealot’s throat from behind, dragging him back into Nolan’s shadow. The bottle sloshes; the cloth flutters. Nolan pins the wrist first—*no fire, no spill*—then twists the bottle-hand down toward the floor.
+The zealot gurgles, boots scraping, trying to stomp a heel back into Nolan’s shin.
+At the chamber door, the other two Order zealots jerk around—lantern swinging wide, throwing their faces into harsh relief: ash-streaked scarves, eyes bright with doctrine and panic.
+“INTRUDER—” one starts.
+Nolan snaps the torch-bearer’s elbow across his own hip with a tight, practiced wrench. The bottle drops—caught against Nolan’s thigh, then guided down so it doesn’t shatter.
+No flame. No Molotov. Just a muffled whimper and the heavy, ugly realization in the corridor: the Order can’t burn what it can’t light.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat already at 5: Kill-on-sight; anomaly remains 1: Static)*
+thread*milestones:* *none (clues unchanged: mapauth 0 | locconf 0 | accessconf 0)*
+fail_forward: not invoked *(successful silent takedown; threat reduced)*
+
+State Machine (Tracked)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅ *(chamber held; breach delayed)*
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+The corridor hangs on a knife-edge.
+One zealot abandons the pry bar and rushes Nolan, swinging a short iron cudgel—more tool than weapon, but heavy enough to crack bone. The other backs up two paces, lantern raised, trying to get a clean look at Nolan’s face as if recognition could turn fear into certainty.
+Inside the chamber, Mila feels the change through the door: the pressure on the seam eases for the first time in minutes. Alex’s eyes flick to the checklist—*SEAL OUTER*—as if words can become locks.
+And under it all, that bunker-born static presses harder, like the walls are tuning themselves to the violence.
+
+Approach Hooks
+
+Nolan (Combat/Caution): Use the torch-bearer as a shield and the bottle as leverage—disarm fast, then retreat back into the crawl before they can surround you.
+Mila (Engineering): Use the brief lull to crank the wheel and engage any secondary latch—turn Nolan’s seconds into a real seal.
+Alex (Diplomacy/History): Shout decon protocol through the door—“CONTAMINATION BREACH”—to force hesitation and split their coordination.
+
+Decision Point
+
+Nolan: Finish the corridor fight quickly—use the torch-bearer as cover, disarm the cudgel-rusher, and shove both zealots back from the door.
+Mila: Use the lull to hard-seal the chamber—engage any secondary latch and prepare another controlled pressure “cough” if they reapply the pry bar.
+Alex: Attempt a protocol bluff at full volume—invoke “containment violation” and “decon purge” to make them retreat from the seam.
+Nolan: Grab the lantern and retreat into the crawl—deny them light and force them to regroup blind.
+
+What will you do?

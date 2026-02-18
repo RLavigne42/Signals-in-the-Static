@@ -1,0 +1,62 @@
+Decision Point
+
+Nolan: Spin the SPINE SHUTTER — MANUAL handwheel now—seal the ladder route, then sprint Service Corridor B to loop back toward Mila and Alex from behind the breach.
+Mila: Hold the chamber as long as she can—use pressure control to keep the door from “popping,” trusting Nolan to find a manual interior route.
+Alex: Risk shouting a single instruction through the hatch—coordinate a timed move so Nolan throws the shutter exactly when Mila vents, maximizing confusion for the Order.
+
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 05:39:20 UTC---model: gpt-5.2---temp: 0.70
+
+Threshold | Recap
+
+Nolan grabs the only kind of advantage the bunker still respects: mechanical certainty.
+He plants his boots in the junction, wraps both hands around the flaking wheel marked SPINE SHUTTER — MANUAL, and heaves. Rust protests. Old grease that isn’t there anymore *should* have been the mercy—without it, the wheel grinds like a vinyl record dragged under a needle.
+One turn. Two.
+The static in his teeth spikes—sharp as biting foil—then steadies into a low, steady pressure as the shutter begins to slide somewhere inside the concrete throat.
+Behind him, up the ladder shaft, the distant pry-work and voices blur—then dampen, as if someone threw a thick blanket over the sound.
+A final quarter-turn and the shutter *seats* with a heavy, satisfying THUNK that travels up Nolan’s arms.
+The ladder route is sealed.
+Jessa flinches at the sound, then nods once, grim. “Good. Now they can’t drop in on you.”
+But the thought hits like a cold nail: Mila and Alex are still up there, on the other side of a door being bullied open.
+Nolan doesn’t waste breath on regret. He pivots toward SERVICE CORRIDOR B—the only line left that might loop him back inside the bunker’s ribs.
+
+Reactivity
+
+meter_breakpoints: none newly triggered *(heat already at 5: Kill-on-sight; anomaly remains 1: Static)*
+thread_milestones: none *(clues unchanged; no tier reached)*
+fail_forward: not invoked *(action succeeded; shutter sealed)*
+
+State Machine (Directive Tracking)
+
+current_step: 10 — Threshold
+checkpoints: Sealed ✅
+clues: map*auth 0 | loc*conf 0 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Static)
+heat: 5 (Kill-on-sight)
+supplies: 0
+
+---
+
+Service Corridor B is a long, low throat of concrete and peeling paint, lit by nothing but Nolan’s weak, angled beam and the occasional reflective strip that still remembers it’s supposed to be seen. The air tastes like iodine and dust, with a faint sweet rot of old vinyl insulation. Every footfall comes back as a second footfall—delayed, wrong—like the bunker is practicing your rhythm.
+Halfway down, a steel door sits inset on the right: ENV. LOCK / DECON again, stenciled twice, as if the place wanted no mistakes. A viewing slit shows only darkness beyond.
+Far ahead, Corridor B bends left toward a muffled echo of strain—metal groaning somewhere above and forward. Not the clean sound of a mechanism. The ugly sound of people forcing something that doesn’t want to open.
+Jessa keeps close, hands visible, whispering fast. “There’s usually a maintenance bypass—crawl duct or service hatch—near decon. If we can get behind the chamber wall, you can hit them from the inside. Or… you can get your friends out through decon if it connects.”
+The static in Nolan’s teeth rises and falls with each step, like he’s walking across an invisible field.
+
+Approach Hooks
+
+Nolan (Stealth/Caution): Use the corridor’s shadows and echoes—move silent, find the maintenance bypass near DECON, and flank the breach point without announcing yourself.
+Mila (Engineering): If Nolan can reach a manual pressure wheel or latch in DECON, Mila can be guided (by shouted timing through vents/ducts) to use a pressure shift to jam the outer door’s pry angle for a few precious seconds.
+Alex (History/Diplomacy): Alex can attempt to *talk*—if Nolan finds a speaking grille or service intercom (even dead), Alex can use procedure language (“Authorized maintenance override”) to sow doubt or delay among the Order.
+
+Decision Point
+
+Nolan: Slip to the ENV. LOCK / DECON door first—check for a maintenance bypass or internal route that could extract Mila and Alex without meeting the Order head-on.
+Nolan: Push down SERVICE CORRIDOR B toward the groaning metal—attempt a stealth flank and hit the Order from behind at the breach point.
+Mila: Hold the chamber and prepare a timed pressure “cough”—wait for Nolan’s signal (knock-pattern through ductwork) to disrupt the Order’s pry-work.
+Alex: Use the binder and procedure voice—attempt to bluff the Order into hesitation (“Containment protocol—stand down”) while Mila keeps the seal from popping.
+
+What will you do?

@@ -1,0 +1,43 @@
+Your Choices
+Nolan: Lead a quiet exit through the crowd—use body language and misdirection to slip the trio out before the questions turn into suspicion.
+Mila: Ask permission to step to a back room and sketch the bearing + rail note onto a sturdier medium (and listen for that static source while you do).
+Alex: Stay one more minute—thank the attendant publicly and perform a “vibe” story for nearby Nostalgists to frame your Oracle visit as harmless devotion, not a data grab.
+What will you do?
+user
+3
+assistant
+---timestamp: 2026-01-10 04:41:46 UTC---model: gpt-5.2---temp: 0.70---
+Machine Oracle | Recap
+Alex stays—just long enough to turn scrutiny into belonging.
+He steps out of the side chamber with the folded dot-matrix strip tucked away like a prayer, then raises his voice—not loud, not performative, just confident—so the nearest Nostalgists can hear without it sounding like a plea.
+“Hey,” he says, nodding toward the attendant with genuine respect. “Your Oracle’s still breathing. That’s not luck—that’s care.”
+A few heads turn. A girl in fingerless gloves pauses mid-sip from a dented canteen. Someone at a Galaga cabinet leans back, curious.
+Alex continues, letting the words land like a slow synth line. “People think the eighties were neon and noise. But the real magic was simpler: somebody hit record because they thought a moment mattered. Somebody kept a thing running because they thought a memory mattered.”
+He taps his chest once. “That’s the whole vibe. Not the plastic. Not the pose. The keeping.”
+The attendant’s posture shifts—subtle, protective. They lift their broom handle like a staff and call out, half-annoyed, half-proud: “Oracle time’s done. Show’s over. Go feed a cabinet.”
+The room exhales. The whisper-thread that had been tightening—who are they, why were they back there—loosens into something safer: oh, they’re just devotees.
+Nolan uses the moment to drift a step left, placing his body between the trio and the main entrance sightline. Mila keeps her hands still, but her eyes keep scanning—wiring, corners, faces.
+Then it happens: at the curtain of cassette ribbons near the entrance, a pair of strangers appear—too plain, too clean, no patches, no glitter, no tokens. Their gaze doesn’t wander the way a tourist’s would. It targets.
+Nolan catches it first. A micro-nod. A silent warning.
+Not a raid. Not yet. Just Observation—the kind that comes before fire.
+State Machine
+current_step: 3 — Static on the Line
+checkpoints: Inside, Coords, Bearing
+clues: mapauth 0 | locconf 2 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1
+heat: 1 (Breakpoint reached → Observation.)
+supplies: 0
+Reactivity
+heat 1 breakpoint triggered: Observation.
+Unaffiliated eyes (or Analog Order scouts) have clocked the trio’s presence and interest in the Oracle.
+The attendant leans close to Alex, voice suddenly thin. “You did a good thing,” they whisper. “Now do a smart thing. Don’t let them follow you out.”
+Mila’s ear tilts, like she’s listening to a ghost station. “That static earlier… it’s not just the Oracle. Something in this district is bleeding carrier tone.”
+Outside these walls, the world is dust and silence. Inside, it’s neon and noise—but somewhere between them is a line you can trace, if you’re brave or foolish enough.
+Approach Hooks
+Control the exit: Leaving by the main door makes you predictable; leaving like locals do makes you invisible.
+Triangulate without gear-flashing: Mila can “listen” with minimal hardware—use environment (metal beams, signage, old intercom lines) to find direction.
+Turn watchers into background: A short, casual interaction can force observers to either engage (risking exposure) or back off.
+Your Choices
+Nolan: Shadow the observers from inside—blend into the cabinet rows, get close enough to overhear who they answer to, then peel away.
+Mila: Use the arcade’s own wiring as a crude antenna—follow the faint carrier shiver toward its strongest point and triangulate the source without stepping outside yet.
+Alex: Approach the observers with a smile—use diplomacy and vibe-talk to “welcome” them, forcing them to improvise a cover story while you read their tells.
