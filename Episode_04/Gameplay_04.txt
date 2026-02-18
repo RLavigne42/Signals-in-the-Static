@@ -1,0 +1,58 @@
+Your Choices
+Alex: Offer a careful story and a question—use diplomacy and 80s lore to convince the attendant you’re worthy of a single “clean ask” without paying extra.
+Mila: Inspect the Oracle’s wiring—use engineering to stabilize the machine and earn access, even if it means touching a system everyone treats like sacred.
+Nolan: Work the room—quietly barter with nearby Nostalgists for “Oracle tokens” or favors, keeping your relic hidden while you learn who really controls access.
+What will you do?
+user
+1
+assistant
+---timestamp: 2026-01-10 04:39:25 UTC---model: gpt-5.2---temp: 0.70---
+Machine Oracle | Recap
+Alex chooses the cleanest weapon he owns: a story told like a cassette you’ve rewound a hundred times—creased, warm, and true.
+He steps up to the glitter-cheeked attendant with the broom-handle bar across the stool and nods toward the denim-draped cabinet. The Machine Oracle hums under its tarp, a low, patient vibration—like a CRT warming its bones.
+“We’re not here to strip-mine your shrine,” Alex says, voice soft enough to fit the room. “We’re here because the old world left breadcrumbs, and someone—someone like you—kept the oven hot.”
+The attendant’s eyes narrow, measuring him. Around you, the arcade’s noise washes in: coin-chimes, synth pulses, the sweet burn of ozone from overworked transformers.
+Alex slides one hand into his coat and brings out only what’s safe: not the map, not the laptop—just a creased cassette J-card, blank on one side, handwritten on the other with tidy block letters: SIDE A / SIDE B. A prop, a metaphor, an offering without being a relic.
+“Let me ask one clean question,” he continues. “And I’ll pay clean: a truth. A story you can repeat when you want the room to listen.”
+The attendant’s broom handle lowers an inch. “Truth costs,” they say. “But I like your tone. One ask. No digging. No second tries.”
+They pull the tarp back.
+The Oracle’s screen flickers to life—green phosphor, crawling scanlines. A keyboard clacks as the attendant types a ritual prompt. Static snaps once, sharp as tearing Velcro.
+Mila feels it too: a thin, wrong shiver in the air—like a radio between stations. Nolan shifts his stance to keep the entrance in his peripheral, watching for anyone watching you.
+Alex sits. The stool squeaks. The cabinet’s fan whines like an old cassette deck chewing tape.
+On-screen:
+ASK CLEAN.
+PAY CLEAN.
+Alex asks, carefully: “This map—military ink, pre-Disconnect. Where does it actually point?”
+The Oracle answers in its own language: a stuttering printout from a side-mounted dot-matrix unit. The paper feeds with a rasping scream, letters punching through like tiny gunfire.
+Then—halfway through—the printer catches. The screen jitters. A hard snap of static pops in the chamber.
+The attendant curses under their breath. “It does that when people ask hungry questions.”
+They yank the paper free. What you get is… usable, but scorched at the edges—like someone held it too close to a candle.
+Result (Fail-Forward applied for Step 2 objective “Extract data”):
+You do get a partial location clue, but it’s compromised.
+The torn printout shows:
+A rough region name: “SUNDOWN RIDGE” (clear)
+A bearing note: “EAST OF THE GLASS” (clear)
+A third line—numbers—burned into illegibility.
+Mila leans in, eyes tracking the charred digits. “Those were coordinates,” she mutters. “Or something pretending to be.”
+Nolan’s head tilts. “And now someone knows we asked.”
+Because from the main floor, you hear it: a sudden hush ripple, then a whisper-thread moving through the crowd like a dropped needle on vinyl—“Oracle spat paper.”
+Attention is a currency here. And it spends both ways.
+State Machine
+current_step: 2 — Machine Oracle
+checkpoints: Inside
+clues: mapauth 0 | locconf 1 | access_conf 0
+meters: cond stable | relic 1 | anomaly 1 (Breakpoint: Static.)
+heat: 0
+supplies: 0
+Reactivity Triggers
+anomaly reached 1 → Event: Static.
+The Oracle’s output came with a radio-sour aftertaste. Mila can feel a faint carrier tone that shouldn’t exist in a dead world.
+Approach Hooks
+Salvage the burn: Charred printouts often leave impressions on the next sheet; a careful rub or graphite pass can resurrect digits.
+Lean into the vibe: Nostalgists respect “clean asks.” If you treat the Oracle like a person, not a machine, doors open.
+Watch the room: Whisper networks move fast; if Analog Order ears are anywhere nearby, they’ll learn you touched something sacred.
+Your Choices
+Mila: Try a forensic recovery—use pencil rub/pressure tracing and a quick mechanical tweak on the dot-matrix to coax the next feed to echo the missing digits.
+Alex: Pay the promised “truth”—tell the attendant a compelling, specific story (real names, real loss) to earn one more controlled attempt without breaking the ritual.
+Nolan: Cut the spotlight—pull the trio away from the Oracle chamber and into the crowd, then quietly question regulars about “Sundown Ridge” and “East of the Glass.”
+What will you do?
