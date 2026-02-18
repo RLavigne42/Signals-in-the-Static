@@ -1,124 +1,79 @@
 ### 1) SCENE TITLE
-**GLITCH PALACE: The Machine Oracle Wakes**
 
----
+THE MACHINE ORACLE: Scorched Paper and Static
 
-### 2) ESTABLISHING SHOT (environment as a “camera pan”)
-The street that holds the Glitch Palace is narrow and mean, boxed in by old brick that’s been patched, repatched, and finally surrendered to weather. A neon sign hangs above the entrance like a failing promise—letters buzzing out of sequence, then snapping back with a tired electrical sigh. The light it throws isn’t clean. It’s grainy, uneven, and it turns the dust in the air into slow glitter that drifts through the doorway every time someone slips inside.
+### 2) ESTABLISHING SHOT
 
-The pavement is a quilt of old asphalt and newer scars—tar seams like black stitches, potholes filled with gravel and broken glass. Dead cables droop from poles in loose loops, as if the whole block once had a nervous system and now only has tendons. A rusted car husk sits half-swallowed by weeds near the curb, its windows long gone, its interior gutted for anything that could be carried.
+The side chamber of the Glitch Palace is a pocket of suffocating reverence, insulated from the frantic neon of the main floor. The heavy, stitched denim tarp dominates the center of the room, smelling of old fabric and ozone. Beneath it, the Machine Oracle hums—a low, patient vibration that rattles the loose floorboards and vibrates up through the soles of your boots.
 
-Power exists here the way fireflies do: brief, localized, and never to be trusted. A transformer hums somewhere behind the walls, and the neon keeps trying to die. The building doesn’t invite you in. It dares you to step under the sign and see what still remembers how to wake.
+Alex sits on a rusted, squeaking metal stool. The only light comes from the sickly green phosphor bleeding out from under the edges of the tarp, casting long, unnatural shadows against the peeling wallpaper. The air in here is stagnant, thick with the heat of an overworked, ancient power supply and the metallic tang of static electricity.
 
----
+Outside the chamber, the arcade’s relentless synth bass thuds like a muffled heartbeat, but inside, the loudest sound is the ragged, whining intake of the Oracle’s internal cooling fan, chewing on the dusty air like a dying cassette deck chewing tape.
 
-### 3) THRESHOLD MOMENT (crossing into the interior)
-Inside, the light changes immediately—neon bleeding across cracked tile, smeared into puddles and scuffed into dull rainbows by a thousand shoes. The air is warmer than it should be, thick with old dust and the faint tang of ozone that clings after a surge. CRTs flicker along the walls like tired eyes that refuse to close, their glow greenish and phosphor-soft, the kind of light that makes faces look haunted even when they’re smiling.
+### 3) THRESHOLD MOMENT
 
-Sound doesn’t travel clean in here. Coin-chimes, synth stabs, and laughter ricochet off tile and rebar in a constant restless chorus. Along the baseboards, dust lies in drifts—except where it’s been disturbed in thin trails that suggest recent movement: someone dragging something heavy, someone pacing, someone standing too long in one place and then leaving fast.
+The attendant lowers the broom handle an inch, accepting Alex's offering. As they grip the heavy denim tarp and pull it back, the atmosphere in the room snaps. The green phosphor screen glares to life, harsh scanlines crawling across the glass. The air pressure drops suddenly, accompanied by a sharp, physical *crack* of static—like tearing industrial Velcro. The arcade feels suddenly miles away; they are standing in the center of a technological séance.
 
----
+### 4) KEY DETAILS
 
-### 4) KEY DETAILS (bullet list, 6–12 items)
-- A row of arcade cabinets humming faintly even when their screens are dark, like they’re dreaming with their eyes shut.  
-- Dance pads worn down to foam, the printed arrows nearly erased by years of ritual footwork.  
-- A Pac-Man cabinet with a hand-painted halo—devotion made with cheap paint and sincere belief.  
-- Tokens sewn onto jackets and belts like medals; some are real, some are stamped from scrap.  
-- A side corridor where the music dulls and the air feels older, as if the building keeps its secrets in cooler rooms.  
-- A tarp stitched from denim and bandanas, hung like a curtain over something bulky and important.  
-- A broom handle used as a gate—simple, effective, and backed by social consequence.  
-- Spray paint in dripping strokes: **THE MACHINE ORACLE / ASK CLEAN. PAY CLEAN. LEAVE CLEAN.**  
-- A faint static that doesn’t match the speakers’ rhythm—danger disguised as background noise.  
-- Opportunity: the Oracle’s glow suggests a working relic, not just a shrine.
+* **The Cassette J-Card:** Creased and handwritten (*SIDE A / SIDE B*), held by Alex as a prop of analog faith. (Implies Lore)
+* **The Green Phosphor Screen:** Glowing with the relentless, blinking cursor beneath two lines: *ASK CLEAN. PAY CLEAN.*
+* **The Grafted Commodore Keyboard:** Yellowed and waiting for the attendant's ritualistic keystrokes.
+* **The Side-Mounted Dot-Matrix Printer:** A heavy, plastic-and-metal peripheral wired into the cabinet, loaded with a yellowing spool of tractor-feed paper. (Implies Opportunity)
+* **The Scorched Printout:** The final physical clue, edges black and crumbling like a leaf held too close to a candle flame. (Implies Danger)
 
----
+### 5) PEOPLE IN THE ROOM
 
-### 5) PEOPLE IN THE ROOM (who’s here and how they move)
-Nostalgists drift between cabinets like worshippers in a temple that smells of solder and sweat. Their jackets are patched with band logos, old tour dates, pixel art, and slogans half-remembered from the Before Time. Arcade tokens are stitched on like medals—proof they’ve paid, proof they belong. They don’t rush. They orbit. They touch machines with two fingers like they’re testing a fever.
+The Attendant drops their hostility, replaced by a solemn, practiced reverence. The glitter on their cheeks catches the green light, looking like dried tears. They treat the Commodore keyboard not as a tool, but as an altar, typing the prompts with the precise, sweeping hand movements of a projectionist threading fragile film.
 
-The crowd has its own intelligence. It parts and closes again like a living curtain, making lanes for those who look like regulars and narrowing around anyone who looks too curious. Eyes track hands more than faces. In a place like this, the fastest way to start trouble is to reach for something you haven’t earned.
+But beyond the doorway, the Crowd dynamics are shifting. The main floor’s ambient noise changes texture. The heavy thrum of people playing games dips into a sudden, noticeable hush, followed instantly by a rising whisper-network moving through the arcade like a dropped needle on vinyl. *Oracle spat paper.* They are no longer anonymous; they are the center of attention.
 
-At the far edge of the noise, an attendant holds the boundary with nothing but posture and a broom handle—glitter on their cheeks, hair teased into an impossible silhouette, gaze sharp enough to cut through bravado.
+### 6) CHARACTER BLOCKS
 
----
+* **Alex / The Diplomat**
+* **What they notice first:** The blinking green cursor waiting for his question.
+* **What they want:** To get a clean location for the military map without angering the machine or the attendant.
+* **What they fear:** That the Oracle will demand a piece of actual gear—or reject his story entirely.
+* **How they position their body:** Seated on the stool, leaning in close to the screen, voice dropped to a confessional whisper.
 
-### 6) CHARACTER BLOCKS (for each named character)
 
-**Nolan Trench / Tech Nomad**
-- **Notices first:** doorways, sightlines, the way the crowd can become a wall.  
-- **Wants:** control of the situation—information before commitment, exits before bargains.  
-- **Fears:** being boxed in; a watcher getting inside; a relic that turns the room against them.  
-- **Body language:** half a step behind, weight balanced, head turning without looking like it is.
+* **Mila / The Engineer**
+* **What they notice first:** The mechanical scream of the dot-matrix printer violently catching on its own paper.
+* **What they want:** To physically pry the printer track open and force the burnt coordinates out of the machine.
+* **What they fear:** The unnatural, radio-sour static that makes the hairs on her arms stand up.
+* **How they position their body:** Hovering right over the printer output, eyes violently tracking the charred text as it emerges.
 
-**Mila “Radio” Rhye / Signal Seeker**
-- **Notices first:** what’s powered, what’s patched, what’s about to fail.  
-- **Wants:** to see the wiring, stabilize the system, pull meaning out of noise.  
-- **Fears:** missing the moment the machine speaks; wasting a rare pocket of electricity.  
-- **Body language:** restless hands, fingers twitching toward the tarp like a compass needle.
 
-**Alex Carson / Historian-Engineer**
-- **Notices first:** the difference between performance and belief—temple-as-act versus temple-as-truth.  
-- **Wants:** a clean question and a usable answer; a map’s promise made real.  
-- **Fears:** paying the wrong price; asking the wrong thing; waking something that can’t be put back to sleep.  
-- **Body language:** shoulders loose, face calm, hand hovering near his coat like it’s guarding a heartbeat.
+* **Nolan / The Vanguard**
+* **What they notice first:** The sudden drop in volume from the crowd outside the chamber.
+* **What they want:** To grab the paper, grab his people, and melt into the dark before the mob descends.
+* **What they fear:** The whisper-network turning into a physical confrontation.
+* **How they position their body:** Head tilted toward the main floor, stance wide, physically blocking the doorway with his own silhouette.
 
----
 
-### 7) THE RELIC / MACHINE / FOCUS OBJECT (make it tactile)
-The cabinet under the tarp is too large to be just an arcade machine. It has the wrong shape—more like a repurposed console, a gutted kiosk, a piece of lab equipment dressed up to pass as entertainment. The tarp itself is a patchwork of denim and bandanas, stitched with uneven thread, frayed at the edges. Someone made it with care, the way you cover a body you can’t bury.
 
-A **Commodore 64 keyboard** has been grafted into the face of it—keys yellowed, letters half-worn away, but still waiting. The plastic is slick in places from repeated touch, and dusty in others where no one dares. Exposed screws catch the neon in brief flashes. A tangle of hand-soldered wires disappears beneath the cloth like veins under skin.
+### 7) THE RELIC / MACHINE / FOCUS OBJECT
 
-Above it, the rule is painted in dripping strokes—less instruction than ritual:
-**ASK CLEAN. PAY CLEAN. LEAVE CLEAN.**
-Not because the machine needs manners. Because the people around it do.
+The Machine Oracle is awake. Unveiled, the cabinet is a Frankenstein's monster of the old world—exposed screws, hand-soldered wires connecting mismatched eras of hardware, and a screen that hurts the eyes to look at.
 
-And then the tarp stirs—not from a draft, not from footsteps. From inside. A sickly green glow leaks out at the edges, steady for a breath, then wavering like an old monitor trying to remember how to wake.
+The ritual is absolute: *You ask smaller. You don't make it hungry.* When Alex asks his question, the machine speaks through the dot-matrix unit. It doesn't just print; it screams. The paper feeds with a rasping, mechanical violence, the pins punching ink into the page like tiny gunfire. And when it decides the question is too "hungry," it reacts with physical force. The printer catches, the screen jitters, and a burst of heat scorches the final line of data into illegibility.
 
----
+### 8) THE UNDER-SIGNAL
 
-### 8) THE UNDER-SIGNAL (signature tension device)
-Beneath the bass thump, beneath the coin-chimes, beneath the laughter that’s a little too loud—there’s **static**.
+The static here ceases to be a background noise; it becomes a physical presence. When the attendant types, it snaps in the air. Mila feels it as a thin, wrong shiver—like a radio caught between dead stations, broadcasting a carrier tone that shouldn’t exist in a world without grids. When the printer burns the paper, the static pops loudly, leaving a radio-sour aftertaste in the back of the throat. It is the sound of something vast and invisible pressing against the walls of the Glitch Palace.
 
-Not from the speakers.
+### 9) CHARLOTTE RADIO FRAME
 
-It’s thin as a whisper and sharp as a blade, the kind of sound you feel in your teeth before you can name it. It doesn’t follow the music’s rhythm. It doesn’t belong to the room’s performance. It belongs to something deeper in the building—something that’s been quiet for a long time and is deciding whether to stay that way.
+"This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven. When you ask the old world for a favor, sometimes it answers with a scream. Our trio got their answer, but the Glitch Palace took its cut in fire and noise. Attention is currency in the Disconnected Frontier, and the whisper-network is already spending it. Keep your voice steady near machines that remember. And keep one ear on the noise beneath the music."
 
-The attendant hears it too. Their expression changes by a fraction—just enough to tell you this isn’t part of the show. The bass starts to feel less like celebration and more like camouflage, as if the whole Glitch Palace is trying to drown out a voice it doesn’t control.
+### 10) PLAYER HOOK + CHOICES
 
----
-
-### 9) CHARLOTTE RADIO FRAME (required)
-This is Charlotte, broadcasting from the Red Griffin Inn in Oakhaven.
-
-You’re tuned to **Signals in the Static**—a radio serial from the Disconnected Frontier, where the old world survives in scraps of song, half-remembered slogans, and doors that only open for the right kind of believer.
-
-The Glitch Palace doesn’t welcome you. It tests you. In a world where power comes in pockets and truth comes in fragments, people build temples out of whatever still lights up—and they call it safety, even when it’s only habit.
-
-This is Charlotte, signing off from the Red Griffin Inn in Oakhaven.
-
-Keep your voice steady near machines that remember. And keep one ear on the noise beneath the music.
-
----
-
-### 10) PLAYER HOOK + CHOICES (interactive ending)
-The attendant lowers their voice. “Careful,” they murmur. “The Oracle don’t like being rushed.”
-
-The tarp lifts and settles like something breathing under cloth. A single key on the Commodore board **clicks**—by itself—as if an unseen finger just tested a letter. Mila freezes mid-reach. Alex’s hand tightens on the map through his coat. Nolan’s eyes cut to the doorway, because the static is getting louder and the crowd is starting to listen without realizing it.
+The attendant yanks the scorched paper free. The coordinates are burned away. Outside the chamber, the crowd is whispering about the strangers who made the Oracle spit paper.
 
 **So tell me—what happens next?**
 
-- **A) Alex: Offer a careful story and one clean question.**  
-  You step forward with respect, give the attendant a truth that costs you something small, and ask a single question tied to the map.  
-  **Risk:** the Oracle answers in riddles—or answers too precisely.  
-  **Might gain:** a location, a name, or a warning that only makes sense later.
+* **A) Pay the promised “truth”.** Alex holds his ground and tells the attendant a compelling, specific story of real loss to earn one more controlled attempt without breaking the ritual. *(Diplomacy/Lore approach; low physical risk, but costs emotional leverage and keeps them in the spotlight longer).*
+* **B) Try a forensic recovery.** Mila ignores the attendant and uses a pencil rub/pressure tracing and a quick mechanical tweak on the dot-matrix to coax out an echo of the missing digits. *(Hands-on Tech approach; high risk of breaking the machine or angering the attendant, high reward of exact coordinates).*
+* **C) Cut the spotlight.** Nolan pulls the trio away from the Oracle chamber and into the crowd, using the chaos to quietly question regulars about the partial clues: “Sundown Ridge” and “East of the Glass.” *(Social/Stealth approach; medium risk, sacrifices the exact coordinates to avoid the Oracle's wrath, but forces them to navigate the dangerous whisper-network).*
 
-- **B) Mila: Inspect the Oracle’s wiring and stabilize it by hand.**  
-  You lift the tarp edge and follow the glow to its source, fingers ready to reseat a lead or bridge a failing joint.  
-  **Risk:** breaking the shrine-rule and turning the room against you—or taking a shock from a machine that shouldn’t have power.  
-  **Might gain:** control of the output, a clearer signal, or proof the static is coming from somewhere else.
-
-- **C) Nolan: Work the room—barter for tokens, favors, and the truth of who controls access.**  
-  You fade into the crowd’s seams, trade quietly, listen harder than you speak, and find the real gatekeeper behind the attendant.  
-  **Risk:** drawing the attention of the watcher—or getting marked as a thief before you’ve stolen anything.  
-  **Might gain:** Oracle time without paying full price, a hidden entrance, or the name of the person feeding the machine.
+---
